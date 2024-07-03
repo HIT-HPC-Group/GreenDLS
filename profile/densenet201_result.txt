@@ -1,0 +1,7290 @@
+INFO:root:memory frequency:9501,frequency:2100,batch_size:256
+
+INFO:root:avgtime: 169.4511ms
+
+INFO:root:avgenery: 190.6427mJ
+
+INFO:root:memory frequency:9501,frequency:2100,batch_size:128
+
+INFO:root:avgtime: 88.4754ms
+
+INFO:root:avgenery: 202.5399mJ
+
+INFO:root:memory frequency:9501,frequency:2100,batch_size:64
+
+INFO:root:avgtime: 46.9616ms
+
+INFO:root:avgenery: 218.3481mJ
+
+INFO:root:memory frequency:9501,frequency:2100,batch_size:32
+
+INFO:root:avgtime: 26.5728ms
+
+INFO:root:avgenery: 245.8000mJ
+
+INFO:root:memory frequency:9501,frequency:2100,batch_size:16
+
+INFO:root:avgtime: 15.7161ms
+
+INFO:root:avgenery: 273.8452mJ
+
+INFO:root:memory frequency:9501,frequency:2100,batch_size:8
+
+INFO:root:avgtime: 11.8496ms
+
+INFO:root:avgenery: 349.5350mJ
+
+INFO:root:memory frequency:9501,frequency:2100,batch_size:4
+
+INFO:root:avgtime: 10.9427ms
+
+INFO:root:avgenery: 551.9249mJ
+
+INFO:root:memory frequency:9501,frequency:2100,batch_size:2
+
+INFO:root:avgtime: 10.1987ms
+
+INFO:root:avgenery: 941.1487mJ
+
+INFO:root:memory frequency:9501,frequency:2100,batch_size:1
+
+INFO:root:avgtime: 9.6448ms
+
+INFO:root:avgenery: 1695.5523mJ
+
+INFO:root:memory frequency:9501,frequency:2040,batch_size:256
+
+INFO:root:avgtime: 171.4687ms
+
+INFO:root:avgenery: 197.3337mJ
+
+INFO:root:memory frequency:9501,frequency:2040,batch_size:128
+
+INFO:root:avgtime: 86.7114ms
+
+INFO:root:avgenery: 204.8325mJ
+
+INFO:root:memory frequency:9501,frequency:2040,batch_size:64
+
+INFO:root:avgtime: 46.8486ms
+
+INFO:root:avgenery: 218.6088mJ
+
+INFO:root:memory frequency:9501,frequency:2040,batch_size:32
+
+INFO:root:avgtime: 26.2749ms
+
+INFO:root:avgenery: 246.8472mJ
+
+INFO:root:memory frequency:9501,frequency:2040,batch_size:16
+
+INFO:root:avgtime: 15.7321ms
+
+INFO:root:avgenery: 274.6992mJ
+
+INFO:root:memory frequency:9501,frequency:2040,batch_size:8
+
+INFO:root:avgtime: 11.7722ms
+
+INFO:root:avgenery: 350.7747mJ
+
+INFO:root:memory frequency:9501,frequency:2040,batch_size:4
+
+INFO:root:avgtime: 10.8179ms
+
+INFO:root:avgenery: 549.5052mJ
+
+INFO:root:memory frequency:9501,frequency:2040,batch_size:2
+
+INFO:root:avgtime: 10.0222ms
+
+INFO:root:avgenery: 933.8528mJ
+
+INFO:root:memory frequency:9501,frequency:2040,batch_size:1
+
+INFO:root:avgtime: 9.7211ms
+
+INFO:root:avgenery: 1719.2156mJ
+
+INFO:root:memory frequency:9501,frequency:1980,batch_size:256
+
+INFO:root:avgtime: 166.4951ms
+
+INFO:root:avgenery: 200.9172mJ
+
+INFO:root:memory frequency:9501,frequency:1980,batch_size:128
+
+INFO:root:avgtime: 87.4851ms
+
+INFO:root:avgenery: 204.0512mJ
+
+INFO:root:memory frequency:9501,frequency:1980,batch_size:64
+
+INFO:root:avgtime: 47.4633ms
+
+INFO:root:avgenery: 219.9624mJ
+
+INFO:root:memory frequency:9501,frequency:1980,batch_size:32
+
+INFO:root:avgtime: 26.4379ms
+
+INFO:root:avgenery: 248.0217mJ
+
+INFO:root:memory frequency:9501,frequency:1980,batch_size:16
+
+INFO:root:avgtime: 15.6409ms
+
+INFO:root:avgenery: 273.8754mJ
+
+INFO:root:memory frequency:9501,frequency:1980,batch_size:8
+
+INFO:root:avgtime: 11.9870ms
+
+INFO:root:avgenery: 356.0966mJ
+
+INFO:root:memory frequency:9501,frequency:1980,batch_size:4
+
+INFO:root:avgtime: 10.5473ms
+
+INFO:root:avgenery: 537.9740mJ
+
+INFO:root:memory frequency:9501,frequency:1980,batch_size:2
+
+INFO:root:avgtime: 10.0957ms
+
+INFO:root:avgenery: 937.3870mJ
+
+INFO:root:memory frequency:9501,frequency:1980,batch_size:1
+
+INFO:root:avgtime: 9.7582ms
+
+INFO:root:avgenery: 1724.6830mJ
+
+INFO:root:memory frequency:9501,frequency:1920,batch_size:256
+
+INFO:root:avgtime: 171.2175ms
+
+INFO:root:avgenery: 198.3810mJ
+
+INFO:root:memory frequency:9501,frequency:1920,batch_size:128
+
+INFO:root:avgtime: 89.2093ms
+
+INFO:root:avgenery: 204.6279mJ
+
+INFO:root:memory frequency:9501,frequency:1920,batch_size:64
+
+INFO:root:avgtime: 46.4388ms
+
+INFO:root:avgenery: 216.1509mJ
+
+INFO:root:memory frequency:9501,frequency:1920,batch_size:32
+
+INFO:root:avgtime: 26.2309ms
+
+INFO:root:avgenery: 237.2023mJ
+
+INFO:root:memory frequency:9501,frequency:1920,batch_size:16
+
+INFO:root:avgtime: 15.7277ms
+
+INFO:root:avgenery: 263.8026mJ
+
+INFO:root:memory frequency:9501,frequency:1920,batch_size:8
+
+INFO:root:avgtime: 11.8546ms
+
+INFO:root:avgenery: 334.7268mJ
+
+INFO:root:memory frequency:9501,frequency:1920,batch_size:4
+
+INFO:root:avgtime: 10.2576ms
+
+INFO:root:avgenery: 499.3769mJ
+
+INFO:root:memory frequency:9501,frequency:1920,batch_size:2
+
+INFO:root:avgtime: 10.0797ms
+
+INFO:root:avgenery: 885.6978mJ
+
+INFO:root:memory frequency:9501,frequency:1920,batch_size:1
+
+INFO:root:avgtime: 9.7151ms
+
+INFO:root:avgenery: 1624.2858mJ
+
+INFO:root:memory frequency:9501,frequency:1860,batch_size:256
+
+INFO:root:avgtime: 166.4394ms
+
+INFO:root:avgenery: 192.5249mJ
+
+INFO:root:memory frequency:9501,frequency:1860,batch_size:128
+
+INFO:root:avgtime: 81.3297ms
+
+INFO:root:avgenery: 198.4450mJ
+
+INFO:root:memory frequency:9501,frequency:1860,batch_size:64
+
+INFO:root:avgtime: 47.2298ms
+
+INFO:root:avgenery: 204.1982mJ
+
+INFO:root:memory frequency:9501,frequency:1860,batch_size:32
+
+INFO:root:avgtime: 26.9786ms
+
+INFO:root:avgenery: 218.0000mJ
+
+INFO:root:memory frequency:9501,frequency:1860,batch_size:16
+
+INFO:root:avgtime: 16.3459ms
+
+INFO:root:avgenery: 242.6172mJ
+
+INFO:root:memory frequency:9501,frequency:1860,batch_size:8
+
+INFO:root:avgtime: 11.9847ms
+
+INFO:root:avgenery: 308.5393mJ
+
+INFO:root:memory frequency:9501,frequency:1860,batch_size:4
+
+INFO:root:avgtime: 10.0579ms
+
+INFO:root:avgenery: 451.5217mJ
+
+INFO:root:memory frequency:9501,frequency:1860,batch_size:2
+
+INFO:root:avgtime: 9.4783ms
+
+INFO:root:avgenery: 781.3642mJ
+
+INFO:root:memory frequency:9501,frequency:1860,batch_size:1
+
+INFO:root:avgtime: 9.5522ms
+
+INFO:root:avgenery: 1493.6518mJ
+
+INFO:root:memory frequency:9501,frequency:1800,batch_size:256
+
+INFO:root:avgtime: 164.4452ms
+
+INFO:root:avgenery: 189.7149mJ
+
+INFO:root:memory frequency:9501,frequency:1800,batch_size:128
+
+INFO:root:avgtime: 89.3162ms
+
+INFO:root:avgenery: 189.2702mJ
+
+INFO:root:memory frequency:9501,frequency:1800,batch_size:64
+
+INFO:root:avgtime: 46.9596ms
+
+INFO:root:avgenery: 190.0073mJ
+
+INFO:root:memory frequency:9501,frequency:1800,batch_size:32
+
+INFO:root:avgtime: 27.4848ms
+
+INFO:root:avgenery: 204.4108mJ
+
+INFO:root:memory frequency:9501,frequency:1800,batch_size:16
+
+INFO:root:avgtime: 16.2953ms
+
+INFO:root:avgenery: 225.6107mJ
+
+INFO:root:memory frequency:9501,frequency:1800,batch_size:8
+
+INFO:root:avgtime: 12.1118ms
+
+INFO:root:avgenery: 293.3796mJ
+
+INFO:root:memory frequency:9501,frequency:1800,batch_size:4
+
+INFO:root:avgtime: 10.5056ms
+
+INFO:root:avgenery: 447.5928mJ
+
+INFO:root:memory frequency:9501,frequency:1800,batch_size:2
+
+INFO:root:avgtime: 9.3428ms
+
+INFO:root:avgenery: 737.3519mJ
+
+INFO:root:memory frequency:9501,frequency:1800,batch_size:1
+
+INFO:root:avgtime: 9.6830ms
+
+INFO:root:avgenery: 1444.9224mJ
+
+INFO:root:memory frequency:9501,frequency:1740,batch_size:256
+
+INFO:root:avgtime: 166.5162ms
+
+INFO:root:avgenery: 184.5829mJ
+
+INFO:root:memory frequency:9501,frequency:1740,batch_size:128
+
+INFO:root:avgtime: 89.1561ms
+
+INFO:root:avgenery: 177.3455mJ
+
+INFO:root:memory frequency:9501,frequency:1740,batch_size:64
+
+INFO:root:avgtime: 48.3127ms
+
+INFO:root:avgenery: 180.3568mJ
+
+INFO:root:memory frequency:9501,frequency:1740,batch_size:32
+
+INFO:root:avgtime: 27.6365ms
+
+INFO:root:avgenery: 193.3522mJ
+
+INFO:root:memory frequency:9501,frequency:1740,batch_size:16
+
+INFO:root:avgtime: 16.4260ms
+
+INFO:root:avgenery: 213.8780mJ
+
+INFO:root:memory frequency:9501,frequency:1740,batch_size:8
+
+INFO:root:avgtime: 12.2055ms
+
+INFO:root:avgenery: 277.2580mJ
+
+INFO:root:memory frequency:9501,frequency:1740,batch_size:4
+
+INFO:root:avgtime: 10.5746ms
+
+INFO:root:avgenery: 426.0224mJ
+
+INFO:root:memory frequency:9501,frequency:1740,batch_size:2
+
+INFO:root:avgtime: 9.3616ms
+
+INFO:root:avgenery: 704.6933mJ
+
+INFO:root:memory frequency:9501,frequency:1740,batch_size:1
+
+INFO:root:avgtime: 9.2010ms
+
+INFO:root:avgenery: 1330.1232mJ
+
+INFO:root:memory frequency:9501,frequency:1680,batch_size:256
+
+INFO:root:avgtime: 171.4320ms
+
+INFO:root:avgenery: 174.1114mJ
+
+INFO:root:memory frequency:9501,frequency:1680,batch_size:128
+
+INFO:root:avgtime: 88.5647ms
+
+INFO:root:avgenery: 167.5544mJ
+
+INFO:root:memory frequency:9501,frequency:1680,batch_size:64
+
+INFO:root:avgtime: 47.3156ms
+
+INFO:root:avgenery: 169.2637mJ
+
+INFO:root:memory frequency:9501,frequency:1680,batch_size:32
+
+INFO:root:avgtime: 27.4173ms
+
+INFO:root:avgenery: 182.3781mJ
+
+INFO:root:memory frequency:9501,frequency:1680,batch_size:16
+
+INFO:root:avgtime: 17.0074ms
+
+INFO:root:avgenery: 207.7306mJ
+
+INFO:root:memory frequency:9501,frequency:1680,batch_size:8
+
+INFO:root:avgtime: 12.5056ms
+
+INFO:root:avgenery: 272.6681mJ
+
+INFO:root:memory frequency:9501,frequency:1680,batch_size:4
+
+INFO:root:avgtime: 10.6340ms
+
+INFO:root:avgenery: 417.1471mJ
+
+INFO:root:memory frequency:9501,frequency:1680,batch_size:2
+
+INFO:root:avgtime: 9.9414ms
+
+INFO:root:avgenery: 714.2753mJ
+
+INFO:root:memory frequency:9501,frequency:1680,batch_size:1
+
+INFO:root:avgtime: 9.0974ms
+
+INFO:root:avgenery: 1272.1682mJ
+
+INFO:root:memory frequency:9501,frequency:1620,batch_size:256
+
+INFO:root:avgtime: 164.0097ms
+
+INFO:root:avgenery: 168.9064mJ
+
+INFO:root:memory frequency:9501,frequency:1620,batch_size:128
+
+INFO:root:avgtime: 91.8895ms
+
+INFO:root:avgenery: 162.5812mJ
+
+INFO:root:memory frequency:9501,frequency:1620,batch_size:64
+
+INFO:root:avgtime: 48.1468ms
+
+INFO:root:avgenery: 163.6546mJ
+
+INFO:root:memory frequency:9501,frequency:1620,batch_size:32
+
+INFO:root:avgtime: 27.8049ms
+
+INFO:root:avgenery: 175.8260mJ
+
+INFO:root:memory frequency:9501,frequency:1620,batch_size:16
+
+INFO:root:avgtime: 17.6307ms
+
+INFO:root:avgenery: 204.3471mJ
+
+INFO:root:memory frequency:9501,frequency:1620,batch_size:8
+
+INFO:root:avgtime: 12.7719ms
+
+INFO:root:avgenery: 266.0775mJ
+
+INFO:root:memory frequency:9501,frequency:1620,batch_size:4
+
+INFO:root:avgtime: 10.8450ms
+
+INFO:root:avgenery: 404.3954mJ
+
+INFO:root:memory frequency:9501,frequency:1620,batch_size:2
+
+INFO:root:avgtime: 10.1084ms
+
+INFO:root:avgenery: 700.0650mJ
+
+INFO:root:memory frequency:9501,frequency:1620,batch_size:1
+
+INFO:root:avgtime: 9.5547ms
+
+INFO:root:avgenery: 1268.4491mJ
+
+INFO:root:memory frequency:9501,frequency:1560,batch_size:256
+
+INFO:root:avgtime: 177.6758ms
+
+INFO:root:avgenery: 161.0702mJ
+
+INFO:root:memory frequency:9501,frequency:1560,batch_size:128
+
+INFO:root:avgtime: 92.4304ms
+
+INFO:root:avgenery: 154.9736mJ
+
+INFO:root:memory frequency:9501,frequency:1560,batch_size:64
+
+INFO:root:avgtime: 50.1929ms
+
+INFO:root:avgenery: 160.2958mJ
+
+INFO:root:memory frequency:9501,frequency:1560,batch_size:32
+
+INFO:root:avgtime: 29.0647ms
+
+INFO:root:avgenery: 173.2466mJ
+
+INFO:root:memory frequency:9501,frequency:1560,batch_size:16
+
+INFO:root:avgtime: 17.5167ms
+
+INFO:root:avgenery: 196.8584mJ
+
+INFO:root:memory frequency:9501,frequency:1560,batch_size:8
+
+INFO:root:avgtime: 13.1100ms
+
+INFO:root:avgenery: 261.3458mJ
+
+INFO:root:memory frequency:9501,frequency:1560,batch_size:4
+
+INFO:root:avgtime: 10.7250ms
+
+INFO:root:avgenery: 390.6841mJ
+
+INFO:root:memory frequency:9501,frequency:1560,batch_size:2
+
+INFO:root:avgtime: 10.2253ms
+
+INFO:root:avgenery: 688.6103mJ
+
+INFO:root:memory frequency:9501,frequency:1560,batch_size:1
+
+INFO:root:avgtime: 9.8278ms
+
+INFO:root:avgenery: 1266.2362mJ
+
+INFO:root:memory frequency:9501,frequency:1500,batch_size:256
+
+INFO:root:avgtime: 171.2251ms
+
+INFO:root:avgenery: 159.2351mJ
+
+INFO:root:memory frequency:9501,frequency:1500,batch_size:128
+
+INFO:root:avgtime: 93.6009ms
+
+INFO:root:avgenery: 153.7386mJ
+
+INFO:root:memory frequency:9501,frequency:1500,batch_size:64
+
+INFO:root:avgtime: 50.0047ms
+
+INFO:root:avgenery: 156.5617mJ
+
+INFO:root:memory frequency:9501,frequency:1500,batch_size:32
+
+INFO:root:avgtime: 29.2449ms
+
+INFO:root:avgenery: 170.2860mJ
+
+INFO:root:memory frequency:9501,frequency:1500,batch_size:16
+
+INFO:root:avgtime: 17.9145ms
+
+INFO:root:avgenery: 194.7544mJ
+
+INFO:root:memory frequency:9501,frequency:1500,batch_size:8
+
+INFO:root:avgtime: 13.1187ms
+
+INFO:root:avgenery: 256.3741mJ
+
+INFO:root:memory frequency:9501,frequency:1500,batch_size:4
+
+INFO:root:avgtime: 11.1514ms
+
+INFO:root:avgenery: 395.2442mJ
+
+INFO:root:memory frequency:9501,frequency:1500,batch_size:2
+
+INFO:root:avgtime: 9.8767ms
+
+INFO:root:avgenery: 657.9781mJ
+
+INFO:root:memory frequency:9501,frequency:1500,batch_size:1
+
+INFO:root:avgtime: 9.5876ms
+
+INFO:root:avgenery: 1212.7048mJ
+
+INFO:root:memory frequency:9501,frequency:1440,batch_size:256
+
+INFO:root:avgtime: 182.9533ms
+
+INFO:root:avgenery: 153.2190mJ
+
+INFO:root:memory frequency:9501,frequency:1440,batch_size:128
+
+INFO:root:avgtime: 93.7074ms
+
+INFO:root:avgenery: 149.6634mJ
+
+INFO:root:memory frequency:9501,frequency:1440,batch_size:64
+
+INFO:root:avgtime: 51.5028ms
+
+INFO:root:avgenery: 155.7315mJ
+
+INFO:root:memory frequency:9501,frequency:1440,batch_size:32
+
+INFO:root:avgtime: 29.5291ms
+
+INFO:root:avgenery: 167.5706mJ
+
+INFO:root:memory frequency:9501,frequency:1440,batch_size:16
+
+INFO:root:avgtime: 18.2954ms
+
+INFO:root:avgenery: 193.9528mJ
+
+INFO:root:memory frequency:9501,frequency:1440,batch_size:8
+
+INFO:root:avgtime: 13.6036ms
+
+INFO:root:avgenery: 257.5146mJ
+
+INFO:root:memory frequency:9501,frequency:1440,batch_size:4
+
+INFO:root:avgtime: 11.0890ms
+
+INFO:root:avgenery: 384.4488mJ
+
+INFO:root:memory frequency:9501,frequency:1440,batch_size:2
+
+INFO:root:avgtime: 10.3285ms
+
+INFO:root:avgenery: 667.0501mJ
+
+INFO:root:memory frequency:9501,frequency:1440,batch_size:1
+
+INFO:root:avgtime: 9.8886ms
+
+INFO:root:avgenery: 1228.2078mJ
+
+INFO:root:memory frequency:9501,frequency:1380,batch_size:256
+
+INFO:root:avgtime: 179.8578ms
+
+INFO:root:avgenery: 149.5415mJ
+
+INFO:root:memory frequency:9501,frequency:1380,batch_size:128
+
+INFO:root:avgtime: 94.6546ms
+
+INFO:root:avgenery: 149.6561mJ
+
+INFO:root:memory frequency:9501,frequency:1380,batch_size:64
+
+INFO:root:avgtime: 51.6335ms
+
+INFO:root:avgenery: 153.9163mJ
+
+INFO:root:memory frequency:9501,frequency:1380,batch_size:32
+
+INFO:root:avgtime: 29.8826ms
+
+INFO:root:avgenery: 165.6877mJ
+
+INFO:root:memory frequency:9501,frequency:1380,batch_size:16
+
+INFO:root:avgtime: 18.8475ms
+
+INFO:root:avgenery: 194.3718mJ
+
+INFO:root:memory frequency:9501,frequency:1380,batch_size:8
+
+INFO:root:avgtime: 13.8125ms
+
+INFO:root:avgenery: 256.6603mJ
+
+INFO:root:memory frequency:9501,frequency:1380,batch_size:4
+
+INFO:root:avgtime: 11.0244ms
+
+INFO:root:avgenery: 377.4679mJ
+
+INFO:root:memory frequency:9501,frequency:1380,batch_size:2
+
+INFO:root:avgtime: 10.3136ms
+
+INFO:root:avgenery: 659.7151mJ
+
+INFO:root:memory frequency:9501,frequency:1380,batch_size:1
+
+INFO:root:avgtime: 9.8497ms
+
+INFO:root:avgenery: 1210.8948mJ
+
+INFO:root:memory frequency:9501,frequency:1320,batch_size:256
+
+INFO:root:avgtime: 182.0608ms
+
+INFO:root:avgenery: 147.6352mJ
+
+INFO:root:memory frequency:9501,frequency:1320,batch_size:128
+
+INFO:root:avgtime: 97.7505ms
+
+INFO:root:avgenery: 149.5198mJ
+
+INFO:root:memory frequency:9501,frequency:1320,batch_size:64
+
+INFO:root:avgtime: 53.1071ms
+
+INFO:root:avgenery: 154.5571mJ
+
+INFO:root:memory frequency:9501,frequency:1320,batch_size:32
+
+INFO:root:avgtime: 30.5283ms
+
+INFO:root:avgenery: 167.4447mJ
+
+INFO:root:memory frequency:9501,frequency:1320,batch_size:16
+
+INFO:root:avgtime: 18.8866ms
+
+INFO:root:avgenery: 193.1225mJ
+
+INFO:root:memory frequency:9501,frequency:1320,batch_size:8
+
+INFO:root:avgtime: 13.9424ms
+
+INFO:root:avgenery: 257.0840mJ
+
+INFO:root:memory frequency:9501,frequency:1320,batch_size:4
+
+INFO:root:avgtime: 11.5943ms
+
+INFO:root:avgenery: 392.5093mJ
+
+INFO:root:memory frequency:9501,frequency:1320,batch_size:2
+
+INFO:root:avgtime: 10.0629ms
+
+INFO:root:avgenery: 638.0497mJ
+
+INFO:root:memory frequency:9501,frequency:1320,batch_size:1
+
+INFO:root:avgtime: 9.8893ms
+
+INFO:root:avgenery: 1207.6547mJ
+
+INFO:root:memory frequency:9501,frequency:1260,batch_size:256
+
+INFO:root:avgtime: 190.6359ms
+
+INFO:root:avgenery: 151.0288mJ
+
+INFO:root:memory frequency:9501,frequency:1260,batch_size:128
+
+INFO:root:avgtime: 97.4923ms
+
+INFO:root:avgenery: 149.2157mJ
+
+INFO:root:memory frequency:9501,frequency:1260,batch_size:64
+
+INFO:root:avgtime: 54.1741ms
+
+INFO:root:avgenery: 156.8268mJ
+
+INFO:root:memory frequency:9501,frequency:1260,batch_size:32
+
+INFO:root:avgtime: 31.1985ms
+
+INFO:root:avgenery: 168.9262mJ
+
+INFO:root:memory frequency:9501,frequency:1260,batch_size:16
+
+INFO:root:avgtime: 19.4562ms
+
+INFO:root:avgenery: 195.5334mJ
+
+INFO:root:memory frequency:9501,frequency:1260,batch_size:8
+
+INFO:root:avgtime: 14.3682ms
+
+INFO:root:avgenery: 261.5213mJ
+
+INFO:root:memory frequency:9501,frequency:1260,batch_size:4
+
+INFO:root:avgtime: 11.9388ms
+
+INFO:root:avgenery: 402.2976mJ
+
+INFO:root:memory frequency:9501,frequency:1260,batch_size:2
+
+INFO:root:avgtime: 10.3433ms
+
+INFO:root:avgenery: 655.9044mJ
+
+INFO:root:memory frequency:9501,frequency:1260,batch_size:1
+
+INFO:root:avgtime: 9.6815ms
+
+INFO:root:avgenery: 1185.4337mJ
+
+INFO:root:memory frequency:9501,frequency:1200,batch_size:256
+
+INFO:root:avgtime: 192.0722ms
+
+INFO:root:avgenery: 150.8835mJ
+
+INFO:root:memory frequency:9501,frequency:1200,batch_size:128
+
+INFO:root:avgtime: 102.0109ms
+
+INFO:root:avgenery: 153.2119mJ
+
+INFO:root:memory frequency:9501,frequency:1200,batch_size:64
+
+INFO:root:avgtime: 54.8604ms
+
+INFO:root:avgenery: 157.6904mJ
+
+INFO:root:memory frequency:9501,frequency:1200,batch_size:32
+
+INFO:root:avgtime: 32.1747ms
+
+INFO:root:avgenery: 171.9122mJ
+
+INFO:root:memory frequency:9501,frequency:1200,batch_size:16
+
+INFO:root:avgtime: 19.8245ms
+
+INFO:root:avgenery: 198.0709mJ
+
+INFO:root:memory frequency:9501,frequency:1200,batch_size:8
+
+INFO:root:avgtime: 14.6159ms
+
+INFO:root:avgenery: 265.6308mJ
+
+INFO:root:memory frequency:9501,frequency:1200,batch_size:4
+
+INFO:root:avgtime: 11.8567ms
+
+INFO:root:avgenery: 396.8290mJ
+
+INFO:root:memory frequency:9501,frequency:1200,batch_size:2
+
+INFO:root:avgtime: 10.5521ms
+
+INFO:root:avgenery: 660.5366mJ
+
+INFO:root:memory frequency:9501,frequency:1200,batch_size:1
+
+INFO:root:avgtime: 9.9290ms
+
+INFO:root:avgenery: 1206.6472mJ
+
+INFO:root:memory frequency:9501,frequency:1140,batch_size:256
+
+INFO:root:avgtime: 198.3660ms
+
+INFO:root:avgenery: 153.0069mJ
+
+INFO:root:memory frequency:9501,frequency:1140,batch_size:128
+
+INFO:root:avgtime: 103.4673ms
+
+INFO:root:avgenery: 154.1853mJ
+
+INFO:root:memory frequency:9501,frequency:1140,batch_size:64
+
+INFO:root:avgtime: 55.1100ms
+
+INFO:root:avgenery: 158.5486mJ
+
+INFO:root:memory frequency:9501,frequency:1140,batch_size:32
+
+INFO:root:avgtime: 32.3680ms
+
+INFO:root:avgenery: 172.9833mJ
+
+INFO:root:memory frequency:9501,frequency:1140,batch_size:16
+
+INFO:root:avgtime: 20.3175ms
+
+INFO:root:avgenery: 202.0986mJ
+
+INFO:root:memory frequency:9501,frequency:1140,batch_size:8
+
+INFO:root:avgtime: 15.1953ms
+
+INFO:root:avgenery: 272.1536mJ
+
+INFO:root:memory frequency:9501,frequency:1140,batch_size:4
+
+INFO:root:avgtime: 12.3109ms
+
+INFO:root:avgenery: 407.8946mJ
+
+INFO:root:memory frequency:9501,frequency:1140,batch_size:2
+
+INFO:root:avgtime: 10.8817ms
+
+INFO:root:avgenery: 680.4504mJ
+
+INFO:root:memory frequency:9501,frequency:1140,batch_size:1
+
+INFO:root:avgtime: 10.2498ms
+
+INFO:root:avgenery: 1232.2944mJ
+
+INFO:root:memory frequency:9501,frequency:1080,batch_size:256
+
+INFO:root:avgtime: 196.1408ms
+
+INFO:root:avgenery: 151.3057mJ
+
+INFO:root:memory frequency:9501,frequency:1080,batch_size:128
+
+INFO:root:avgtime: 99.1469ms
+
+INFO:root:avgenery: 150.9090mJ
+
+INFO:root:memory frequency:9501,frequency:1080,batch_size:64
+
+INFO:root:avgtime: 57.6586ms
+
+INFO:root:avgenery: 162.4100mJ
+
+INFO:root:memory frequency:9501,frequency:1080,batch_size:32
+
+INFO:root:avgtime: 33.7882ms
+
+INFO:root:avgenery: 176.0420mJ
+
+INFO:root:memory frequency:9501,frequency:1080,batch_size:16
+
+INFO:root:avgtime: 20.8031ms
+
+INFO:root:avgenery: 203.6085mJ
+
+INFO:root:memory frequency:9501,frequency:1080,batch_size:8
+
+INFO:root:avgtime: 15.5752ms
+
+INFO:root:avgenery: 275.8916mJ
+
+INFO:root:memory frequency:9501,frequency:1080,batch_size:4
+
+INFO:root:avgtime: 12.5379ms
+
+INFO:root:avgenery: 410.1201mJ
+
+INFO:root:memory frequency:9501,frequency:1080,batch_size:2
+
+INFO:root:avgtime: 11.3123ms
+
+INFO:root:avgenery: 695.5306mJ
+
+INFO:root:memory frequency:9501,frequency:1080,batch_size:1
+
+INFO:root:avgtime: 10.6020ms
+
+INFO:root:avgenery: 1265.9216mJ
+
+INFO:root:memory frequency:9501,frequency:1020,batch_size:256
+
+INFO:root:avgtime: 207.0186ms
+
+INFO:root:avgenery: 154.9970mJ
+
+INFO:root:memory frequency:9501,frequency:1020,batch_size:128
+
+INFO:root:avgtime: 106.3017ms
+
+INFO:root:avgenery: 156.4040mJ
+
+INFO:root:memory frequency:9501,frequency:1020,batch_size:64
+
+INFO:root:avgtime: 58.5821ms
+
+INFO:root:avgenery: 163.8561mJ
+
+INFO:root:memory frequency:9501,frequency:1020,batch_size:32
+
+INFO:root:avgtime: 34.3151ms
+
+INFO:root:avgenery: 178.7073mJ
+
+INFO:root:memory frequency:9501,frequency:1020,batch_size:16
+
+INFO:root:avgtime: 21.6000ms
+
+INFO:root:avgenery: 209.3705mJ
+
+INFO:root:memory frequency:9501,frequency:1020,batch_size:8
+
+INFO:root:avgtime: 15.9984ms
+
+INFO:root:avgenery: 283.7230mJ
+
+INFO:root:memory frequency:9501,frequency:1020,batch_size:4
+
+INFO:root:avgtime: 12.9729ms
+
+INFO:root:avgenery: 424.7227mJ
+
+INFO:root:memory frequency:9501,frequency:1020,batch_size:2
+
+INFO:root:avgtime: 11.6969ms
+
+INFO:root:avgenery: 716.6018mJ
+
+INFO:root:memory frequency:9501,frequency:1020,batch_size:1
+
+INFO:root:avgtime: 11.0017ms
+
+INFO:root:avgenery: 1304.8846mJ
+
+INFO:root:memory frequency:9501,frequency:960,batch_size:256
+
+INFO:root:avgtime: 216.1421ms
+
+INFO:root:avgenery: 159.4471mJ
+
+INFO:root:memory frequency:9501,frequency:960,batch_size:128
+
+INFO:root:avgtime: 109.3108ms
+
+INFO:root:avgenery: 158.6852mJ
+
+INFO:root:memory frequency:9501,frequency:960,batch_size:64
+
+INFO:root:avgtime: 59.2916ms
+
+INFO:root:avgenery: 165.3086mJ
+
+INFO:root:memory frequency:9501,frequency:960,batch_size:32
+
+INFO:root:avgtime: 36.0049ms
+
+INFO:root:avgenery: 183.4222mJ
+
+INFO:root:memory frequency:9501,frequency:960,batch_size:16
+
+INFO:root:avgtime: 22.0089ms
+
+INFO:root:avgenery: 211.5121mJ
+
+INFO:root:memory frequency:9501,frequency:960,batch_size:8
+
+INFO:root:avgtime: 16.9249ms
+
+INFO:root:avgenery: 293.8763mJ
+
+INFO:root:memory frequency:9501,frequency:960,batch_size:4
+
+INFO:root:avgtime: 13.6166ms
+
+INFO:root:avgenery: 439.9813mJ
+
+INFO:root:memory frequency:9501,frequency:960,batch_size:2
+
+INFO:root:avgtime: 12.1604ms
+
+INFO:root:avgenery: 738.5649mJ
+
+INFO:root:memory frequency:9501,frequency:960,batch_size:1
+
+INFO:root:avgtime: 11.4355ms
+
+INFO:root:avgenery: 1338.0436mJ
+
+INFO:root:memory frequency:9501,frequency:900,batch_size:256
+
+INFO:root:avgtime: 222.1037ms
+
+INFO:root:avgenery: 161.2594mJ
+
+INFO:root:memory frequency:9501,frequency:900,batch_size:128
+
+INFO:root:avgtime: 115.6885ms
+
+INFO:root:avgenery: 163.8258mJ
+
+INFO:root:memory frequency:9501,frequency:900,batch_size:64
+
+INFO:root:avgtime: 63.3253ms
+
+INFO:root:avgenery: 170.8037mJ
+
+INFO:root:memory frequency:9501,frequency:900,batch_size:32
+
+INFO:root:avgtime: 36.7096ms
+
+INFO:root:avgenery: 185.8713mJ
+
+INFO:root:memory frequency:9501,frequency:900,batch_size:16
+
+INFO:root:avgtime: 22.9104ms
+
+INFO:root:avgenery: 216.1517mJ
+
+INFO:root:memory frequency:9501,frequency:900,batch_size:8
+
+INFO:root:avgtime: 17.2943ms
+
+INFO:root:avgenery: 297.0251mJ
+
+INFO:root:memory frequency:9501,frequency:900,batch_size:4
+
+INFO:root:avgtime: 14.2879ms
+
+INFO:root:avgenery: 456.8613mJ
+
+INFO:root:memory frequency:9501,frequency:900,batch_size:2
+
+INFO:root:avgtime: 12.6424ms
+
+INFO:root:avgenery: 759.7090mJ
+
+INFO:root:memory frequency:9501,frequency:900,batch_size:1
+
+INFO:root:avgtime: 11.9022ms
+
+INFO:root:avgenery: 1383.0735mJ
+
+INFO:root:memory frequency:9501,frequency:840,batch_size:256
+
+INFO:root:avgtime: 232.0873ms
+
+INFO:root:avgenery: 165.2540mJ
+
+INFO:root:memory frequency:9501,frequency:840,batch_size:128
+
+INFO:root:avgtime: 119.9638ms
+
+INFO:root:avgenery: 167.4995mJ
+
+INFO:root:memory frequency:9501,frequency:840,batch_size:64
+
+INFO:root:avgtime: 66.0830ms
+
+INFO:root:avgenery: 175.2734mJ
+
+INFO:root:memory frequency:9501,frequency:840,batch_size:32
+
+INFO:root:avgtime: 38.8049ms
+
+INFO:root:avgenery: 191.9272mJ
+
+INFO:root:memory frequency:9501,frequency:840,batch_size:16
+
+INFO:root:avgtime: 23.6351ms
+
+INFO:root:avgenery: 221.0808mJ
+
+INFO:root:memory frequency:9501,frequency:840,batch_size:8
+
+INFO:root:avgtime: 17.9167ms
+
+INFO:root:avgenery: 305.6928mJ
+
+INFO:root:memory frequency:9501,frequency:840,batch_size:4
+
+INFO:root:avgtime: 14.7737ms
+
+INFO:root:avgenery: 470.1470mJ
+
+INFO:root:memory frequency:9501,frequency:840,batch_size:2
+
+INFO:root:avgtime: 13.1869ms
+
+INFO:root:avgenery: 785.0007mJ
+
+INFO:root:memory frequency:9501,frequency:840,batch_size:1
+
+INFO:root:avgtime: 12.5039ms
+
+INFO:root:avgenery: 1436.2546mJ
+
+INFO:root:memory frequency:9501,frequency:780,batch_size:256
+
+INFO:root:avgtime: 227.1070ms
+
+INFO:root:avgenery: 164.1939mJ
+
+INFO:root:memory frequency:9501,frequency:780,batch_size:128
+
+INFO:root:avgtime: 126.0533ms
+
+INFO:root:avgenery: 172.3601mJ
+
+INFO:root:memory frequency:9501,frequency:780,batch_size:64
+
+INFO:root:avgtime: 68.6921ms
+
+INFO:root:avgenery: 180.3074mJ
+
+INFO:root:memory frequency:9501,frequency:780,batch_size:32
+
+INFO:root:avgtime: 40.7078ms
+
+INFO:root:avgenery: 198.2638mJ
+
+INFO:root:memory frequency:9501,frequency:780,batch_size:16
+
+INFO:root:avgtime: 25.0174ms
+
+INFO:root:avgenery: 230.5756mJ
+
+INFO:root:memory frequency:9501,frequency:780,batch_size:8
+
+INFO:root:avgtime: 18.8156ms
+
+INFO:root:avgenery: 316.6594mJ
+
+INFO:root:memory frequency:9501,frequency:780,batch_size:4
+
+INFO:root:avgtime: 15.4873ms
+
+INFO:root:avgenery: 482.9647mJ
+
+INFO:root:memory frequency:9501,frequency:780,batch_size:2
+
+INFO:root:avgtime: 13.8991ms
+
+INFO:root:avgenery: 818.2733mJ
+
+INFO:root:memory frequency:9501,frequency:780,batch_size:1
+
+INFO:root:avgtime: 13.2063ms
+
+INFO:root:avgenery: 1494.6526mJ
+
+INFO:root:memory frequency:9501,frequency:720,batch_size:256
+
+INFO:root:avgtime: 252.3011ms
+
+INFO:root:avgenery: 173.7500mJ
+
+INFO:root:memory frequency:9501,frequency:720,batch_size:128
+
+INFO:root:avgtime: 126.4816ms
+
+INFO:root:avgenery: 172.8560mJ
+
+INFO:root:memory frequency:9501,frequency:720,batch_size:64
+
+INFO:root:avgtime: 72.3351ms
+
+INFO:root:avgenery: 185.2914mJ
+
+INFO:root:memory frequency:9501,frequency:720,batch_size:32
+
+INFO:root:avgtime: 42.6799ms
+
+INFO:root:avgenery: 204.5327mJ
+
+INFO:root:memory frequency:9501,frequency:720,batch_size:16
+
+INFO:root:avgtime: 25.7422ms
+
+INFO:root:avgenery: 234.6485mJ
+
+INFO:root:memory frequency:9501,frequency:720,batch_size:8
+
+INFO:root:avgtime: 19.7084ms
+
+INFO:root:avgenery: 328.1067mJ
+
+INFO:root:memory frequency:9501,frequency:720,batch_size:4
+
+INFO:root:avgtime: 16.3072ms
+
+INFO:root:avgenery: 505.7781mJ
+
+INFO:root:memory frequency:9501,frequency:720,batch_size:2
+
+INFO:root:avgtime: 14.6981ms
+
+INFO:root:avgenery: 856.6017mJ
+
+INFO:root:memory frequency:9501,frequency:720,batch_size:1
+
+INFO:root:avgtime: 13.9797ms
+
+INFO:root:avgenery: 1574.1114mJ
+
+INFO:root:memory frequency:9501,frequency:660,batch_size:256
+
+INFO:root:avgtime: 254.0383ms
+
+INFO:root:avgenery: 174.8231mJ
+
+INFO:root:memory frequency:9501,frequency:660,batch_size:128
+
+INFO:root:avgtime: 136.8843ms
+
+INFO:root:avgenery: 180.2660mJ
+
+INFO:root:memory frequency:9501,frequency:660,batch_size:64
+
+INFO:root:avgtime: 75.7196ms
+
+INFO:root:avgenery: 191.6198mJ
+
+INFO:root:memory frequency:9501,frequency:660,batch_size:32
+
+INFO:root:avgtime: 45.0900ms
+
+INFO:root:avgenery: 212.3126mJ
+
+INFO:root:memory frequency:9501,frequency:660,batch_size:16
+
+INFO:root:avgtime: 27.4734ms
+
+INFO:root:avgenery: 246.1794mJ
+
+INFO:root:memory frequency:9501,frequency:660,batch_size:8
+
+INFO:root:avgtime: 21.0713ms
+
+INFO:root:avgenery: 345.0805mJ
+
+INFO:root:memory frequency:9501,frequency:660,batch_size:4
+
+INFO:root:avgtime: 17.5148ms
+
+INFO:root:avgenery: 535.8849mJ
+
+INFO:root:memory frequency:9501,frequency:660,batch_size:2
+
+INFO:root:avgtime: 15.7035ms
+
+INFO:root:avgenery: 901.5053mJ
+
+INFO:root:memory frequency:9501,frequency:660,batch_size:1
+
+INFO:root:avgtime: 14.9881ms
+
+INFO:root:avgenery: 1665.7765mJ
+
+INFO:root:memory frequency:9501,frequency:600,batch_size:256
+
+INFO:root:avgtime: 282.7882ms
+
+INFO:root:avgenery: 185.7590mJ
+
+INFO:root:memory frequency:9501,frequency:600,batch_size:128
+
+INFO:root:avgtime: 149.3643ms
+
+INFO:root:avgenery: 190.7333mJ
+
+INFO:root:memory frequency:9501,frequency:600,batch_size:64
+
+INFO:root:avgtime: 81.8079ms
+
+INFO:root:avgenery: 200.8856mJ
+
+INFO:root:memory frequency:9501,frequency:600,batch_size:32
+
+INFO:root:avgtime: 47.4269ms
+
+INFO:root:avgenery: 219.9088mJ
+
+INFO:root:memory frequency:9501,frequency:600,batch_size:16
+
+INFO:root:avgtime: 29.4115ms
+
+INFO:root:avgenery: 256.2342mJ
+
+INFO:root:memory frequency:9501,frequency:600,batch_size:8
+
+INFO:root:avgtime: 22.8577ms
+
+INFO:root:avgenery: 366.3547mJ
+
+INFO:root:memory frequency:9501,frequency:600,batch_size:4
+
+INFO:root:avgtime: 18.6178ms
+
+INFO:root:avgenery: 559.6901mJ
+
+INFO:root:memory frequency:9501,frequency:600,batch_size:2
+
+INFO:root:avgtime: 16.8838ms
+
+INFO:root:avgenery: 957.3921mJ
+
+INFO:root:memory frequency:9501,frequency:600,batch_size:1
+
+INFO:root:avgtime: 16.1333ms
+
+INFO:root:avgenery: 1768.8168mJ
+
+INFO:root:memory frequency:9501,frequency:540,batch_size:256
+
+INFO:root:avgtime: 302.4668ms
+
+INFO:root:avgenery: 196.3564mJ
+
+INFO:root:memory frequency:9501,frequency:540,batch_size:128
+
+INFO:root:avgtime: 155.8321ms
+
+INFO:root:avgenery: 198.2379mJ
+
+INFO:root:memory frequency:9501,frequency:540,batch_size:64
+
+INFO:root:avgtime: 86.7186ms
+
+INFO:root:avgenery: 211.2691mJ
+
+INFO:root:memory frequency:9501,frequency:540,batch_size:32
+
+INFO:root:avgtime: 52.4107ms
+
+INFO:root:avgenery: 237.6423mJ
+
+INFO:root:memory frequency:9501,frequency:540,batch_size:16
+
+INFO:root:avgtime: 31.7880ms
+
+INFO:root:avgenery: 274.8687mJ
+
+INFO:root:memory frequency:9501,frequency:540,batch_size:8
+
+INFO:root:avgtime: 24.2311ms
+
+INFO:root:avgenery: 387.5954mJ
+
+INFO:root:memory frequency:9501,frequency:540,batch_size:4
+
+INFO:root:avgtime: 20.0900ms
+
+INFO:root:avgenery: 601.4719mJ
+
+INFO:root:memory frequency:9501,frequency:540,batch_size:2
+
+INFO:root:avgtime: 18.3294ms
+
+INFO:root:avgenery: 1031.2298mJ
+
+INFO:root:memory frequency:9501,frequency:540,batch_size:1
+
+INFO:root:avgtime: 17.4560ms
+
+INFO:root:avgenery: 1911.5302mJ
+
+INFO:root:memory frequency:9251,frequency:2100,batch_size:256
+
+INFO:root:avgtime: 164.0081ms
+
+INFO:root:avgenery: 197.3454mJ
+
+INFO:root:memory frequency:9251,frequency:2100,batch_size:128
+
+INFO:root:avgtime: 85.2482ms
+
+INFO:root:avgenery: 207.0490mJ
+
+INFO:root:memory frequency:9251,frequency:2100,batch_size:64
+
+INFO:root:avgtime: 48.0794ms
+
+INFO:root:avgenery: 223.2616mJ
+
+INFO:root:memory frequency:9251,frequency:2100,batch_size:32
+
+INFO:root:avgtime: 26.9282ms
+
+INFO:root:avgenery: 252.5276mJ
+
+INFO:root:memory frequency:9251,frequency:2100,batch_size:16
+
+INFO:root:avgtime: 16.0125ms
+
+INFO:root:avgenery: 280.6092mJ
+
+INFO:root:memory frequency:9251,frequency:2100,batch_size:8
+
+INFO:root:avgtime: 11.8884ms
+
+INFO:root:avgenery: 352.6905mJ
+
+INFO:root:memory frequency:9251,frequency:2100,batch_size:4
+
+INFO:root:avgtime: 10.1237ms
+
+INFO:root:avgenery: 519.9782mJ
+
+INFO:root:memory frequency:9251,frequency:2100,batch_size:2
+
+INFO:root:avgtime: 10.1430ms
+
+INFO:root:avgenery: 939.6765mJ
+
+INFO:root:memory frequency:9251,frequency:2100,batch_size:1
+
+INFO:root:avgtime: 9.9085ms
+
+INFO:root:avgenery: 1744.7305mJ
+
+INFO:root:memory frequency:9251,frequency:2040,batch_size:256
+
+INFO:root:avgtime: 163.0966ms
+
+INFO:root:avgenery: 201.2700mJ
+
+INFO:root:memory frequency:9251,frequency:2040,batch_size:128
+
+INFO:root:avgtime: 86.1889ms
+
+INFO:root:avgenery: 204.2755mJ
+
+INFO:root:memory frequency:9251,frequency:2040,batch_size:64
+
+INFO:root:avgtime: 47.3000ms
+
+INFO:root:avgenery: 221.8163mJ
+
+INFO:root:memory frequency:9251,frequency:2040,batch_size:32
+
+INFO:root:avgtime: 26.3009ms
+
+INFO:root:avgenery: 250.8342mJ
+
+INFO:root:memory frequency:9251,frequency:2040,batch_size:16
+
+INFO:root:avgtime: 16.2953ms
+
+INFO:root:avgenery: 282.4877mJ
+
+INFO:root:memory frequency:9251,frequency:2040,batch_size:8
+
+INFO:root:avgtime: 12.0663ms
+
+INFO:root:avgenery: 357.3348mJ
+
+INFO:root:memory frequency:9251,frequency:2040,batch_size:4
+
+INFO:root:avgtime: 10.4967ms
+
+INFO:root:avgenery: 536.7920mJ
+
+INFO:root:memory frequency:9251,frequency:2040,batch_size:2
+
+INFO:root:avgtime: 9.9833ms
+
+INFO:root:avgenery: 928.4298mJ
+
+INFO:root:memory frequency:9251,frequency:2040,batch_size:1
+
+INFO:root:avgtime: 9.8997ms
+
+INFO:root:avgenery: 1742.8353mJ
+
+INFO:root:memory frequency:9251,frequency:1980,batch_size:256
+
+INFO:root:avgtime: 165.9301ms
+
+INFO:root:avgenery: 203.1168mJ
+
+INFO:root:memory frequency:9251,frequency:1980,batch_size:128
+
+INFO:root:avgtime: 87.5708ms
+
+INFO:root:avgenery: 206.4995mJ
+
+INFO:root:memory frequency:9251,frequency:1980,batch_size:64
+
+INFO:root:avgtime: 47.7173ms
+
+INFO:root:avgenery: 223.2815mJ
+
+INFO:root:memory frequency:9251,frequency:1980,batch_size:32
+
+INFO:root:avgtime: 27.4640ms
+
+INFO:root:avgenery: 254.9622mJ
+
+INFO:root:memory frequency:9251,frequency:1980,batch_size:16
+
+INFO:root:avgtime: 15.9047ms
+
+INFO:root:avgenery: 278.5690mJ
+
+INFO:root:memory frequency:9251,frequency:1980,batch_size:8
+
+INFO:root:avgtime: 12.0383ms
+
+INFO:root:avgenery: 356.5352mJ
+
+INFO:root:memory frequency:9251,frequency:1980,batch_size:4
+
+INFO:root:avgtime: 10.2591ms
+
+INFO:root:avgenery: 524.7815mJ
+
+INFO:root:memory frequency:9251,frequency:1980,batch_size:2
+
+INFO:root:avgtime: 9.9797ms
+
+INFO:root:avgenery: 929.5515mJ
+
+INFO:root:memory frequency:9251,frequency:1980,batch_size:1
+
+INFO:root:avgtime: 9.7530ms
+
+INFO:root:avgenery: 1721.0603mJ
+
+INFO:root:memory frequency:9251,frequency:1920,batch_size:256
+
+INFO:root:avgtime: 167.9522ms
+
+INFO:root:avgenery: 200.9173mJ
+
+INFO:root:memory frequency:9251,frequency:1920,batch_size:128
+
+INFO:root:avgtime: 84.2611ms
+
+INFO:root:avgenery: 208.9949mJ
+
+INFO:root:memory frequency:9251,frequency:1920,batch_size:64
+
+INFO:root:avgtime: 46.9670ms
+
+INFO:root:avgenery: 221.4255mJ
+
+INFO:root:memory frequency:9251,frequency:1920,batch_size:32
+
+INFO:root:avgtime: 26.6323ms
+
+INFO:root:avgenery: 242.7124mJ
+
+INFO:root:memory frequency:9251,frequency:1920,batch_size:16
+
+INFO:root:avgtime: 16.3177ms
+
+INFO:root:avgenery: 273.0865mJ
+
+INFO:root:memory frequency:9251,frequency:1920,batch_size:8
+
+INFO:root:avgtime: 12.3104ms
+
+INFO:root:avgenery: 350.8910mJ
+
+INFO:root:memory frequency:9251,frequency:1920,batch_size:4
+
+INFO:root:avgtime: 10.9419ms
+
+INFO:root:avgenery: 535.5922mJ
+
+INFO:root:memory frequency:9251,frequency:1920,batch_size:2
+
+INFO:root:avgtime: 10.3231ms
+
+INFO:root:avgenery: 920.8892mJ
+
+INFO:root:memory frequency:9251,frequency:1920,batch_size:1
+
+INFO:root:avgtime: 9.7372ms
+
+INFO:root:avgenery: 1653.7058mJ
+
+INFO:root:memory frequency:9251,frequency:1860,batch_size:256
+
+INFO:root:avgtime: 158.2200ms
+
+INFO:root:avgenery: 197.9630mJ
+
+INFO:root:memory frequency:9251,frequency:1860,batch_size:128
+
+INFO:root:avgtime: 86.9682ms
+
+INFO:root:avgenery: 196.3432mJ
+
+INFO:root:memory frequency:9251,frequency:1860,batch_size:64
+
+INFO:root:avgtime: 46.2383ms
+
+INFO:root:avgenery: 206.6706mJ
+
+INFO:root:memory frequency:9251,frequency:1860,batch_size:32
+
+INFO:root:avgtime: 27.5585ms
+
+INFO:root:avgenery: 221.9985mJ
+
+INFO:root:memory frequency:9251,frequency:1860,batch_size:16
+
+INFO:root:avgtime: 16.1340ms
+
+INFO:root:avgenery: 241.5549mJ
+
+INFO:root:memory frequency:9251,frequency:1860,batch_size:8
+
+INFO:root:avgtime: 12.4223ms
+
+INFO:root:avgenery: 316.4171mJ
+
+INFO:root:memory frequency:9251,frequency:1860,batch_size:4
+
+INFO:root:avgtime: 10.7562ms
+
+INFO:root:avgenery: 483.3841mJ
+
+INFO:root:memory frequency:9251,frequency:1860,batch_size:2
+
+INFO:root:avgtime: 9.2032ms
+
+INFO:root:avgenery: 770.4296mJ
+
+INFO:root:memory frequency:9251,frequency:1860,batch_size:1
+
+INFO:root:avgtime: 9.3479ms
+
+INFO:root:avgenery: 1483.3471mJ
+
+INFO:root:memory frequency:9251,frequency:1800,batch_size:256
+
+INFO:root:avgtime: 168.9909ms
+
+INFO:root:avgenery: 191.5426mJ
+
+INFO:root:memory frequency:9251,frequency:1800,batch_size:128
+
+INFO:root:avgtime: 89.2858ms
+
+INFO:root:avgenery: 189.6791mJ
+
+INFO:root:memory frequency:9251,frequency:1800,batch_size:64
+
+INFO:root:avgtime: 48.5157ms
+
+INFO:root:avgenery: 194.7020mJ
+
+INFO:root:memory frequency:9251,frequency:1800,batch_size:32
+
+INFO:root:avgtime: 27.7421ms
+
+INFO:root:avgenery: 208.0499mJ
+
+INFO:root:memory frequency:9251,frequency:1800,batch_size:16
+
+INFO:root:avgtime: 16.8864ms
+
+INFO:root:avgenery: 230.9812mJ
+
+INFO:root:memory frequency:9251,frequency:1800,batch_size:8
+
+INFO:root:avgtime: 12.2186ms
+
+INFO:root:avgenery: 293.8871mJ
+
+INFO:root:memory frequency:9251,frequency:1800,batch_size:4
+
+INFO:root:avgtime: 10.3349ms
+
+INFO:root:avgenery: 441.3247mJ
+
+INFO:root:memory frequency:9251,frequency:1800,batch_size:2
+
+INFO:root:avgtime: 10.3077ms
+
+INFO:root:avgenery: 804.5809mJ
+
+INFO:root:memory frequency:9251,frequency:1800,batch_size:1
+
+INFO:root:avgtime: 9.5026ms
+
+INFO:root:avgenery: 1426.7832mJ
+
+INFO:root:memory frequency:9251,frequency:1740,batch_size:256
+
+INFO:root:avgtime: 173.6024ms
+
+INFO:root:avgenery: 183.6280mJ
+
+INFO:root:memory frequency:9251,frequency:1740,batch_size:128
+
+INFO:root:avgtime: 90.4267ms
+
+INFO:root:avgenery: 183.3370mJ
+
+INFO:root:memory frequency:9251,frequency:1740,batch_size:64
+
+INFO:root:avgtime: 48.8124ms
+
+INFO:root:avgenery: 184.3851mJ
+
+INFO:root:memory frequency:9251,frequency:1740,batch_size:32
+
+INFO:root:avgtime: 28.2100ms
+
+INFO:root:avgenery: 196.6516mJ
+
+INFO:root:memory frequency:9251,frequency:1740,batch_size:16
+
+INFO:root:avgtime: 17.2096ms
+
+INFO:root:avgenery: 219.2631mJ
+
+INFO:root:memory frequency:9251,frequency:1740,batch_size:8
+
+INFO:root:avgtime: 12.3306ms
+
+INFO:root:avgenery: 280.8850mJ
+
+INFO:root:memory frequency:9251,frequency:1740,batch_size:4
+
+INFO:root:avgtime: 10.9298ms
+
+INFO:root:avgenery: 437.9430mJ
+
+INFO:root:memory frequency:9251,frequency:1740,batch_size:2
+
+INFO:root:avgtime: 9.3914ms
+
+INFO:root:avgenery: 711.7988mJ
+
+INFO:root:memory frequency:9251,frequency:1740,batch_size:1
+
+INFO:root:avgtime: 9.3035ms
+
+INFO:root:avgenery: 1349.2740mJ
+
+INFO:root:memory frequency:9251,frequency:1680,batch_size:256
+
+INFO:root:avgtime: 169.8007ms
+
+INFO:root:avgenery: 174.4394mJ
+
+INFO:root:memory frequency:9251,frequency:1680,batch_size:128
+
+INFO:root:avgtime: 89.7620ms
+
+INFO:root:avgenery: 172.8357mJ
+
+INFO:root:memory frequency:9251,frequency:1680,batch_size:64
+
+INFO:root:avgtime: 48.6456ms
+
+INFO:root:avgenery: 173.5395mJ
+
+INFO:root:memory frequency:9251,frequency:1680,batch_size:32
+
+INFO:root:avgtime: 28.0012ms
+
+INFO:root:avgenery: 185.1994mJ
+
+INFO:root:memory frequency:9251,frequency:1680,batch_size:16
+
+INFO:root:avgtime: 17.3861ms
+
+INFO:root:avgenery: 211.5695mJ
+
+INFO:root:memory frequency:9251,frequency:1680,batch_size:8
+
+INFO:root:avgtime: 12.6101ms
+
+INFO:root:avgenery: 273.8300mJ
+
+INFO:root:memory frequency:9251,frequency:1680,batch_size:4
+
+INFO:root:avgtime: 10.7636ms
+
+INFO:root:avgenery: 420.0318mJ
+
+INFO:root:memory frequency:9251,frequency:1680,batch_size:2
+
+INFO:root:avgtime: 10.3676ms
+
+INFO:root:avgenery: 744.3516mJ
+
+INFO:root:memory frequency:9251,frequency:1680,batch_size:1
+
+INFO:root:avgtime: 9.6926ms
+
+INFO:root:avgenery: 1341.6124mJ
+
+INFO:root:memory frequency:9251,frequency:1620,batch_size:256
+
+INFO:root:avgtime: 166.1776ms
+
+INFO:root:avgenery: 169.9888mJ
+
+INFO:root:memory frequency:9251,frequency:1620,batch_size:128
+
+INFO:root:avgtime: 86.1906ms
+
+INFO:root:avgenery: 166.4418mJ
+
+INFO:root:memory frequency:9251,frequency:1620,batch_size:64
+
+INFO:root:avgtime: 50.1548ms
+
+INFO:root:avgenery: 167.4982mJ
+
+INFO:root:memory frequency:9251,frequency:1620,batch_size:32
+
+INFO:root:avgtime: 28.9303ms
+
+INFO:root:avgenery: 180.5350mJ
+
+INFO:root:memory frequency:9251,frequency:1620,batch_size:16
+
+INFO:root:avgtime: 17.8381ms
+
+INFO:root:avgenery: 204.9914mJ
+
+INFO:root:memory frequency:9251,frequency:1620,batch_size:8
+
+INFO:root:avgtime: 13.1050ms
+
+INFO:root:avgenery: 269.7805mJ
+
+INFO:root:memory frequency:9251,frequency:1620,batch_size:4
+
+INFO:root:avgtime: 10.7785ms
+
+INFO:root:avgenery: 403.7719mJ
+
+INFO:root:memory frequency:9251,frequency:1620,batch_size:2
+
+INFO:root:avgtime: 10.2481ms
+
+INFO:root:avgenery: 710.6880mJ
+
+INFO:root:memory frequency:9251,frequency:1620,batch_size:1
+
+INFO:root:avgtime: 9.2637ms
+
+INFO:root:avgenery: 1246.0539mJ
+
+INFO:root:memory frequency:9251,frequency:1560,batch_size:256
+
+INFO:root:avgtime: 179.0062ms
+
+INFO:root:avgenery: 162.2277mJ
+
+INFO:root:memory frequency:9251,frequency:1560,batch_size:128
+
+INFO:root:avgtime: 92.8371ms
+
+INFO:root:avgenery: 159.5649mJ
+
+INFO:root:memory frequency:9251,frequency:1560,batch_size:64
+
+INFO:root:avgtime: 49.9112ms
+
+INFO:root:avgenery: 162.2344mJ
+
+INFO:root:memory frequency:9251,frequency:1560,batch_size:32
+
+INFO:root:avgtime: 29.6836ms
+
+INFO:root:avgenery: 177.8217mJ
+
+INFO:root:memory frequency:9251,frequency:1560,batch_size:16
+
+INFO:root:avgtime: 18.1459ms
+
+INFO:root:avgenery: 202.1510mJ
+
+INFO:root:memory frequency:9251,frequency:1560,batch_size:8
+
+INFO:root:avgtime: 13.3651ms
+
+INFO:root:avgenery: 267.0053mJ
+
+INFO:root:memory frequency:9251,frequency:1560,batch_size:4
+
+INFO:root:avgtime: 11.0788ms
+
+INFO:root:avgenery: 403.2597mJ
+
+INFO:root:memory frequency:9251,frequency:1560,batch_size:2
+
+INFO:root:avgtime: 10.1633ms
+
+INFO:root:avgenery: 692.7177mJ
+
+INFO:root:memory frequency:9251,frequency:1560,batch_size:1
+
+INFO:root:avgtime: 9.8983ms
+
+INFO:root:avgenery: 1285.0031mJ
+
+INFO:root:memory frequency:9251,frequency:1500,batch_size:256
+
+INFO:root:avgtime: 180.1158ms
+
+INFO:root:avgenery: 158.2190mJ
+
+INFO:root:memory frequency:9251,frequency:1500,batch_size:128
+
+INFO:root:avgtime: 94.6310ms
+
+INFO:root:avgenery: 157.3103mJ
+
+INFO:root:memory frequency:9251,frequency:1500,batch_size:64
+
+INFO:root:avgtime: 51.1591ms
+
+INFO:root:avgenery: 159.6700mJ
+
+INFO:root:memory frequency:9251,frequency:1500,batch_size:32
+
+INFO:root:avgtime: 29.5972ms
+
+INFO:root:avgenery: 173.2330mJ
+
+INFO:root:memory frequency:9251,frequency:1500,batch_size:16
+
+INFO:root:avgtime: 18.2347ms
+
+INFO:root:avgenery: 198.1456mJ
+
+INFO:root:memory frequency:9251,frequency:1500,batch_size:8
+
+INFO:root:avgtime: 13.4210ms
+
+INFO:root:avgenery: 260.0324mJ
+
+INFO:root:memory frequency:9251,frequency:1500,batch_size:4
+
+INFO:root:avgtime: 10.8942ms
+
+INFO:root:avgenery: 389.0361mJ
+
+INFO:root:memory frequency:9251,frequency:1500,batch_size:2
+
+INFO:root:avgtime: 9.6114ms
+
+INFO:root:avgenery: 646.1700mJ
+
+INFO:root:memory frequency:9251,frequency:1500,batch_size:1
+
+INFO:root:avgtime: 9.6455ms
+
+INFO:root:avgenery: 1234.2327mJ
+
+INFO:root:memory frequency:9251,frequency:1440,batch_size:256
+
+INFO:root:avgtime: 181.4365ms
+
+INFO:root:avgenery: 153.5861mJ
+
+INFO:root:memory frequency:9251,frequency:1440,batch_size:128
+
+INFO:root:avgtime: 96.1233ms
+
+INFO:root:avgenery: 152.9378mJ
+
+INFO:root:memory frequency:9251,frequency:1440,batch_size:64
+
+INFO:root:avgtime: 50.2895ms
+
+INFO:root:avgenery: 155.1141mJ
+
+INFO:root:memory frequency:9251,frequency:1440,batch_size:32
+
+INFO:root:avgtime: 29.7761ms
+
+INFO:root:avgenery: 169.5962mJ
+
+INFO:root:memory frequency:9251,frequency:1440,batch_size:16
+
+INFO:root:avgtime: 18.4767ms
+
+INFO:root:avgenery: 195.8239mJ
+
+INFO:root:memory frequency:9251,frequency:1440,batch_size:8
+
+INFO:root:avgtime: 13.7332ms
+
+INFO:root:avgenery: 259.4612mJ
+
+INFO:root:memory frequency:9251,frequency:1440,batch_size:4
+
+INFO:root:avgtime: 11.3340ms
+
+INFO:root:avgenery: 396.1988mJ
+
+INFO:root:memory frequency:9251,frequency:1440,batch_size:2
+
+INFO:root:avgtime: 10.2557ms
+
+INFO:root:avgenery: 667.0026mJ
+
+INFO:root:memory frequency:9251,frequency:1440,batch_size:1
+
+INFO:root:avgtime: 10.0218ms
+
+INFO:root:avgenery: 1251.7212mJ
+
+INFO:root:memory frequency:9251,frequency:1380,batch_size:256
+
+INFO:root:avgtime: 177.0772ms
+
+INFO:root:avgenery: 152.6977mJ
+
+INFO:root:memory frequency:9251,frequency:1380,batch_size:128
+
+INFO:root:avgtime: 97.1017ms
+
+INFO:root:avgenery: 150.8336mJ
+
+INFO:root:memory frequency:9251,frequency:1380,batch_size:64
+
+INFO:root:avgtime: 51.9296ms
+
+INFO:root:avgenery: 154.8551mJ
+
+INFO:root:memory frequency:9251,frequency:1380,batch_size:32
+
+INFO:root:avgtime: 30.0441ms
+
+INFO:root:avgenery: 167.5909mJ
+
+INFO:root:memory frequency:9251,frequency:1380,batch_size:16
+
+INFO:root:avgtime: 18.7202ms
+
+INFO:root:avgenery: 193.9826mJ
+
+INFO:root:memory frequency:9251,frequency:1380,batch_size:8
+
+INFO:root:avgtime: 13.8415ms
+
+INFO:root:avgenery: 256.3275mJ
+
+INFO:root:memory frequency:9251,frequency:1380,batch_size:4
+
+INFO:root:avgtime: 11.2979ms
+
+INFO:root:avgenery: 385.8464mJ
+
+INFO:root:memory frequency:9251,frequency:1380,batch_size:2
+
+INFO:root:avgtime: 10.4444ms
+
+INFO:root:avgenery: 667.1830mJ
+
+INFO:root:memory frequency:9251,frequency:1380,batch_size:1
+
+INFO:root:avgtime: 9.8785ms
+
+INFO:root:avgenery: 1219.4004mJ
+
+INFO:root:memory frequency:9251,frequency:1320,batch_size:256
+
+INFO:root:avgtime: 185.1268ms
+
+INFO:root:avgenery: 150.5746mJ
+
+INFO:root:memory frequency:9251,frequency:1320,batch_size:128
+
+INFO:root:avgtime: 96.8578ms
+
+INFO:root:avgenery: 151.2086mJ
+
+INFO:root:memory frequency:9251,frequency:1320,batch_size:64
+
+INFO:root:avgtime: 51.0320ms
+
+INFO:root:avgenery: 153.5011mJ
+
+INFO:root:memory frequency:9251,frequency:1320,batch_size:32
+
+INFO:root:avgtime: 31.0396ms
+
+INFO:root:avgenery: 169.4934mJ
+
+INFO:root:memory frequency:9251,frequency:1320,batch_size:16
+
+INFO:root:avgtime: 19.1592ms
+
+INFO:root:avgenery: 196.7009mJ
+
+INFO:root:memory frequency:9251,frequency:1320,batch_size:8
+
+INFO:root:avgtime: 14.4962ms
+
+INFO:root:avgenery: 265.8854mJ
+
+INFO:root:memory frequency:9251,frequency:1320,batch_size:4
+
+INFO:root:avgtime: 11.4685ms
+
+INFO:root:avgenery: 389.8348mJ
+
+INFO:root:memory frequency:9251,frequency:1320,batch_size:2
+
+INFO:root:avgtime: 10.2737ms
+
+INFO:root:avgenery: 655.6514mJ
+
+INFO:root:memory frequency:9251,frequency:1320,batch_size:1
+
+INFO:root:avgtime: 9.7814ms
+
+INFO:root:avgenery: 1202.9715mJ
+
+INFO:root:memory frequency:9251,frequency:1260,batch_size:256
+
+INFO:root:avgtime: 184.5076ms
+
+INFO:root:avgenery: 151.3260mJ
+
+INFO:root:memory frequency:9251,frequency:1260,batch_size:128
+
+INFO:root:avgtime: 98.4753ms
+
+INFO:root:avgenery: 152.2573mJ
+
+INFO:root:memory frequency:9251,frequency:1260,batch_size:64
+
+INFO:root:avgtime: 54.0579ms
+
+INFO:root:avgenery: 158.3919mJ
+
+INFO:root:memory frequency:9251,frequency:1260,batch_size:32
+
+INFO:root:avgtime: 31.3778ms
+
+INFO:root:avgenery: 171.9820mJ
+
+INFO:root:memory frequency:9251,frequency:1260,batch_size:16
+
+INFO:root:avgtime: 19.6492ms
+
+INFO:root:avgenery: 198.5218mJ
+
+INFO:root:memory frequency:9251,frequency:1260,batch_size:8
+
+INFO:root:avgtime: 14.4979ms
+
+INFO:root:avgenery: 264.6545mJ
+
+INFO:root:memory frequency:9251,frequency:1260,batch_size:4
+
+INFO:root:avgtime: 11.9473ms
+
+INFO:root:avgenery: 403.9921mJ
+
+INFO:root:memory frequency:9251,frequency:1260,batch_size:2
+
+INFO:root:avgtime: 10.4539ms
+
+INFO:root:avgenery: 667.1324mJ
+
+INFO:root:memory frequency:9251,frequency:1260,batch_size:1
+
+INFO:root:avgtime: 10.0029ms
+
+INFO:root:avgenery: 1228.7131mJ
+
+INFO:root:memory frequency:9251,frequency:1200,batch_size:256
+
+INFO:root:avgtime: 193.9620ms
+
+INFO:root:avgenery: 153.7799mJ
+
+INFO:root:memory frequency:9251,frequency:1200,batch_size:128
+
+INFO:root:avgtime: 100.8959ms
+
+INFO:root:avgenery: 154.2138mJ
+
+INFO:root:memory frequency:9251,frequency:1200,batch_size:64
+
+INFO:root:avgtime: 55.4793ms
+
+INFO:root:avgenery: 160.8671mJ
+
+INFO:root:memory frequency:9251,frequency:1200,batch_size:32
+
+INFO:root:avgtime: 32.5914ms
+
+INFO:root:avgenery: 174.6915mJ
+
+INFO:root:memory frequency:9251,frequency:1200,batch_size:16
+
+INFO:root:avgtime: 19.9878ms
+
+INFO:root:avgenery: 200.7081mJ
+
+INFO:root:memory frequency:9251,frequency:1200,batch_size:8
+
+INFO:root:avgtime: 14.8467ms
+
+INFO:root:avgenery: 268.7355mJ
+
+INFO:root:memory frequency:9251,frequency:1200,batch_size:4
+
+INFO:root:avgtime: 12.3189ms
+
+INFO:root:avgenery: 415.0308mJ
+
+INFO:root:memory frequency:9251,frequency:1200,batch_size:2
+
+INFO:root:avgtime: 10.7220ms
+
+INFO:root:avgenery: 675.2838mJ
+
+INFO:root:memory frequency:9251,frequency:1200,batch_size:1
+
+INFO:root:avgtime: 10.1009ms
+
+INFO:root:avgenery: 1238.2257mJ
+
+INFO:root:memory frequency:9251,frequency:1140,batch_size:256
+
+INFO:root:avgtime: 198.1534ms
+
+INFO:root:avgenery: 154.0857mJ
+
+INFO:root:memory frequency:9251,frequency:1140,batch_size:128
+
+INFO:root:avgtime: 103.5138ms
+
+INFO:root:avgenery: 155.8606mJ
+
+INFO:root:memory frequency:9251,frequency:1140,batch_size:64
+
+INFO:root:avgtime: 56.1997ms
+
+INFO:root:avgenery: 161.4455mJ
+
+INFO:root:memory frequency:9251,frequency:1140,batch_size:32
+
+INFO:root:avgtime: 32.5849ms
+
+INFO:root:avgenery: 175.1457mJ
+
+INFO:root:memory frequency:9251,frequency:1140,batch_size:16
+
+INFO:root:avgtime: 20.2549ms
+
+INFO:root:avgenery: 203.3138mJ
+
+INFO:root:memory frequency:9251,frequency:1140,batch_size:8
+
+INFO:root:avgtime: 15.3135ms
+
+INFO:root:avgenery: 275.2122mJ
+
+INFO:root:memory frequency:9251,frequency:1140,batch_size:4
+
+INFO:root:avgtime: 12.4592ms
+
+INFO:root:avgenery: 415.4956mJ
+
+INFO:root:memory frequency:9251,frequency:1140,batch_size:2
+
+INFO:root:avgtime: 11.0218ms
+
+INFO:root:avgenery: 690.0024mJ
+
+INFO:root:memory frequency:9251,frequency:1140,batch_size:1
+
+INFO:root:avgtime: 10.4025ms
+
+INFO:root:avgenery: 1259.7384mJ
+
+INFO:root:memory frequency:9251,frequency:1080,batch_size:256
+
+INFO:root:avgtime: 204.5112ms
+
+INFO:root:avgenery: 156.7703mJ
+
+INFO:root:memory frequency:9251,frequency:1080,batch_size:128
+
+INFO:root:avgtime: 105.4420ms
+
+INFO:root:avgenery: 157.8234mJ
+
+INFO:root:memory frequency:9251,frequency:1080,batch_size:64
+
+INFO:root:avgtime: 57.8616ms
+
+INFO:root:avgenery: 164.5456mJ
+
+INFO:root:memory frequency:9251,frequency:1080,batch_size:32
+
+INFO:root:avgtime: 33.9841ms
+
+INFO:root:avgenery: 179.2500mJ
+
+INFO:root:memory frequency:9251,frequency:1080,batch_size:16
+
+INFO:root:avgtime: 20.7844ms
+
+INFO:root:avgenery: 207.5600mJ
+
+INFO:root:memory frequency:9251,frequency:1080,batch_size:8
+
+INFO:root:avgtime: 15.8678ms
+
+INFO:root:avgenery: 283.0688mJ
+
+INFO:root:memory frequency:9251,frequency:1080,batch_size:4
+
+INFO:root:avgtime: 12.9527ms
+
+INFO:root:avgenery: 428.3395mJ
+
+INFO:root:memory frequency:9251,frequency:1080,batch_size:2
+
+INFO:root:avgtime: 11.5049ms
+
+INFO:root:avgenery: 713.3578mJ
+
+INFO:root:memory frequency:9251,frequency:1080,batch_size:1
+
+INFO:root:avgtime: 10.7692ms
+
+INFO:root:avgenery: 1295.0740mJ
+
+INFO:root:memory frequency:9251,frequency:1020,batch_size:256
+
+INFO:root:avgtime: 210.1696ms
+
+INFO:root:avgenery: 158.8227mJ
+
+INFO:root:memory frequency:9251,frequency:1020,batch_size:128
+
+INFO:root:avgtime: 109.4463ms
+
+INFO:root:avgenery: 160.2121mJ
+
+INFO:root:memory frequency:9251,frequency:1020,batch_size:64
+
+INFO:root:avgtime: 59.8399ms
+
+INFO:root:avgenery: 167.1818mJ
+
+INFO:root:memory frequency:9251,frequency:1020,batch_size:32
+
+INFO:root:avgtime: 35.2464ms
+
+INFO:root:avgenery: 182.9411mJ
+
+INFO:root:memory frequency:9251,frequency:1020,batch_size:16
+
+INFO:root:avgtime: 21.7685ms
+
+INFO:root:avgenery: 211.9927mJ
+
+INFO:root:memory frequency:9251,frequency:1020,batch_size:8
+
+INFO:root:avgtime: 16.1076ms
+
+INFO:root:avgenery: 288.6836mJ
+
+INFO:root:memory frequency:9251,frequency:1020,batch_size:4
+
+INFO:root:avgtime: 13.1904ms
+
+INFO:root:avgenery: 433.5816mJ
+
+INFO:root:memory frequency:9251,frequency:1020,batch_size:2
+
+INFO:root:avgtime: 11.9551ms
+
+INFO:root:avgenery: 736.0402mJ
+
+INFO:root:memory frequency:9251,frequency:1020,batch_size:1
+
+INFO:root:avgtime: 11.0571ms
+
+INFO:root:avgenery: 1322.8528mJ
+
+INFO:root:memory frequency:9251,frequency:960,batch_size:256
+
+INFO:root:avgtime: 212.9224ms
+
+INFO:root:avgenery: 160.3642mJ
+
+INFO:root:memory frequency:9251,frequency:960,batch_size:128
+
+INFO:root:avgtime: 112.5500ms
+
+INFO:root:avgenery: 162.6037mJ
+
+INFO:root:memory frequency:9251,frequency:960,batch_size:64
+
+INFO:root:avgtime: 60.9995ms
+
+INFO:root:avgenery: 169.4234mJ
+
+INFO:root:memory frequency:9251,frequency:960,batch_size:32
+
+INFO:root:avgtime: 35.6563ms
+
+INFO:root:avgenery: 184.6451mJ
+
+INFO:root:memory frequency:9251,frequency:960,batch_size:16
+
+INFO:root:avgtime: 22.0076ms
+
+INFO:root:avgenery: 213.0533mJ
+
+INFO:root:memory frequency:9251,frequency:960,batch_size:8
+
+INFO:root:avgtime: 16.7687ms
+
+INFO:root:avgenery: 295.5064mJ
+
+INFO:root:memory frequency:9251,frequency:960,batch_size:4
+
+INFO:root:avgtime: 13.7312ms
+
+INFO:root:avgenery: 446.3315mJ
+
+INFO:root:memory frequency:9251,frequency:960,batch_size:2
+
+INFO:root:avgtime: 12.2720ms
+
+INFO:root:avgenery: 750.8318mJ
+
+INFO:root:memory frequency:9251,frequency:960,batch_size:1
+
+INFO:root:avgtime: 11.5629ms
+
+INFO:root:avgenery: 1373.9885mJ
+
+INFO:root:memory frequency:9251,frequency:900,batch_size:256
+
+INFO:root:avgtime: 222.7769ms
+
+INFO:root:avgenery: 164.0042mJ
+
+INFO:root:memory frequency:9251,frequency:900,batch_size:128
+
+INFO:root:avgtime: 114.4606ms
+
+INFO:root:avgenery: 164.7670mJ
+
+INFO:root:memory frequency:9251,frequency:900,batch_size:64
+
+INFO:root:avgtime: 63.7777ms
+
+INFO:root:avgenery: 174.0614mJ
+
+INFO:root:memory frequency:9251,frequency:900,batch_size:32
+
+INFO:root:avgtime: 37.7367ms
+
+INFO:root:avgenery: 190.9908mJ
+
+INFO:root:memory frequency:9251,frequency:900,batch_size:16
+
+INFO:root:avgtime: 22.9536ms
+
+INFO:root:avgenery: 220.1264mJ
+
+INFO:root:memory frequency:9251,frequency:900,batch_size:8
+
+INFO:root:avgtime: 17.4783ms
+
+INFO:root:avgenery: 302.1440mJ
+
+INFO:root:memory frequency:9251,frequency:900,batch_size:4
+
+INFO:root:avgtime: 14.4126ms
+
+INFO:root:avgenery: 462.8116mJ
+
+INFO:root:memory frequency:9251,frequency:900,batch_size:2
+
+INFO:root:avgtime: 12.8461ms
+
+INFO:root:avgenery: 775.5142mJ
+
+INFO:root:memory frequency:9251,frequency:900,batch_size:1
+
+INFO:root:avgtime: 12.0741ms
+
+INFO:root:avgenery: 1417.6329mJ
+
+INFO:root:memory frequency:9251,frequency:840,batch_size:256
+
+INFO:root:avgtime: 227.9829ms
+
+INFO:root:avgenery: 166.1937mJ
+
+INFO:root:memory frequency:9251,frequency:840,batch_size:128
+
+INFO:root:avgtime: 120.8932ms
+
+INFO:root:avgenery: 169.6351mJ
+
+INFO:root:memory frequency:9251,frequency:840,batch_size:64
+
+INFO:root:avgtime: 66.5178ms
+
+INFO:root:avgenery: 178.2057mJ
+
+INFO:root:memory frequency:9251,frequency:840,batch_size:32
+
+INFO:root:avgtime: 39.4522ms
+
+INFO:root:avgenery: 196.3437mJ
+
+INFO:root:memory frequency:9251,frequency:840,batch_size:16
+
+INFO:root:avgtime: 24.0557ms
+
+INFO:root:avgenery: 225.9053mJ
+
+INFO:root:memory frequency:9251,frequency:840,batch_size:8
+
+INFO:root:avgtime: 18.3255ms
+
+INFO:root:avgenery: 313.8399mJ
+
+INFO:root:memory frequency:9251,frequency:840,batch_size:4
+
+INFO:root:avgtime: 15.0511ms
+
+INFO:root:avgenery: 480.4564mJ
+
+INFO:root:memory frequency:9251,frequency:840,batch_size:2
+
+INFO:root:avgtime: 13.4460ms
+
+INFO:root:avgenery: 806.4786mJ
+
+INFO:root:memory frequency:9251,frequency:840,batch_size:1
+
+INFO:root:avgtime: 12.6892ms
+
+INFO:root:avgenery: 1474.2222mJ
+
+INFO:root:memory frequency:9251,frequency:780,batch_size:256
+
+INFO:root:avgtime: 234.1078ms
+
+INFO:root:avgenery: 169.2318mJ
+
+INFO:root:memory frequency:9251,frequency:780,batch_size:128
+
+INFO:root:avgtime: 122.7349ms
+
+INFO:root:avgenery: 171.8923mJ
+
+INFO:root:memory frequency:9251,frequency:780,batch_size:64
+
+INFO:root:avgtime: 69.7211ms
+
+INFO:root:avgenery: 183.6945mJ
+
+INFO:root:memory frequency:9251,frequency:780,batch_size:32
+
+INFO:root:avgtime: 39.9000ms
+
+INFO:root:avgenery: 198.3741mJ
+
+INFO:root:memory frequency:9251,frequency:780,batch_size:16
+
+INFO:root:avgtime: 25.1622ms
+
+INFO:root:avgenery: 232.5343mJ
+
+INFO:root:memory frequency:9251,frequency:780,batch_size:8
+
+INFO:root:avgtime: 19.0239ms
+
+INFO:root:avgenery: 321.9872mJ
+
+INFO:root:memory frequency:9251,frequency:780,batch_size:4
+
+INFO:root:avgtime: 15.7390ms
+
+INFO:root:avgenery: 498.0443mJ
+
+INFO:root:memory frequency:9251,frequency:780,batch_size:2
+
+INFO:root:avgtime: 14.1016ms
+
+INFO:root:avgenery: 832.7849mJ
+
+INFO:root:memory frequency:9251,frequency:780,batch_size:1
+
+INFO:root:avgtime: 13.3451ms
+
+INFO:root:avgenery: 1532.6215mJ
+
+INFO:root:memory frequency:9251,frequency:720,batch_size:256
+
+INFO:root:avgtime: 249.5270ms
+
+INFO:root:avgenery: 175.1744mJ
+
+INFO:root:memory frequency:9251,frequency:720,batch_size:128
+
+INFO:root:avgtime: 132.4812ms
+
+INFO:root:avgenery: 178.8343mJ
+
+INFO:root:memory frequency:9251,frequency:720,batch_size:64
+
+INFO:root:avgtime: 71.4296ms
+
+INFO:root:avgenery: 186.3413mJ
+
+INFO:root:memory frequency:9251,frequency:720,batch_size:32
+
+INFO:root:avgtime: 42.9922ms
+
+INFO:root:avgenery: 208.2145mJ
+
+INFO:root:memory frequency:9251,frequency:720,batch_size:16
+
+INFO:root:avgtime: 26.0827ms
+
+INFO:root:avgenery: 237.5941mJ
+
+INFO:root:memory frequency:9251,frequency:720,batch_size:8
+
+INFO:root:avgtime: 20.2083ms
+
+INFO:root:avgenery: 336.1908mJ
+
+INFO:root:memory frequency:9251,frequency:720,batch_size:4
+
+INFO:root:avgtime: 16.6529ms
+
+INFO:root:avgenery: 518.4901mJ
+
+INFO:root:memory frequency:9251,frequency:720,batch_size:2
+
+INFO:root:avgtime: 15.0212ms
+
+INFO:root:avgenery: 881.5659mJ
+
+INFO:root:memory frequency:9251,frequency:720,batch_size:1
+
+INFO:root:avgtime: 14.1406ms
+
+INFO:root:avgenery: 1607.4758mJ
+
+INFO:root:memory frequency:9251,frequency:660,batch_size:256
+
+INFO:root:avgtime: 266.5129ms
+
+INFO:root:avgenery: 181.6834mJ
+
+INFO:root:memory frequency:9251,frequency:660,batch_size:128
+
+INFO:root:avgtime: 140.9495ms
+
+INFO:root:avgenery: 185.2964mJ
+
+INFO:root:memory frequency:9251,frequency:660,batch_size:64
+
+INFO:root:avgtime: 77.4454ms
+
+INFO:root:avgenery: 195.5872mJ
+
+INFO:root:memory frequency:9251,frequency:660,batch_size:32
+
+INFO:root:avgtime: 44.7188ms
+
+INFO:root:avgenery: 213.3597mJ
+
+INFO:root:memory frequency:9251,frequency:660,batch_size:16
+
+INFO:root:avgtime: 27.7014ms
+
+INFO:root:avgenery: 249.4903mJ
+
+INFO:root:memory frequency:9251,frequency:660,batch_size:8
+
+INFO:root:avgtime: 21.2241ms
+
+INFO:root:avgenery: 349.1525mJ
+
+INFO:root:memory frequency:9251,frequency:660,batch_size:4
+
+INFO:root:avgtime: 17.7150ms
+
+INFO:root:avgenery: 544.7798mJ
+
+INFO:root:memory frequency:9251,frequency:660,batch_size:2
+
+INFO:root:avgtime: 15.8466ms
+
+INFO:root:avgenery: 919.7669mJ
+
+INFO:root:memory frequency:9251,frequency:660,batch_size:1
+
+INFO:root:avgtime: 15.0915ms
+
+INFO:root:avgenery: 1694.8408mJ
+
+INFO:root:memory frequency:9251,frequency:600,batch_size:256
+
+INFO:root:avgtime: 282.5797ms
+
+INFO:root:avgenery: 188.4878mJ
+
+INFO:root:memory frequency:9251,frequency:600,batch_size:128
+
+INFO:root:avgtime: 150.8464ms
+
+INFO:root:avgenery: 193.7910mJ
+
+INFO:root:memory frequency:9251,frequency:600,batch_size:64
+
+INFO:root:avgtime: 82.8323ms
+
+INFO:root:avgenery: 205.6076mJ
+
+INFO:root:memory frequency:9251,frequency:600,batch_size:32
+
+INFO:root:avgtime: 48.7095ms
+
+INFO:root:avgenery: 226.3161mJ
+
+INFO:root:memory frequency:9251,frequency:600,batch_size:16
+
+INFO:root:avgtime: 29.5681ms
+
+INFO:root:avgenery: 261.6111mJ
+
+INFO:root:memory frequency:9251,frequency:600,batch_size:8
+
+INFO:root:avgtime: 22.9593ms
+
+INFO:root:avgenery: 371.9735mJ
+
+INFO:root:memory frequency:9251,frequency:600,batch_size:4
+
+INFO:root:avgtime: 19.0454ms
+
+INFO:root:avgenery: 577.3733mJ
+
+INFO:root:memory frequency:9251,frequency:600,batch_size:2
+
+INFO:root:avgtime: 17.1345ms
+
+INFO:root:avgenery: 979.5412mJ
+
+INFO:root:memory frequency:9251,frequency:600,batch_size:1
+
+INFO:root:avgtime: 16.3111ms
+
+INFO:root:avgenery: 1801.8581mJ
+
+INFO:root:memory frequency:9251,frequency:540,batch_size:256
+
+INFO:root:avgtime: 291.6333ms
+
+INFO:root:avgenery: 192.4025mJ
+
+INFO:root:memory frequency:9251,frequency:540,batch_size:128
+
+INFO:root:avgtime: 160.6617ms
+
+INFO:root:avgenery: 201.1798mJ
+
+INFO:root:memory frequency:9251,frequency:540,batch_size:64
+
+INFO:root:avgtime: 87.8881ms
+
+INFO:root:avgenery: 213.0074mJ
+
+INFO:root:memory frequency:9251,frequency:540,batch_size:32
+
+INFO:root:avgtime: 51.7284ms
+
+INFO:root:avgenery: 235.4106mJ
+
+INFO:root:memory frequency:9251,frequency:540,batch_size:16
+
+INFO:root:avgtime: 31.7163ms
+
+INFO:root:avgenery: 275.4902mJ
+
+INFO:root:memory frequency:9251,frequency:540,batch_size:8
+
+INFO:root:avgtime: 24.8091ms
+
+INFO:root:avgenery: 393.1940mJ
+
+INFO:root:memory frequency:9251,frequency:540,batch_size:4
+
+INFO:root:avgtime: 20.3716ms
+
+INFO:root:avgenery: 606.7511mJ
+
+INFO:root:memory frequency:9251,frequency:540,batch_size:2
+
+INFO:root:avgtime: 18.5253ms
+
+INFO:root:avgenery: 1046.7249mJ
+
+INFO:root:memory frequency:9251,frequency:540,batch_size:1
+
+INFO:root:avgtime: 17.6932ms
+
+INFO:root:avgenery: 1934.4160mJ
+
+INFO:root:memory frequency:5001,frequency:2100,batch_size:256
+
+INFO:root:avgtime: 214.1486ms
+
+INFO:root:avgenery: 231.3441mJ
+
+INFO:root:memory frequency:5001,frequency:2100,batch_size:128
+
+INFO:root:avgtime: 110.5997ms
+
+INFO:root:avgenery: 232.9615mJ
+
+INFO:root:memory frequency:5001,frequency:2100,batch_size:64
+
+INFO:root:avgtime: 56.7044ms
+
+INFO:root:avgenery: 234.6834mJ
+
+INFO:root:memory frequency:5001,frequency:2100,batch_size:32
+
+INFO:root:avgtime: 32.9656ms
+
+INFO:root:avgenery: 252.0357mJ
+
+INFO:root:memory frequency:5001,frequency:2100,batch_size:16
+
+INFO:root:avgtime: 19.4967ms
+
+INFO:root:avgenery: 274.8461mJ
+
+INFO:root:memory frequency:5001,frequency:2100,batch_size:8
+
+INFO:root:avgtime: 12.7326ms
+
+INFO:root:avgenery: 320.1820mJ
+
+INFO:root:memory frequency:5001,frequency:2100,batch_size:4
+
+INFO:root:avgtime: 10.9262ms
+
+INFO:root:avgenery: 476.0158mJ
+
+INFO:root:memory frequency:5001,frequency:2100,batch_size:2
+
+INFO:root:avgtime: 9.9679ms
+
+INFO:root:avgenery: 786.4595mJ
+
+INFO:root:memory frequency:5001,frequency:2100,batch_size:1
+
+INFO:root:avgtime: 9.9167ms
+
+INFO:root:avgenery: 1469.9572mJ
+
+INFO:root:memory frequency:5001,frequency:2040,batch_size:256
+
+INFO:root:avgtime: 215.1088ms
+
+INFO:root:avgenery: 232.2279mJ
+
+INFO:root:memory frequency:5001,frequency:2040,batch_size:128
+
+INFO:root:avgtime: 112.4911ms
+
+INFO:root:avgenery: 234.4998mJ
+
+INFO:root:memory frequency:5001,frequency:2040,batch_size:64
+
+INFO:root:avgtime: 58.7712ms
+
+INFO:root:avgenery: 240.1226mJ
+
+INFO:root:memory frequency:5001,frequency:2040,batch_size:32
+
+INFO:root:avgtime: 33.1537ms
+
+INFO:root:avgenery: 252.6666mJ
+
+INFO:root:memory frequency:5001,frequency:2040,batch_size:16
+
+INFO:root:avgtime: 19.1873ms
+
+INFO:root:avgenery: 272.7154mJ
+
+INFO:root:memory frequency:5001,frequency:2040,batch_size:8
+
+INFO:root:avgtime: 13.0629ms
+
+INFO:root:avgenery: 326.9725mJ
+
+INFO:root:memory frequency:5001,frequency:2040,batch_size:4
+
+INFO:root:avgtime: 10.6788ms
+
+INFO:root:avgenery: 468.4679mJ
+
+INFO:root:memory frequency:5001,frequency:2040,batch_size:2
+
+INFO:root:avgtime: 10.7015ms
+
+INFO:root:avgenery: 832.4726mJ
+
+INFO:root:memory frequency:5001,frequency:2040,batch_size:1
+
+INFO:root:avgtime: 9.9193ms
+
+INFO:root:avgenery: 1474.6277mJ
+
+INFO:root:memory frequency:5001,frequency:1980,batch_size:256
+
+INFO:root:avgtime: 215.4481ms
+
+INFO:root:avgenery: 232.6908mJ
+
+INFO:root:memory frequency:5001,frequency:1980,batch_size:128
+
+INFO:root:avgtime: 112.3127ms
+
+INFO:root:avgenery: 234.6278mJ
+
+INFO:root:memory frequency:5001,frequency:1980,batch_size:64
+
+INFO:root:avgtime: 58.2742ms
+
+INFO:root:avgenery: 239.2175mJ
+
+INFO:root:memory frequency:5001,frequency:1980,batch_size:32
+
+INFO:root:avgtime: 32.7270ms
+
+INFO:root:avgenery: 252.1608mJ
+
+INFO:root:memory frequency:5001,frequency:1980,batch_size:16
+
+INFO:root:avgtime: 19.1022ms
+
+INFO:root:avgenery: 272.0587mJ
+
+INFO:root:memory frequency:5001,frequency:1980,batch_size:8
+
+INFO:root:avgtime: 12.8789ms
+
+INFO:root:avgenery: 325.4620mJ
+
+INFO:root:memory frequency:5001,frequency:1980,batch_size:4
+
+INFO:root:avgtime: 11.0477ms
+
+INFO:root:avgenery: 481.2902mJ
+
+INFO:root:memory frequency:5001,frequency:1980,batch_size:2
+
+INFO:root:avgtime: 10.3024ms
+
+INFO:root:avgenery: 805.9021mJ
+
+INFO:root:memory frequency:5001,frequency:1980,batch_size:1
+
+INFO:root:avgtime: 10.0611ms
+
+INFO:root:avgenery: 1494.1591mJ
+
+INFO:root:memory frequency:5001,frequency:1920,batch_size:256
+
+INFO:root:avgtime: 215.4442ms
+
+INFO:root:avgenery: 230.4275mJ
+
+INFO:root:memory frequency:5001,frequency:1920,batch_size:128
+
+INFO:root:avgtime: 110.7200ms
+
+INFO:root:avgenery: 225.0814mJ
+
+INFO:root:memory frequency:5001,frequency:1920,batch_size:64
+
+INFO:root:avgtime: 59.6448ms
+
+INFO:root:avgenery: 229.8965mJ
+
+INFO:root:memory frequency:5001,frequency:1920,batch_size:32
+
+INFO:root:avgtime: 33.1337ms
+
+INFO:root:avgenery: 240.6725mJ
+
+INFO:root:memory frequency:5001,frequency:1920,batch_size:16
+
+INFO:root:avgtime: 19.3083ms
+
+INFO:root:avgenery: 259.7218mJ
+
+INFO:root:memory frequency:5001,frequency:1920,batch_size:8
+
+INFO:root:avgtime: 13.1364ms
+
+INFO:root:avgenery: 315.7705mJ
+
+INFO:root:memory frequency:5001,frequency:1920,batch_size:4
+
+INFO:root:avgtime: 10.7907ms
+
+INFO:root:avgenery: 450.8823mJ
+
+INFO:root:memory frequency:5001,frequency:1920,batch_size:2
+
+INFO:root:avgtime: 10.7024ms
+
+INFO:root:avgenery: 799.2766mJ
+
+INFO:root:memory frequency:5001,frequency:1920,batch_size:1
+
+INFO:root:avgtime: 9.3893ms
+
+INFO:root:avgenery: 1351.9071mJ
+
+INFO:root:memory frequency:5001,frequency:1860,batch_size:256
+
+INFO:root:avgtime: 218.0871ms
+
+INFO:root:avgenery: 203.7459mJ
+
+INFO:root:memory frequency:5001,frequency:1860,batch_size:128
+
+INFO:root:avgtime: 111.5033ms
+
+INFO:root:avgenery: 201.7577mJ
+
+INFO:root:memory frequency:5001,frequency:1860,batch_size:64
+
+INFO:root:avgtime: 57.6662ms
+
+INFO:root:avgenery: 202.9741mJ
+
+INFO:root:memory frequency:5001,frequency:1860,batch_size:32
+
+INFO:root:avgtime: 32.3374ms
+
+INFO:root:avgenery: 213.7521mJ
+
+INFO:root:memory frequency:5001,frequency:1860,batch_size:16
+
+INFO:root:avgtime: 19.1680ms
+
+INFO:root:avgenery: 234.3874mJ
+
+INFO:root:memory frequency:5001,frequency:1860,batch_size:8
+
+INFO:root:avgtime: 13.2598ms
+
+INFO:root:avgenery: 282.8802mJ
+
+INFO:root:memory frequency:5001,frequency:1860,batch_size:4
+
+INFO:root:avgtime: 10.5565ms
+
+INFO:root:avgenery: 400.3608mJ
+
+INFO:root:memory frequency:5001,frequency:1860,batch_size:2
+
+INFO:root:avgtime: 10.3346ms
+
+INFO:root:avgenery: 710.2326mJ
+
+INFO:root:memory frequency:5001,frequency:1860,batch_size:1
+
+INFO:root:avgtime: 9.2225ms
+
+INFO:root:avgenery: 1216.6037mJ
+
+INFO:root:memory frequency:5001,frequency:1800,batch_size:256
+
+INFO:root:avgtime: 218.3730ms
+
+INFO:root:avgenery: 187.6240mJ
+
+INFO:root:memory frequency:5001,frequency:1800,batch_size:128
+
+INFO:root:avgtime: 113.9236ms
+
+INFO:root:avgenery: 189.0149mJ
+
+INFO:root:memory frequency:5001,frequency:1800,batch_size:64
+
+INFO:root:avgtime: 60.4033ms
+
+INFO:root:avgenery: 191.4364mJ
+
+INFO:root:memory frequency:5001,frequency:1800,batch_size:32
+
+INFO:root:avgtime: 33.8477ms
+
+INFO:root:avgenery: 201.3583mJ
+
+INFO:root:memory frequency:5001,frequency:1800,batch_size:16
+
+INFO:root:avgtime: 19.7719ms
+
+INFO:root:avgenery: 219.6119mJ
+
+INFO:root:memory frequency:5001,frequency:1800,batch_size:8
+
+INFO:root:avgtime: 13.5359ms
+
+INFO:root:avgenery: 269.4776mJ
+
+INFO:root:memory frequency:5001,frequency:1800,batch_size:4
+
+INFO:root:avgtime: 10.7534ms
+
+INFO:root:avgenery: 380.2380mJ
+
+INFO:root:memory frequency:5001,frequency:1800,batch_size:2
+
+INFO:root:avgtime: 10.1973ms
+
+INFO:root:avgenery: 656.5544mJ
+
+INFO:root:memory frequency:5001,frequency:1800,batch_size:1
+
+INFO:root:avgtime: 10.0615ms
+
+INFO:root:avgenery: 1215.4136mJ
+
+INFO:root:memory frequency:5001,frequency:1740,batch_size:256
+
+INFO:root:avgtime: 217.8313ms
+
+INFO:root:avgenery: 174.7973mJ
+
+INFO:root:memory frequency:5001,frequency:1740,batch_size:128
+
+INFO:root:avgtime: 112.4941ms
+
+INFO:root:avgenery: 176.5441mJ
+
+INFO:root:memory frequency:5001,frequency:1740,batch_size:64
+
+INFO:root:avgtime: 58.0009ms
+
+INFO:root:avgenery: 177.6400mJ
+
+INFO:root:memory frequency:5001,frequency:1740,batch_size:32
+
+INFO:root:avgtime: 33.7859ms
+
+INFO:root:avgenery: 189.3484mJ
+
+INFO:root:memory frequency:5001,frequency:1740,batch_size:16
+
+INFO:root:avgtime: 19.9329ms
+
+INFO:root:avgenery: 209.0916mJ
+
+INFO:root:memory frequency:5001,frequency:1740,batch_size:8
+
+INFO:root:avgtime: 13.6274ms
+
+INFO:root:avgenery: 254.5462mJ
+
+INFO:root:memory frequency:5001,frequency:1740,batch_size:4
+
+INFO:root:avgtime: 11.4951ms
+
+INFO:root:avgenery: 383.0086mJ
+
+INFO:root:memory frequency:5001,frequency:1740,batch_size:2
+
+INFO:root:avgtime: 9.8724ms
+
+INFO:root:avgenery: 604.5830mJ
+
+INFO:root:memory frequency:5001,frequency:1740,batch_size:1
+
+INFO:root:avgtime: 9.5691ms
+
+INFO:root:avgenery: 1101.2371mJ
+
+INFO:root:memory frequency:5001,frequency:1680,batch_size:256
+
+INFO:root:avgtime: 218.2784ms
+
+INFO:root:avgenery: 165.6068mJ
+
+INFO:root:memory frequency:5001,frequency:1680,batch_size:128
+
+INFO:root:avgtime: 114.5909ms
+
+INFO:root:avgenery: 168.8252mJ
+
+INFO:root:memory frequency:5001,frequency:1680,batch_size:64
+
+INFO:root:avgtime: 60.5204ms
+
+INFO:root:avgenery: 172.2781mJ
+
+INFO:root:memory frequency:5001,frequency:1680,batch_size:32
+
+INFO:root:avgtime: 34.4773ms
+
+INFO:root:avgenery: 182.4461mJ
+
+INFO:root:memory frequency:5001,frequency:1680,batch_size:16
+
+INFO:root:avgtime: 20.2468ms
+
+INFO:root:avgenery: 200.5717mJ
+
+INFO:root:memory frequency:5001,frequency:1680,batch_size:8
+
+INFO:root:avgtime: 14.0421ms
+
+INFO:root:avgenery: 251.0335mJ
+
+INFO:root:memory frequency:5001,frequency:1680,batch_size:4
+
+INFO:root:avgtime: 11.0548ms
+
+INFO:root:avgenery: 353.6847mJ
+
+INFO:root:memory frequency:5001,frequency:1680,batch_size:2
+
+INFO:root:avgtime: 10.5070ms
+
+INFO:root:avgenery: 602.5433mJ
+
+INFO:root:memory frequency:5001,frequency:1680,batch_size:1
+
+INFO:root:avgtime: 9.3817ms
+
+INFO:root:avgenery: 1022.9976mJ
+
+INFO:root:memory frequency:5001,frequency:1620,batch_size:256
+
+INFO:root:avgtime: 218.6701ms
+
+INFO:root:avgenery: 157.9248mJ
+
+INFO:root:memory frequency:5001,frequency:1620,batch_size:128
+
+INFO:root:avgtime: 115.2554ms
+
+INFO:root:avgenery: 160.1751mJ
+
+INFO:root:memory frequency:5001,frequency:1620,batch_size:64
+
+INFO:root:avgtime: 61.0607ms
+
+INFO:root:avgenery: 164.6615mJ
+
+INFO:root:memory frequency:5001,frequency:1620,batch_size:32
+
+INFO:root:avgtime: 34.4472ms
+
+INFO:root:avgenery: 174.2169mJ
+
+INFO:root:memory frequency:5001,frequency:1620,batch_size:16
+
+INFO:root:avgtime: 20.3441ms
+
+INFO:root:avgenery: 192.5919mJ
+
+INFO:root:memory frequency:5001,frequency:1620,batch_size:8
+
+INFO:root:avgtime: 14.2883ms
+
+INFO:root:avgenery: 241.4980mJ
+
+INFO:root:memory frequency:5001,frequency:1620,batch_size:4
+
+INFO:root:avgtime: 11.2896ms
+
+INFO:root:avgenery: 343.9941mJ
+
+INFO:root:memory frequency:5001,frequency:1620,batch_size:2
+
+INFO:root:avgtime: 10.2297ms
+
+INFO:root:avgenery: 564.4198mJ
+
+INFO:root:memory frequency:5001,frequency:1620,batch_size:1
+
+INFO:root:avgtime: 9.2805ms
+
+INFO:root:avgenery: 970.2092mJ
+
+INFO:root:memory frequency:5001,frequency:1560,batch_size:256
+
+INFO:root:avgtime: 219.2860ms
+
+INFO:root:avgenery: 150.2578mJ
+
+INFO:root:memory frequency:5001,frequency:1560,batch_size:128
+
+INFO:root:avgtime: 115.0334ms
+
+INFO:root:avgenery: 153.2075mJ
+
+INFO:root:memory frequency:5001,frequency:1560,batch_size:64
+
+INFO:root:avgtime: 62.0130ms
+
+INFO:root:avgenery: 158.3817mJ
+
+INFO:root:memory frequency:5001,frequency:1560,batch_size:32
+
+INFO:root:avgtime: 35.0647ms
+
+INFO:root:avgenery: 168.9559mJ
+
+INFO:root:memory frequency:5001,frequency:1560,batch_size:16
+
+INFO:root:avgtime: 21.0572ms
+
+INFO:root:avgenery: 189.5442mJ
+
+INFO:root:memory frequency:5001,frequency:1560,batch_size:8
+
+INFO:root:avgtime: 14.7159ms
+
+INFO:root:avgenery: 237.5322mJ
+
+INFO:root:memory frequency:5001,frequency:1560,batch_size:4
+
+INFO:root:avgtime: 11.7966ms
+
+INFO:root:avgenery: 343.0445mJ
+
+INFO:root:memory frequency:5001,frequency:1560,batch_size:2
+
+INFO:root:avgtime: 9.9605ms
+
+INFO:root:avgenery: 531.2678mJ
+
+INFO:root:memory frequency:5001,frequency:1560,batch_size:1
+
+INFO:root:avgtime: 9.9768ms
+
+INFO:root:avgenery: 987.7312mJ
+
+INFO:root:memory frequency:5001,frequency:1500,batch_size:256
+
+INFO:root:avgtime: 219.7565ms
+
+INFO:root:avgenery: 144.7204mJ
+
+INFO:root:memory frequency:5001,frequency:1500,batch_size:128
+
+INFO:root:avgtime: 115.3177ms
+
+INFO:root:avgenery: 147.6612mJ
+
+INFO:root:memory frequency:5001,frequency:1500,batch_size:64
+
+INFO:root:avgtime: 62.0410ms
+
+INFO:root:avgenery: 152.8060mJ
+
+INFO:root:memory frequency:5001,frequency:1500,batch_size:32
+
+INFO:root:avgtime: 35.0552ms
+
+INFO:root:avgenery: 163.2815mJ
+
+INFO:root:memory frequency:5001,frequency:1500,batch_size:16
+
+INFO:root:avgtime: 21.0239ms
+
+INFO:root:avgenery: 183.6313mJ
+
+INFO:root:memory frequency:5001,frequency:1500,batch_size:8
+
+INFO:root:avgtime: 15.0930ms
+
+INFO:root:avgenery: 234.7734mJ
+
+INFO:root:memory frequency:5001,frequency:1500,batch_size:4
+
+INFO:root:avgtime: 11.9481ms
+
+INFO:root:avgenery: 334.9391mJ
+
+INFO:root:memory frequency:5001,frequency:1500,batch_size:2
+
+INFO:root:avgtime: 10.4345ms
+
+INFO:root:avgenery: 536.1538mJ
+
+INFO:root:memory frequency:5001,frequency:1500,batch_size:1
+
+INFO:root:avgtime: 9.9498ms
+
+INFO:root:avgenery: 967.8876mJ
+
+INFO:root:memory frequency:5001,frequency:1440,batch_size:256
+
+INFO:root:avgtime: 223.7092ms
+
+INFO:root:avgenery: 140.8265mJ
+
+INFO:root:memory frequency:5001,frequency:1440,batch_size:128
+
+INFO:root:avgtime: 115.2088ms
+
+INFO:root:avgenery: 141.9034mJ
+
+INFO:root:memory frequency:5001,frequency:1440,batch_size:64
+
+INFO:root:avgtime: 63.4339ms
+
+INFO:root:avgenery: 148.7633mJ
+
+INFO:root:memory frequency:5001,frequency:1440,batch_size:32
+
+INFO:root:avgtime: 36.0144ms
+
+INFO:root:avgenery: 159.6813mJ
+
+INFO:root:memory frequency:5001,frequency:1440,batch_size:16
+
+INFO:root:avgtime: 21.3439ms
+
+INFO:root:avgenery: 177.8531mJ
+
+INFO:root:memory frequency:5001,frequency:1440,batch_size:8
+
+INFO:root:avgtime: 15.2887ms
+
+INFO:root:avgenery: 228.2228mJ
+
+INFO:root:memory frequency:5001,frequency:1440,batch_size:4
+
+INFO:root:avgtime: 12.0575ms
+
+INFO:root:avgenery: 325.0982mJ
+
+INFO:root:memory frequency:5001,frequency:1440,batch_size:2
+
+INFO:root:avgtime: 10.5900ms
+
+INFO:root:avgenery: 520.7854mJ
+
+INFO:root:memory frequency:5001,frequency:1440,batch_size:1
+
+INFO:root:avgtime: 9.9531ms
+
+INFO:root:avgenery: 937.3470mJ
+
+INFO:root:memory frequency:5001,frequency:1380,batch_size:256
+
+INFO:root:avgtime: 219.2330ms
+
+INFO:root:avgenery: 135.9352mJ
+
+INFO:root:memory frequency:5001,frequency:1380,batch_size:128
+
+INFO:root:avgtime: 115.9192ms
+
+INFO:root:avgenery: 138.5454mJ
+
+INFO:root:memory frequency:5001,frequency:1380,batch_size:64
+
+INFO:root:avgtime: 63.1740ms
+
+INFO:root:avgenery: 144.6221mJ
+
+INFO:root:memory frequency:5001,frequency:1380,batch_size:32
+
+INFO:root:avgtime: 36.5631ms
+
+INFO:root:avgenery: 156.5806mJ
+
+INFO:root:memory frequency:5001,frequency:1380,batch_size:16
+
+INFO:root:avgtime: 21.7211ms
+
+INFO:root:avgenery: 176.6863mJ
+
+INFO:root:memory frequency:5001,frequency:1380,batch_size:8
+
+INFO:root:avgtime: 15.5902ms
+
+INFO:root:avgenery: 226.6866mJ
+
+INFO:root:memory frequency:5001,frequency:1380,batch_size:4
+
+INFO:root:avgtime: 12.3991ms
+
+INFO:root:avgenery: 323.3537mJ
+
+INFO:root:memory frequency:5001,frequency:1380,batch_size:2
+
+INFO:root:avgtime: 10.8454ms
+
+INFO:root:avgenery: 522.3574mJ
+
+INFO:root:memory frequency:5001,frequency:1380,batch_size:1
+
+INFO:root:avgtime: 10.1827ms
+
+INFO:root:avgenery: 941.1044mJ
+
+INFO:root:memory frequency:5001,frequency:1320,batch_size:256
+
+INFO:root:avgtime: 227.1303ms
+
+INFO:root:avgenery: 138.3949mJ
+
+INFO:root:memory frequency:5001,frequency:1320,batch_size:128
+
+INFO:root:avgtime: 118.4016ms
+
+INFO:root:avgenery: 139.7446mJ
+
+INFO:root:memory frequency:5001,frequency:1320,batch_size:64
+
+INFO:root:avgtime: 64.1383ms
+
+INFO:root:avgenery: 145.8648mJ
+
+INFO:root:memory frequency:5001,frequency:1320,batch_size:32
+
+INFO:root:avgtime: 37.0010ms
+
+INFO:root:avgenery: 158.4140mJ
+
+INFO:root:memory frequency:5001,frequency:1320,batch_size:16
+
+INFO:root:avgtime: 22.6135ms
+
+INFO:root:avgenery: 181.2401mJ
+
+INFO:root:memory frequency:5001,frequency:1320,batch_size:8
+
+INFO:root:avgtime: 16.2346ms
+
+INFO:root:avgenery: 235.2319mJ
+
+INFO:root:memory frequency:5001,frequency:1320,batch_size:4
+
+INFO:root:avgtime: 12.8522ms
+
+INFO:root:avgenery: 332.1420mJ
+
+INFO:root:memory frequency:5001,frequency:1320,batch_size:2
+
+INFO:root:avgtime: 11.1781ms
+
+INFO:root:avgenery: 533.7519mJ
+
+INFO:root:memory frequency:5001,frequency:1320,batch_size:1
+
+INFO:root:avgtime: 10.5938ms
+
+INFO:root:avgenery: 973.4716mJ
+
+INFO:root:memory frequency:5001,frequency:1260,batch_size:256
+
+INFO:root:avgtime: 226.7893ms
+
+INFO:root:avgenery: 138.0628mJ
+
+INFO:root:memory frequency:5001,frequency:1260,batch_size:128
+
+INFO:root:avgtime: 119.4812ms
+
+INFO:root:avgenery: 140.0758mJ
+
+INFO:root:memory frequency:5001,frequency:1260,batch_size:64
+
+INFO:root:avgtime: 65.1076ms
+
+INFO:root:avgenery: 146.8549mJ
+
+INFO:root:memory frequency:5001,frequency:1260,batch_size:32
+
+INFO:root:avgtime: 37.7477ms
+
+INFO:root:avgenery: 159.0410mJ
+
+INFO:root:memory frequency:5001,frequency:1260,batch_size:16
+
+INFO:root:avgtime: 22.6711ms
+
+INFO:root:avgenery: 180.1814mJ
+
+INFO:root:memory frequency:5001,frequency:1260,batch_size:8
+
+INFO:root:avgtime: 16.5962ms
+
+INFO:root:avgenery: 234.8715mJ
+
+INFO:root:memory frequency:5001,frequency:1260,batch_size:4
+
+INFO:root:avgtime: 13.3545ms
+
+INFO:root:avgenery: 340.6028mJ
+
+INFO:root:memory frequency:5001,frequency:1260,batch_size:2
+
+INFO:root:avgtime: 11.6586ms
+
+INFO:root:avgenery: 550.6222mJ
+
+INFO:root:memory frequency:5001,frequency:1260,batch_size:1
+
+INFO:root:avgtime: 10.9704ms
+
+INFO:root:avgenery: 993.1114mJ
+
+INFO:root:memory frequency:5001,frequency:1200,batch_size:256
+
+INFO:root:avgtime: 230.1868ms
+
+INFO:root:avgenery: 137.9371mJ
+
+INFO:root:memory frequency:5001,frequency:1200,batch_size:128
+
+INFO:root:avgtime: 115.8571ms
+
+INFO:root:avgenery: 137.8138mJ
+
+INFO:root:memory frequency:5001,frequency:1200,batch_size:64
+
+INFO:root:avgtime: 64.6767ms
+
+INFO:root:avgenery: 145.6563mJ
+
+INFO:root:memory frequency:5001,frequency:1200,batch_size:32
+
+INFO:root:avgtime: 37.8763ms
+
+INFO:root:avgenery: 158.5849mJ
+
+INFO:root:memory frequency:5001,frequency:1200,batch_size:16
+
+INFO:root:avgtime: 23.1770ms
+
+INFO:root:avgenery: 181.5447mJ
+
+INFO:root:memory frequency:5001,frequency:1200,batch_size:8
+
+INFO:root:avgtime: 17.1394ms
+
+INFO:root:avgenery: 240.0188mJ
+
+INFO:root:memory frequency:5001,frequency:1200,batch_size:4
+
+INFO:root:avgtime: 13.9284ms
+
+INFO:root:avgenery: 350.0653mJ
+
+INFO:root:memory frequency:5001,frequency:1200,batch_size:2
+
+INFO:root:avgtime: 12.2093ms
+
+INFO:root:avgenery: 568.4279mJ
+
+INFO:root:memory frequency:5001,frequency:1200,batch_size:1
+
+INFO:root:avgtime: 11.4389ms
+
+INFO:root:avgenery: 1027.4380mJ
+
+INFO:root:memory frequency:5001,frequency:1140,batch_size:256
+
+INFO:root:avgtime: 233.2317ms
+
+INFO:root:avgenery: 139.0353mJ
+
+INFO:root:memory frequency:5001,frequency:1140,batch_size:128
+
+INFO:root:avgtime: 122.7372ms
+
+INFO:root:avgenery: 141.1973mJ
+
+INFO:root:memory frequency:5001,frequency:1140,batch_size:64
+
+INFO:root:avgtime: 67.5954ms
+
+INFO:root:avgenery: 148.4514mJ
+
+INFO:root:memory frequency:5001,frequency:1140,batch_size:32
+
+INFO:root:avgtime: 39.4094ms
+
+INFO:root:avgenery: 161.6114mJ
+
+INFO:root:memory frequency:5001,frequency:1140,batch_size:16
+
+INFO:root:avgtime: 24.1382ms
+
+INFO:root:avgenery: 184.9792mJ
+
+INFO:root:memory frequency:5001,frequency:1140,batch_size:8
+
+INFO:root:avgtime: 17.8928ms
+
+INFO:root:avgenery: 246.0569mJ
+
+INFO:root:memory frequency:5001,frequency:1140,batch_size:4
+
+INFO:root:avgtime: 14.5428ms
+
+INFO:root:avgenery: 361.1287mJ
+
+INFO:root:memory frequency:5001,frequency:1140,batch_size:2
+
+INFO:root:avgtime: 12.5106ms
+
+INFO:root:avgenery: 573.4187mJ
+
+INFO:root:memory frequency:5001,frequency:1140,batch_size:1
+
+INFO:root:avgtime: 11.8478ms
+
+INFO:root:avgenery: 1048.2504mJ
+
+INFO:root:memory frequency:5001,frequency:1080,batch_size:256
+
+INFO:root:avgtime: 236.8857ms
+
+INFO:root:avgenery: 139.0961mJ
+
+INFO:root:memory frequency:5001,frequency:1080,batch_size:128
+
+INFO:root:avgtime: 120.6048ms
+
+INFO:root:avgenery: 139.2403mJ
+
+INFO:root:memory frequency:5001,frequency:1080,batch_size:64
+
+INFO:root:avgtime: 66.8595ms
+
+INFO:root:avgenery: 146.8599mJ
+
+INFO:root:memory frequency:5001,frequency:1080,batch_size:32
+
+INFO:root:avgtime: 39.3995ms
+
+INFO:root:avgenery: 161.0730mJ
+
+INFO:root:memory frequency:5001,frequency:1080,batch_size:16
+
+INFO:root:avgtime: 24.2787ms
+
+INFO:root:avgenery: 185.4260mJ
+
+INFO:root:memory frequency:5001,frequency:1080,batch_size:8
+
+INFO:root:avgtime: 18.2484ms
+
+INFO:root:avgenery: 248.1415mJ
+
+INFO:root:memory frequency:5001,frequency:1080,batch_size:4
+
+INFO:root:avgtime: 14.9239ms
+
+INFO:root:avgenery: 366.9799mJ
+
+INFO:root:memory frequency:5001,frequency:1080,batch_size:2
+
+INFO:root:avgtime: 12.9486ms
+
+INFO:root:avgenery: 589.9874mJ
+
+INFO:root:memory frequency:5001,frequency:1080,batch_size:1
+
+INFO:root:avgtime: 12.3015ms
+
+INFO:root:avgenery: 1086.4239mJ
+
+INFO:root:memory frequency:5001,frequency:1020,batch_size:256
+
+INFO:root:avgtime: 233.7282ms
+
+INFO:root:avgenery: 138.3295mJ
+
+INFO:root:memory frequency:5001,frequency:1020,batch_size:128
+
+INFO:root:avgtime: 124.0092ms
+
+INFO:root:avgenery: 141.2107mJ
+
+INFO:root:memory frequency:5001,frequency:1020,batch_size:64
+
+INFO:root:avgtime: 67.0326ms
+
+INFO:root:avgenery: 146.6964mJ
+
+INFO:root:memory frequency:5001,frequency:1020,batch_size:32
+
+INFO:root:avgtime: 40.4383ms
+
+INFO:root:avgenery: 163.0262mJ
+
+INFO:root:memory frequency:5001,frequency:1020,batch_size:16
+
+INFO:root:avgtime: 25.0251ms
+
+INFO:root:avgenery: 188.9900mJ
+
+INFO:root:memory frequency:5001,frequency:1020,batch_size:8
+
+INFO:root:avgtime: 18.7583ms
+
+INFO:root:avgenery: 252.3417mJ
+
+INFO:root:memory frequency:5001,frequency:1020,batch_size:4
+
+INFO:root:avgtime: 15.2725ms
+
+INFO:root:avgenery: 371.6987mJ
+
+INFO:root:memory frequency:5001,frequency:1020,batch_size:2
+
+INFO:root:avgtime: 13.3103ms
+
+INFO:root:avgenery: 602.2012mJ
+
+INFO:root:memory frequency:5001,frequency:1020,batch_size:1
+
+INFO:root:avgtime: 12.5457ms
+
+INFO:root:avgenery: 1102.3085mJ
+
+INFO:root:memory frequency:5001,frequency:960,batch_size:256
+
+INFO:root:avgtime: 237.2341ms
+
+INFO:root:avgenery: 138.9260mJ
+
+INFO:root:memory frequency:5001,frequency:960,batch_size:128
+
+INFO:root:avgtime: 125.7041ms
+
+INFO:root:avgenery: 141.7461mJ
+
+INFO:root:memory frequency:5001,frequency:960,batch_size:64
+
+INFO:root:avgtime: 69.5533ms
+
+INFO:root:avgenery: 150.1671mJ
+
+INFO:root:memory frequency:5001,frequency:960,batch_size:32
+
+INFO:root:avgtime: 41.2408ms
+
+INFO:root:avgenery: 165.1858mJ
+
+INFO:root:memory frequency:5001,frequency:960,batch_size:16
+
+INFO:root:avgtime: 25.3483ms
+
+INFO:root:avgenery: 189.5532mJ
+
+INFO:root:memory frequency:5001,frequency:960,batch_size:8
+
+INFO:root:avgtime: 19.3789ms
+
+INFO:root:avgenery: 257.8945mJ
+
+INFO:root:memory frequency:5001,frequency:960,batch_size:4
+
+INFO:root:avgtime: 15.8381ms
+
+INFO:root:avgenery: 382.5537mJ
+
+INFO:root:memory frequency:5001,frequency:960,batch_size:2
+
+INFO:root:avgtime: 13.7165ms
+
+INFO:root:avgenery: 616.4297mJ
+
+INFO:root:memory frequency:5001,frequency:960,batch_size:1
+
+INFO:root:avgtime: 13.1076ms
+
+INFO:root:avgenery: 1141.0423mJ
+
+INFO:root:memory frequency:5001,frequency:900,batch_size:256
+
+INFO:root:avgtime: 231.3830ms
+
+INFO:root:avgenery: 137.3019mJ
+
+INFO:root:memory frequency:5001,frequency:900,batch_size:128
+
+INFO:root:avgtime: 124.8714ms
+
+INFO:root:avgenery: 141.4660mJ
+
+INFO:root:memory frequency:5001,frequency:900,batch_size:64
+
+INFO:root:avgtime: 71.0452ms
+
+INFO:root:avgenery: 151.4748mJ
+
+INFO:root:memory frequency:5001,frequency:900,batch_size:32
+
+INFO:root:avgtime: 41.1809ms
+
+INFO:root:avgenery: 165.3543mJ
+
+INFO:root:memory frequency:5001,frequency:900,batch_size:16
+
+INFO:root:avgtime: 25.7926ms
+
+INFO:root:avgenery: 192.3032mJ
+
+INFO:root:memory frequency:5001,frequency:900,batch_size:8
+
+INFO:root:avgtime: 19.8345ms
+
+INFO:root:avgenery: 262.1541mJ
+
+INFO:root:memory frequency:5001,frequency:900,batch_size:4
+
+INFO:root:avgtime: 16.1680ms
+
+INFO:root:avgenery: 387.1292mJ
+
+INFO:root:memory frequency:5001,frequency:900,batch_size:2
+
+INFO:root:avgtime: 14.4283ms
+
+INFO:root:avgenery: 646.1364mJ
+
+INFO:root:memory frequency:5001,frequency:900,batch_size:1
+
+INFO:root:avgtime: 13.5795ms
+
+INFO:root:avgenery: 1175.9945mJ
+
+INFO:root:memory frequency:5001,frequency:840,batch_size:256
+
+INFO:root:avgtime: 249.3053ms
+
+INFO:root:avgenery: 141.8371mJ
+
+INFO:root:memory frequency:5001,frequency:840,batch_size:128
+
+INFO:root:avgtime: 132.2567ms
+
+INFO:root:avgenery: 145.6697mJ
+
+INFO:root:memory frequency:5001,frequency:840,batch_size:64
+
+INFO:root:avgtime: 73.0544ms
+
+INFO:root:avgenery: 153.8339mJ
+
+INFO:root:memory frequency:5001,frequency:840,batch_size:32
+
+INFO:root:avgtime: 42.7414ms
+
+INFO:root:avgenery: 168.7845mJ
+
+INFO:root:memory frequency:5001,frequency:840,batch_size:16
+
+INFO:root:avgtime: 26.6936ms
+
+INFO:root:avgenery: 196.1840mJ
+
+INFO:root:memory frequency:5001,frequency:840,batch_size:8
+
+INFO:root:avgtime: 20.4333ms
+
+INFO:root:avgenery: 266.8531mJ
+
+INFO:root:memory frequency:5001,frequency:840,batch_size:4
+
+INFO:root:avgtime: 16.8585ms
+
+INFO:root:avgenery: 399.1953mJ
+
+INFO:root:memory frequency:5001,frequency:840,batch_size:2
+
+INFO:root:avgtime: 14.9734ms
+
+INFO:root:avgenery: 661.3970mJ
+
+INFO:root:memory frequency:5001,frequency:840,batch_size:1
+
+INFO:root:avgtime: 14.1324ms
+
+INFO:root:avgenery: 1207.4141mJ
+
+INFO:root:memory frequency:5001,frequency:780,batch_size:256
+
+INFO:root:avgtime: 256.7324ms
+
+INFO:root:avgenery: 143.5477mJ
+
+INFO:root:memory frequency:5001,frequency:780,batch_size:128
+
+INFO:root:avgtime: 135.7669ms
+
+INFO:root:avgenery: 146.7318mJ
+
+INFO:root:memory frequency:5001,frequency:780,batch_size:64
+
+INFO:root:avgtime: 74.5690ms
+
+INFO:root:avgenery: 154.6734mJ
+
+INFO:root:memory frequency:5001,frequency:780,batch_size:32
+
+INFO:root:avgtime: 44.6066ms
+
+INFO:root:avgenery: 172.1085mJ
+
+INFO:root:memory frequency:5001,frequency:780,batch_size:16
+
+INFO:root:avgtime: 27.8241ms
+
+INFO:root:avgenery: 200.3907mJ
+
+INFO:root:memory frequency:5001,frequency:780,batch_size:8
+
+INFO:root:avgtime: 21.4344ms
+
+INFO:root:avgenery: 274.7261mJ
+
+INFO:root:memory frequency:5001,frequency:780,batch_size:4
+
+INFO:root:avgtime: 17.7765ms
+
+INFO:root:avgenery: 414.2098mJ
+
+INFO:root:memory frequency:5001,frequency:780,batch_size:2
+
+INFO:root:avgtime: 15.6555ms
+
+INFO:root:avgenery: 684.4807mJ
+
+INFO:root:memory frequency:5001,frequency:780,batch_size:1
+
+INFO:root:avgtime: 14.8880ms
+
+INFO:root:avgenery: 1264.1041mJ
+
+INFO:root:memory frequency:5001,frequency:720,batch_size:256
+
+INFO:root:avgtime: 269.1577ms
+
+INFO:root:avgenery: 147.6354mJ
+
+INFO:root:memory frequency:5001,frequency:720,batch_size:128
+
+INFO:root:avgtime: 134.2513ms
+
+INFO:root:avgenery: 146.4484mJ
+
+INFO:root:memory frequency:5001,frequency:720,batch_size:64
+
+INFO:root:avgtime: 78.3193ms
+
+INFO:root:avgenery: 159.7228mJ
+
+INFO:root:memory frequency:5001,frequency:720,batch_size:32
+
+INFO:root:avgtime: 46.4219ms
+
+INFO:root:avgenery: 176.3759mJ
+
+INFO:root:memory frequency:5001,frequency:720,batch_size:16
+
+INFO:root:avgtime: 29.0223ms
+
+INFO:root:avgenery: 205.4684mJ
+
+INFO:root:memory frequency:5001,frequency:720,batch_size:8
+
+INFO:root:avgtime: 22.3376ms
+
+INFO:root:avgenery: 282.2882mJ
+
+INFO:root:memory frequency:5001,frequency:720,batch_size:4
+
+INFO:root:avgtime: 18.5223ms
+
+INFO:root:avgenery: 426.8995mJ
+
+INFO:root:memory frequency:5001,frequency:720,batch_size:2
+
+INFO:root:avgtime: 16.4379ms
+
+INFO:root:avgenery: 712.8252mJ
+
+INFO:root:memory frequency:5001,frequency:720,batch_size:1
+
+INFO:root:avgtime: 15.6434ms
+
+INFO:root:avgenery: 1316.0932mJ
+
+INFO:root:memory frequency:5001,frequency:660,batch_size:256
+
+INFO:root:avgtime: 280.5305ms
+
+INFO:root:avgenery: 151.3294mJ
+
+INFO:root:memory frequency:5001,frequency:660,batch_size:128
+
+INFO:root:avgtime: 148.1877ms
+
+INFO:root:avgenery: 155.2456mJ
+
+INFO:root:memory frequency:5001,frequency:660,batch_size:64
+
+INFO:root:avgtime: 82.0440ms
+
+INFO:root:avgenery: 164.8612mJ
+
+INFO:root:memory frequency:5001,frequency:660,batch_size:32
+
+INFO:root:avgtime: 48.5453ms
+
+INFO:root:avgenery: 182.2023mJ
+
+INFO:root:memory frequency:5001,frequency:660,batch_size:16
+
+INFO:root:avgtime: 30.3813ms
+
+INFO:root:avgenery: 213.4802mJ
+
+INFO:root:memory frequency:5001,frequency:660,batch_size:8
+
+INFO:root:avgtime: 23.6747ms
+
+INFO:root:avgenery: 296.3847mJ
+
+INFO:root:memory frequency:5001,frequency:660,batch_size:4
+
+INFO:root:avgtime: 19.4946ms
+
+INFO:root:avgenery: 445.4552mJ
+
+INFO:root:memory frequency:5001,frequency:660,batch_size:2
+
+INFO:root:avgtime: 17.4833ms
+
+INFO:root:avgenery: 750.2539mJ
+
+INFO:root:memory frequency:5001,frequency:660,batch_size:1
+
+INFO:root:avgtime: 16.5879ms
+
+INFO:root:avgenery: 1383.4595mJ
+
+INFO:root:memory frequency:5001,frequency:600,batch_size:256
+
+INFO:root:avgtime: 297.1375ms
+
+INFO:root:avgenery: 155.3372mJ
+
+INFO:root:memory frequency:5001,frequency:600,batch_size:128
+
+INFO:root:avgtime: 156.6476ms
+
+INFO:root:avgenery: 159.3718mJ
+
+INFO:root:memory frequency:5001,frequency:600,batch_size:64
+
+INFO:root:avgtime: 86.7219ms
+
+INFO:root:avgenery: 169.2076mJ
+
+INFO:root:memory frequency:5001,frequency:600,batch_size:32
+
+INFO:root:avgtime: 51.8794ms
+
+INFO:root:avgenery: 188.7877mJ
+
+INFO:root:memory frequency:5001,frequency:600,batch_size:16
+
+INFO:root:avgtime: 32.3331ms
+
+INFO:root:avgenery: 220.9639mJ
+
+INFO:root:memory frequency:5001,frequency:600,batch_size:8
+
+INFO:root:avgtime: 25.0932ms
+
+INFO:root:avgenery: 305.3567mJ
+
+INFO:root:memory frequency:5001,frequency:600,batch_size:4
+
+INFO:root:avgtime: 20.5838ms
+
+INFO:root:avgenery: 461.1728mJ
+
+INFO:root:memory frequency:5001,frequency:600,batch_size:2
+
+INFO:root:avgtime: 18.6727ms
+
+INFO:root:avgenery: 793.3343mJ
+
+INFO:root:memory frequency:5001,frequency:600,batch_size:1
+
+INFO:root:avgtime: 17.7830ms
+
+INFO:root:avgenery: 1466.3961mJ
+
+INFO:root:memory frequency:5001,frequency:540,batch_size:256
+
+INFO:root:avgtime: 318.4281ms
+
+INFO:root:avgenery: 161.9959mJ
+
+INFO:root:memory frequency:5001,frequency:540,batch_size:128
+
+INFO:root:avgtime: 167.0278ms
+
+INFO:root:avgenery: 165.3008mJ
+
+INFO:root:memory frequency:5001,frequency:540,batch_size:64
+
+INFO:root:avgtime: 90.2349ms
+
+INFO:root:avgenery: 173.5389mJ
+
+INFO:root:memory frequency:5001,frequency:540,batch_size:32
+
+INFO:root:avgtime: 55.4126ms
+
+INFO:root:avgenery: 196.6947mJ
+
+INFO:root:memory frequency:5001,frequency:540,batch_size:16
+
+INFO:root:avgtime: 34.5676ms
+
+INFO:root:avgenery: 230.4585mJ
+
+INFO:root:memory frequency:5001,frequency:540,batch_size:8
+
+INFO:root:avgtime: 26.8072ms
+
+INFO:root:avgenery: 320.9627mJ
+
+INFO:root:memory frequency:5001,frequency:540,batch_size:4
+
+INFO:root:avgtime: 22.0799ms
+
+INFO:root:avgenery: 485.5716mJ
+
+INFO:root:memory frequency:5001,frequency:540,batch_size:2
+
+INFO:root:avgtime: 19.9656ms
+
+INFO:root:avgenery: 834.7661mJ
+
+INFO:root:memory frequency:5001,frequency:540,batch_size:1
+
+INFO:root:avgtime: 19.2211ms
+
+INFO:root:avgenery: 1569.2291mJ
+
+INFO:root:memory frequency:810,frequency:2100,batch_size:256
+
+INFO:root:avgtime: 1005.5836ms
+
+INFO:root:avgenery: 508.9271mJ
+
+INFO:root:memory frequency:810,frequency:2100,batch_size:128
+
+INFO:root:avgtime: 505.9745ms
+
+INFO:root:avgenery: 526.2048mJ
+
+INFO:root:memory frequency:810,frequency:2100,batch_size:64
+
+INFO:root:avgtime: 255.5089ms
+
+INFO:root:avgenery: 524.9635mJ
+
+INFO:root:memory frequency:810,frequency:2100,batch_size:32
+
+INFO:root:avgtime: 127.2466ms
+
+INFO:root:avgenery: 518.5209mJ
+
+INFO:root:memory frequency:810,frequency:2100,batch_size:16
+
+INFO:root:avgtime: 63.1148ms
+
+INFO:root:avgenery: 506.9959mJ
+
+INFO:root:memory frequency:810,frequency:2100,batch_size:8
+
+INFO:root:avgtime: 30.4773ms
+
+INFO:root:avgenery: 484.3357mJ
+
+INFO:root:memory frequency:810,frequency:2100,batch_size:4
+
+INFO:root:avgtime: 16.8382ms
+
+INFO:root:avgenery: 508.1228mJ
+
+INFO:root:memory frequency:810,frequency:2100,batch_size:2
+
+INFO:root:avgtime: 10.8885ms
+
+INFO:root:avgenery: 617.3199mJ
+
+INFO:root:memory frequency:810,frequency:2100,batch_size:1
+
+INFO:root:avgtime: 10.3316ms
+
+INFO:root:avgenery: 1074.3101mJ
+
+INFO:root:memory frequency:810,frequency:2040,batch_size:256
+
+INFO:root:avgtime: 990.1321ms
+
+INFO:root:avgenery: 512.9646mJ
+
+INFO:root:memory frequency:810,frequency:2040,batch_size:128
+
+INFO:root:avgtime: 498.2278ms
+
+INFO:root:avgenery: 524.9733mJ
+
+INFO:root:memory frequency:810,frequency:2040,batch_size:64
+
+INFO:root:avgtime: 252.7547ms
+
+INFO:root:avgenery: 521.5272mJ
+
+INFO:root:memory frequency:810,frequency:2040,batch_size:32
+
+INFO:root:avgtime: 126.0649ms
+
+INFO:root:avgenery: 517.4525mJ
+
+INFO:root:memory frequency:810,frequency:2040,batch_size:16
+
+INFO:root:avgtime: 62.6436ms
+
+INFO:root:avgenery: 506.3920mJ
+
+INFO:root:memory frequency:810,frequency:2040,batch_size:8
+
+INFO:root:avgtime: 30.3128ms
+
+INFO:root:avgenery: 483.6390mJ
+
+INFO:root:memory frequency:810,frequency:2040,batch_size:4
+
+INFO:root:avgtime: 16.8636ms
+
+INFO:root:avgenery: 508.7303mJ
+
+INFO:root:memory frequency:810,frequency:2040,batch_size:2
+
+INFO:root:avgtime: 10.6131ms
+
+INFO:root:avgenery: 603.6095mJ
+
+INFO:root:memory frequency:810,frequency:2040,batch_size:1
+
+INFO:root:avgtime: 10.1469ms
+
+INFO:root:avgenery: 1054.3645mJ
+
+INFO:root:memory frequency:810,frequency:1980,batch_size:256
+
+INFO:root:avgtime: 998.5350ms
+
+INFO:root:avgenery: 512.4782mJ
+
+INFO:root:memory frequency:810,frequency:1980,batch_size:128
+
+INFO:root:avgtime: 500.3070ms
+
+INFO:root:avgenery: 525.8684mJ
+
+INFO:root:memory frequency:810,frequency:1980,batch_size:64
+
+INFO:root:avgtime: 252.6457ms
+
+INFO:root:avgenery: 520.7790mJ
+
+INFO:root:memory frequency:810,frequency:1980,batch_size:32
+
+INFO:root:avgtime: 126.1696ms
+
+INFO:root:avgenery: 517.1370mJ
+
+INFO:root:memory frequency:810,frequency:1980,batch_size:16
+
+INFO:root:avgtime: 62.6142ms
+
+INFO:root:avgenery: 506.0289mJ
+
+INFO:root:memory frequency:810,frequency:1980,batch_size:8
+
+INFO:root:avgtime: 30.4083ms
+
+INFO:root:avgenery: 484.2619mJ
+
+INFO:root:memory frequency:810,frequency:1980,batch_size:4
+
+INFO:root:avgtime: 16.9372ms
+
+INFO:root:avgenery: 511.4157mJ
+
+INFO:root:memory frequency:810,frequency:1980,batch_size:2
+
+INFO:root:avgtime: 10.8422ms
+
+INFO:root:avgenery: 614.6682mJ
+
+INFO:root:memory frequency:810,frequency:1980,batch_size:1
+
+INFO:root:avgtime: 10.2535ms
+
+INFO:root:avgenery: 1065.6189mJ
+
+INFO:root:memory frequency:810,frequency:1920,batch_size:256
+
+INFO:root:avgtime: 989.8343ms
+
+INFO:root:avgenery: 467.8043mJ
+
+INFO:root:memory frequency:810,frequency:1920,batch_size:128
+
+INFO:root:avgtime: 500.3224ms
+
+INFO:root:avgenery: 483.5353mJ
+
+INFO:root:memory frequency:810,frequency:1920,batch_size:64
+
+INFO:root:avgtime: 252.7320ms
+
+INFO:root:avgenery: 498.8220mJ
+
+INFO:root:memory frequency:810,frequency:1920,batch_size:32
+
+INFO:root:avgtime: 126.0154ms
+
+INFO:root:avgenery: 489.5105mJ
+
+INFO:root:memory frequency:810,frequency:1920,batch_size:16
+
+INFO:root:avgtime: 62.7083ms
+
+INFO:root:avgenery: 482.5512mJ
+
+INFO:root:memory frequency:810,frequency:1920,batch_size:8
+
+INFO:root:avgtime: 30.4996ms
+
+INFO:root:avgenery: 458.6211mJ
+
+INFO:root:memory frequency:810,frequency:1920,batch_size:4
+
+INFO:root:avgtime: 17.0705ms
+
+INFO:root:avgenery: 480.3390mJ
+
+INFO:root:memory frequency:810,frequency:1920,batch_size:2
+
+INFO:root:avgtime: 10.7355ms
+
+INFO:root:avgenery: 559.1700mJ
+
+INFO:root:memory frequency:810,frequency:1920,batch_size:1
+
+INFO:root:avgtime: 9.9735ms
+
+INFO:root:avgenery: 932.1711mJ
+
+INFO:root:memory frequency:810,frequency:1860,batch_size:256
+
+INFO:root:avgtime: 1005.8841ms
+
+INFO:root:avgenery: 417.2555mJ
+
+INFO:root:memory frequency:810,frequency:1860,batch_size:128
+
+INFO:root:avgtime: 506.1418ms
+
+INFO:root:avgenery: 424.6091mJ
+
+INFO:root:memory frequency:810,frequency:1860,batch_size:64
+
+INFO:root:avgtime: 256.3199ms
+
+INFO:root:avgenery: 431.0610mJ
+
+INFO:root:memory frequency:810,frequency:1860,batch_size:32
+
+INFO:root:avgtime: 127.7652ms
+
+INFO:root:avgenery: 426.7136mJ
+
+INFO:root:memory frequency:810,frequency:1860,batch_size:16
+
+INFO:root:avgtime: 63.6398ms
+
+INFO:root:avgenery: 417.1504mJ
+
+INFO:root:memory frequency:810,frequency:1860,batch_size:8
+
+INFO:root:avgtime: 30.6889ms
+
+INFO:root:avgenery: 396.0648mJ
+
+INFO:root:memory frequency:810,frequency:1860,batch_size:4
+
+INFO:root:avgtime: 17.0748ms
+
+INFO:root:avgenery: 412.5569mJ
+
+INFO:root:memory frequency:810,frequency:1860,batch_size:2
+
+INFO:root:avgtime: 10.5878ms
+
+INFO:root:avgenery: 481.6796mJ
+
+INFO:root:memory frequency:810,frequency:1860,batch_size:1
+
+INFO:root:avgtime: 9.9637ms
+
+INFO:root:avgenery: 843.3581mJ
+
+INFO:root:memory frequency:810,frequency:1800,batch_size:256
+
+INFO:root:avgtime: 1005.5637ms
+
+INFO:root:avgenery: 387.8007mJ
+
+INFO:root:memory frequency:810,frequency:1800,batch_size:128
+
+INFO:root:avgtime: 499.0379ms
+
+INFO:root:avgenery: 384.9576mJ
+
+INFO:root:memory frequency:810,frequency:1800,batch_size:64
+
+INFO:root:avgtime: 253.0941ms
+
+INFO:root:avgenery: 388.1340mJ
+
+INFO:root:memory frequency:810,frequency:1800,batch_size:32
+
+INFO:root:avgtime: 126.3647ms
+
+INFO:root:avgenery: 383.4477mJ
+
+INFO:root:memory frequency:810,frequency:1800,batch_size:16
+
+INFO:root:avgtime: 63.0215ms
+
+INFO:root:avgenery: 377.6727mJ
+
+INFO:root:memory frequency:810,frequency:1800,batch_size:8
+
+INFO:root:avgtime: 30.8849ms
+
+INFO:root:avgenery: 360.5378mJ
+
+INFO:root:memory frequency:810,frequency:1800,batch_size:4
+
+INFO:root:avgtime: 17.2383ms
+
+INFO:root:avgenery: 379.2082mJ
+
+INFO:root:memory frequency:810,frequency:1800,batch_size:2
+
+INFO:root:avgtime: 11.0913ms
+
+INFO:root:avgenery: 464.4861mJ
+
+INFO:root:memory frequency:810,frequency:1800,batch_size:1
+
+INFO:root:avgtime: 10.1753ms
+
+INFO:root:avgenery: 801.8894mJ
+
+INFO:root:memory frequency:810,frequency:1740,batch_size:256
+
+INFO:root:avgtime: 1005.2137ms
+
+INFO:root:avgenery: 367.3402mJ
+
+INFO:root:memory frequency:810,frequency:1740,batch_size:128
+
+INFO:root:avgtime: 501.4039ms
+
+INFO:root:avgenery: 362.9988mJ
+
+INFO:root:memory frequency:810,frequency:1740,batch_size:64
+
+INFO:root:avgtime: 252.9003ms
+
+INFO:root:avgenery: 362.1937mJ
+
+INFO:root:memory frequency:810,frequency:1740,batch_size:32
+
+INFO:root:avgtime: 126.8330ms
+
+INFO:root:avgenery: 358.7620mJ
+
+INFO:root:memory frequency:810,frequency:1740,batch_size:16
+
+INFO:root:avgtime: 63.4282ms
+
+INFO:root:avgenery: 350.8979mJ
+
+INFO:root:memory frequency:810,frequency:1740,batch_size:8
+
+INFO:root:avgtime: 31.2183ms
+
+INFO:root:avgenery: 336.2133mJ
+
+INFO:root:memory frequency:810,frequency:1740,batch_size:4
+
+INFO:root:avgtime: 17.5202ms
+
+INFO:root:avgenery: 360.3893mJ
+
+INFO:root:memory frequency:810,frequency:1740,batch_size:2
+
+INFO:root:avgtime: 11.0569ms
+
+INFO:root:avgenery: 435.3328mJ
+
+INFO:root:memory frequency:810,frequency:1740,batch_size:1
+
+INFO:root:avgtime: 10.2951ms
+
+INFO:root:avgenery: 759.8746mJ
+
+INFO:root:memory frequency:810,frequency:1680,batch_size:256
+
+INFO:root:avgtime: 993.5514ms
+
+INFO:root:avgenery: 340.6511mJ
+
+INFO:root:memory frequency:810,frequency:1680,batch_size:128
+
+INFO:root:avgtime: 498.9560ms
+
+INFO:root:avgenery: 342.7747mJ
+
+INFO:root:memory frequency:810,frequency:1680,batch_size:64
+
+INFO:root:avgtime: 253.2046ms
+
+INFO:root:avgenery: 345.8362mJ
+
+INFO:root:memory frequency:810,frequency:1680,batch_size:32
+
+INFO:root:avgtime: 126.8160ms
+
+INFO:root:avgenery: 342.1546mJ
+
+INFO:root:memory frequency:810,frequency:1680,batch_size:16
+
+INFO:root:avgtime: 63.4166ms
+
+INFO:root:avgenery: 336.6921mJ
+
+INFO:root:memory frequency:810,frequency:1680,batch_size:8
+
+INFO:root:avgtime: 31.3818ms
+
+INFO:root:avgenery: 325.0840mJ
+
+INFO:root:memory frequency:810,frequency:1680,batch_size:4
+
+INFO:root:avgtime: 17.7152ms
+
+INFO:root:avgenery: 346.4787mJ
+
+INFO:root:memory frequency:810,frequency:1680,batch_size:2
+
+INFO:root:avgtime: 11.1349ms
+
+INFO:root:avgenery: 411.8249mJ
+
+INFO:root:memory frequency:810,frequency:1680,batch_size:1
+
+INFO:root:avgtime: 10.3980ms
+
+INFO:root:avgenery: 716.1697mJ
+
+INFO:root:memory frequency:810,frequency:1620,batch_size:256
+
+INFO:root:avgtime: 997.9703ms
+
+INFO:root:avgenery: 320.1567mJ
+
+INFO:root:memory frequency:810,frequency:1620,batch_size:128
+
+INFO:root:avgtime: 500.2994ms
+
+INFO:root:avgenery: 321.8005mJ
+
+INFO:root:memory frequency:810,frequency:1620,batch_size:64
+
+INFO:root:avgtime: 253.8258ms
+
+INFO:root:avgenery: 323.4767mJ
+
+INFO:root:memory frequency:810,frequency:1620,batch_size:32
+
+INFO:root:avgtime: 126.9280ms
+
+INFO:root:avgenery: 320.0650mJ
+
+INFO:root:memory frequency:810,frequency:1620,batch_size:16
+
+INFO:root:avgtime: 63.6823ms
+
+INFO:root:avgenery: 315.9884mJ
+
+INFO:root:memory frequency:810,frequency:1620,batch_size:8
+
+INFO:root:avgtime: 31.5379ms
+
+INFO:root:avgenery: 304.8828mJ
+
+INFO:root:memory frequency:810,frequency:1620,batch_size:4
+
+INFO:root:avgtime: 17.8636ms
+
+INFO:root:avgenery: 325.0356mJ
+
+INFO:root:memory frequency:810,frequency:1620,batch_size:2
+
+INFO:root:avgtime: 11.5511ms
+
+INFO:root:avgenery: 399.0021mJ
+
+INFO:root:memory frequency:810,frequency:1620,batch_size:1
+
+INFO:root:avgtime: 10.4130ms
+
+INFO:root:avgenery: 676.7445mJ
+
+INFO:root:memory frequency:810,frequency:1560,batch_size:256
+
+INFO:root:avgtime: 997.1790ms
+
+INFO:root:avgenery: 301.0783mJ
+
+INFO:root:memory frequency:810,frequency:1560,batch_size:128
+
+INFO:root:avgtime: 507.5157ms
+
+INFO:root:avgenery: 307.0797mJ
+
+INFO:root:memory frequency:810,frequency:1560,batch_size:64
+
+INFO:root:avgtime: 256.6743ms
+
+INFO:root:avgenery: 309.6929mJ
+
+INFO:root:memory frequency:810,frequency:1560,batch_size:32
+
+INFO:root:avgtime: 128.3394ms
+
+INFO:root:avgenery: 305.9163mJ
+
+INFO:root:memory frequency:810,frequency:1560,batch_size:16
+
+INFO:root:avgtime: 64.4224ms
+
+INFO:root:avgenery: 301.6214mJ
+
+INFO:root:memory frequency:810,frequency:1560,batch_size:8
+
+INFO:root:avgtime: 31.6013ms
+
+INFO:root:avgenery: 288.1097mJ
+
+INFO:root:memory frequency:810,frequency:1560,batch_size:4
+
+INFO:root:avgtime: 18.2709ms
+
+INFO:root:avgenery: 313.8212mJ
+
+INFO:root:memory frequency:810,frequency:1560,batch_size:2
+
+INFO:root:avgtime: 11.6434ms
+
+INFO:root:avgenery: 380.4082mJ
+
+INFO:root:memory frequency:810,frequency:1560,batch_size:1
+
+INFO:root:avgtime: 10.6314ms
+
+INFO:root:avgenery: 657.2220mJ
+
+INFO:root:memory frequency:810,frequency:1500,batch_size:256
+
+INFO:root:avgtime: 1001.3963ms
+
+INFO:root:avgenery: 287.0429mJ
+
+INFO:root:memory frequency:810,frequency:1500,batch_size:128
+
+INFO:root:avgtime: 499.6968ms
+
+INFO:root:avgenery: 288.0240mJ
+
+INFO:root:memory frequency:810,frequency:1500,batch_size:64
+
+INFO:root:avgtime: 255.0248ms
+
+INFO:root:avgenery: 291.9474mJ
+
+INFO:root:memory frequency:810,frequency:1500,batch_size:32
+
+INFO:root:avgtime: 128.7633ms
+
+INFO:root:avgenery: 291.8600mJ
+
+INFO:root:memory frequency:810,frequency:1500,batch_size:16
+
+INFO:root:avgtime: 64.7613ms
+
+INFO:root:avgenery: 287.9057mJ
+
+INFO:root:memory frequency:810,frequency:1500,batch_size:8
+
+INFO:root:avgtime: 32.5269ms
+
+INFO:root:avgenery: 280.6688mJ
+
+INFO:root:memory frequency:810,frequency:1500,batch_size:4
+
+INFO:root:avgtime: 18.4542ms
+
+INFO:root:avgenery: 303.3453mJ
+
+INFO:root:memory frequency:810,frequency:1500,batch_size:2
+
+INFO:root:avgtime: 12.1356ms
+
+INFO:root:avgenery: 378.2856mJ
+
+INFO:root:memory frequency:810,frequency:1500,batch_size:1
+
+INFO:root:avgtime: 10.8555ms
+
+INFO:root:avgenery: 640.7415mJ
+
+INFO:root:memory frequency:810,frequency:1440,batch_size:256
+
+INFO:root:avgtime: 1007.1315ms
+
+INFO:root:avgenery: 277.8493mJ
+
+INFO:root:memory frequency:810,frequency:1440,batch_size:128
+
+INFO:root:avgtime: 506.6361ms
+
+INFO:root:avgenery: 278.6131mJ
+
+INFO:root:memory frequency:810,frequency:1440,batch_size:64
+
+INFO:root:avgtime: 254.8486ms
+
+INFO:root:avgenery: 279.3696mJ
+
+INFO:root:memory frequency:810,frequency:1440,batch_size:32
+
+INFO:root:avgtime: 128.0232ms
+
+INFO:root:avgenery: 277.8226mJ
+
+INFO:root:memory frequency:810,frequency:1440,batch_size:16
+
+INFO:root:avgtime: 64.4866ms
+
+INFO:root:avgenery: 275.1701mJ
+
+INFO:root:memory frequency:810,frequency:1440,batch_size:8
+
+INFO:root:avgtime: 32.4235ms
+
+INFO:root:avgenery: 269.3893mJ
+
+INFO:root:memory frequency:810,frequency:1440,batch_size:4
+
+INFO:root:avgtime: 18.8328ms
+
+INFO:root:avgenery: 297.1997mJ
+
+INFO:root:memory frequency:810,frequency:1440,batch_size:2
+
+INFO:root:avgtime: 12.2772ms
+
+INFO:root:avgenery: 367.6401mJ
+
+INFO:root:memory frequency:810,frequency:1440,batch_size:1
+
+INFO:root:avgtime: 11.2699ms
+
+INFO:root:avgenery: 637.8664mJ
+
+INFO:root:memory frequency:810,frequency:1380,batch_size:256
+
+INFO:root:avgtime: 1000.9683ms
+
+INFO:root:avgenery: 269.3365mJ
+
+INFO:root:memory frequency:810,frequency:1380,batch_size:128
+
+INFO:root:avgtime: 502.9450ms
+
+INFO:root:avgenery: 270.7527mJ
+
+INFO:root:memory frequency:810,frequency:1380,batch_size:64
+
+INFO:root:avgtime: 254.4718ms
+
+INFO:root:avgenery: 272.3166mJ
+
+INFO:root:memory frequency:810,frequency:1380,batch_size:32
+
+INFO:root:avgtime: 127.8242ms
+
+INFO:root:avgenery: 270.3635mJ
+
+INFO:root:memory frequency:810,frequency:1380,batch_size:16
+
+INFO:root:avgtime: 64.6900ms
+
+INFO:root:avgenery: 268.8971mJ
+
+INFO:root:memory frequency:810,frequency:1380,batch_size:8
+
+INFO:root:avgtime: 32.7146ms
+
+INFO:root:avgenery: 264.2625mJ
+
+INFO:root:memory frequency:810,frequency:1380,batch_size:4
+
+INFO:root:avgtime: 19.0678ms
+
+INFO:root:avgenery: 292.7729mJ
+
+INFO:root:memory frequency:810,frequency:1380,batch_size:2
+
+INFO:root:avgtime: 12.6307ms
+
+INFO:root:avgenery: 365.1959mJ
+
+INFO:root:memory frequency:810,frequency:1380,batch_size:1
+
+INFO:root:avgtime: 11.5727ms
+
+INFO:root:avgenery: 633.9145mJ
+
+INFO:root:memory frequency:810,frequency:1320,batch_size:256
+
+INFO:root:avgtime: 992.5390ms
+
+INFO:root:avgenery: 267.2596mJ
+
+INFO:root:memory frequency:810,frequency:1320,batch_size:128
+
+INFO:root:avgtime: 499.9848ms
+
+INFO:root:avgenery: 268.9411mJ
+
+INFO:root:memory frequency:810,frequency:1320,batch_size:64
+
+INFO:root:avgtime: 255.4685ms
+
+INFO:root:avgenery: 272.2241mJ
+
+INFO:root:memory frequency:810,frequency:1320,batch_size:32
+
+INFO:root:avgtime: 128.4075ms
+
+INFO:root:avgenery: 270.2965mJ
+
+INFO:root:memory frequency:810,frequency:1320,batch_size:16
+
+INFO:root:avgtime: 65.0259ms
+
+INFO:root:avgenery: 268.0952mJ
+
+INFO:root:memory frequency:810,frequency:1320,batch_size:8
+
+INFO:root:avgtime: 32.9673ms
+
+INFO:root:avgenery: 264.6069mJ
+
+INFO:root:memory frequency:810,frequency:1320,batch_size:4
+
+INFO:root:avgtime: 19.4745ms
+
+INFO:root:avgenery: 295.2959mJ
+
+INFO:root:memory frequency:810,frequency:1320,batch_size:2
+
+INFO:root:avgtime: 12.9740ms
+
+INFO:root:avgenery: 370.1947mJ
+
+INFO:root:memory frequency:810,frequency:1320,batch_size:1
+
+INFO:root:avgtime: 11.9275ms
+
+INFO:root:avgenery: 638.2055mJ
+
+INFO:root:memory frequency:810,frequency:1260,batch_size:256
+
+INFO:root:avgtime: 995.9165ms
+
+INFO:root:avgenery: 265.0425mJ
+
+INFO:root:memory frequency:810,frequency:1260,batch_size:128
+
+INFO:root:avgtime: 502.6026ms
+
+INFO:root:avgenery: 267.0042mJ
+
+INFO:root:memory frequency:810,frequency:1260,batch_size:64
+
+INFO:root:avgtime: 255.8073ms
+
+INFO:root:avgenery: 269.3540mJ
+
+INFO:root:memory frequency:810,frequency:1260,batch_size:32
+
+INFO:root:avgtime: 128.9554ms
+
+INFO:root:avgenery: 267.6801mJ
+
+INFO:root:memory frequency:810,frequency:1260,batch_size:16
+
+INFO:root:avgtime: 65.3302ms
+
+INFO:root:avgenery: 266.4357mJ
+
+INFO:root:memory frequency:810,frequency:1260,batch_size:8
+
+INFO:root:avgtime: 33.3782ms
+
+INFO:root:avgenery: 264.1243mJ
+
+INFO:root:memory frequency:810,frequency:1260,batch_size:4
+
+INFO:root:avgtime: 19.7959ms
+
+INFO:root:avgenery: 295.1548mJ
+
+INFO:root:memory frequency:810,frequency:1260,batch_size:2
+
+INFO:root:avgtime: 13.5653ms
+
+INFO:root:avgenery: 380.3749mJ
+
+INFO:root:memory frequency:810,frequency:1260,batch_size:1
+
+INFO:root:avgtime: 12.3751ms
+
+INFO:root:avgenery: 652.4490mJ
+
+INFO:root:memory frequency:810,frequency:1200,batch_size:256
+
+INFO:root:avgtime: 1008.5370ms
+
+INFO:root:avgenery: 264.3912mJ
+
+INFO:root:memory frequency:810,frequency:1200,batch_size:128
+
+INFO:root:avgtime: 509.4007ms
+
+INFO:root:avgenery: 266.7507mJ
+
+INFO:root:memory frequency:810,frequency:1200,batch_size:64
+
+INFO:root:avgtime: 258.7430ms
+
+INFO:root:avgenery: 269.0107mJ
+
+INFO:root:memory frequency:810,frequency:1200,batch_size:32
+
+INFO:root:avgtime: 130.3695ms
+
+INFO:root:avgenery: 267.8234mJ
+
+INFO:root:memory frequency:810,frequency:1200,batch_size:16
+
+INFO:root:avgtime: 66.4888ms
+
+INFO:root:avgenery: 267.8560mJ
+
+INFO:root:memory frequency:810,frequency:1200,batch_size:8
+
+INFO:root:avgtime: 33.7038ms
+
+INFO:root:avgenery: 264.9749mJ
+
+INFO:root:memory frequency:810,frequency:1200,batch_size:4
+
+INFO:root:avgtime: 20.1440ms
+
+INFO:root:avgenery: 297.4450mJ
+
+INFO:root:memory frequency:810,frequency:1200,batch_size:2
+
+INFO:root:avgtime: 13.8851ms
+
+INFO:root:avgenery: 384.1383mJ
+
+INFO:root:memory frequency:810,frequency:1200,batch_size:1
+
+INFO:root:avgtime: 12.7145ms
+
+INFO:root:avgenery: 661.8860mJ
+
+INFO:root:memory frequency:810,frequency:1140,batch_size:256
+
+INFO:root:avgtime: 997.8655ms
+
+INFO:root:avgenery: 261.3652mJ
+
+INFO:root:memory frequency:810,frequency:1140,batch_size:128
+
+INFO:root:avgtime: 504.7217ms
+
+INFO:root:avgenery: 264.3308mJ
+
+INFO:root:memory frequency:810,frequency:1140,batch_size:64
+
+INFO:root:avgtime: 256.8934ms
+
+INFO:root:avgenery: 266.1985mJ
+
+INFO:root:memory frequency:810,frequency:1140,batch_size:32
+
+INFO:root:avgtime: 129.8704ms
+
+INFO:root:avgenery: 265.1437mJ
+
+INFO:root:memory frequency:810,frequency:1140,batch_size:16
+
+INFO:root:avgtime: 66.1749ms
+
+INFO:root:avgenery: 264.4834mJ
+
+INFO:root:memory frequency:810,frequency:1140,batch_size:8
+
+INFO:root:avgtime: 34.2411ms
+
+INFO:root:avgenery: 265.5532mJ
+
+INFO:root:memory frequency:810,frequency:1140,batch_size:4
+
+INFO:root:avgtime: 20.6581ms
+
+INFO:root:avgenery: 298.6540mJ
+
+INFO:root:memory frequency:810,frequency:1140,batch_size:2
+
+INFO:root:avgtime: 14.2998ms
+
+INFO:root:avgenery: 388.8317mJ
+
+INFO:root:memory frequency:810,frequency:1140,batch_size:1
+
+INFO:root:avgtime: 13.2025ms
+
+INFO:root:avgenery: 672.1054mJ
+
+INFO:root:memory frequency:810,frequency:1080,batch_size:256
+
+INFO:root:avgtime: 999.0483ms
+
+INFO:root:avgenery: 259.3482mJ
+
+INFO:root:memory frequency:810,frequency:1080,batch_size:128
+
+INFO:root:avgtime: 503.8784ms
+
+INFO:root:avgenery: 260.9344mJ
+
+INFO:root:memory frequency:810,frequency:1080,batch_size:64
+
+INFO:root:avgtime: 258.7377ms
+
+INFO:root:avgenery: 264.5021mJ
+
+INFO:root:memory frequency:810,frequency:1080,batch_size:32
+
+INFO:root:avgtime: 131.2082ms
+
+INFO:root:avgenery: 264.2057mJ
+
+INFO:root:memory frequency:810,frequency:1080,batch_size:16
+
+INFO:root:avgtime: 67.2627ms
+
+INFO:root:avgenery: 265.1678mJ
+
+INFO:root:memory frequency:810,frequency:1080,batch_size:8
+
+INFO:root:avgtime: 34.8514ms
+
+INFO:root:avgenery: 267.2725mJ
+
+INFO:root:memory frequency:810,frequency:1080,batch_size:4
+
+INFO:root:avgtime: 20.9797ms
+
+INFO:root:avgenery: 300.1466mJ
+
+INFO:root:memory frequency:810,frequency:1080,batch_size:2
+
+INFO:root:avgtime: 14.7606ms
+
+INFO:root:avgenery: 396.5014mJ
+
+INFO:root:memory frequency:810,frequency:1080,batch_size:1
+
+INFO:root:avgtime: 13.7224ms
+
+INFO:root:avgenery: 695.2981mJ
+
+INFO:root:memory frequency:810,frequency:1020,batch_size:256
+
+INFO:root:avgtime: 1014.5692ms
+
+INFO:root:avgenery: 262.0473mJ
+
+INFO:root:memory frequency:810,frequency:1020,batch_size:128
+
+INFO:root:avgtime: 510.5574ms
+
+INFO:root:avgenery: 262.9842mJ
+
+INFO:root:memory frequency:810,frequency:1020,batch_size:64
+
+INFO:root:avgtime: 256.7765ms
+
+INFO:root:avgenery: 263.2685mJ
+
+INFO:root:memory frequency:810,frequency:1020,batch_size:32
+
+INFO:root:avgtime: 130.1348ms
+
+INFO:root:avgenery: 263.0699mJ
+
+INFO:root:memory frequency:810,frequency:1020,batch_size:16
+
+INFO:root:avgtime: 66.6314ms
+
+INFO:root:avgenery: 263.4312mJ
+
+INFO:root:memory frequency:810,frequency:1020,batch_size:8
+
+INFO:root:avgtime: 34.9394ms
+
+INFO:root:avgenery: 267.1171mJ
+
+INFO:root:memory frequency:810,frequency:1020,batch_size:4
+
+INFO:root:avgtime: 21.4951ms
+
+INFO:root:avgenery: 305.9902mJ
+
+INFO:root:memory frequency:810,frequency:1020,batch_size:2
+
+INFO:root:avgtime: 15.0737ms
+
+INFO:root:avgenery: 400.8530mJ
+
+INFO:root:memory frequency:810,frequency:1020,batch_size:1
+
+INFO:root:avgtime: 13.9949ms
+
+INFO:root:avgenery: 701.0924mJ
+
+INFO:root:memory frequency:810,frequency:960,batch_size:256
+
+INFO:root:avgtime: 999.4285ms
+
+INFO:root:avgenery: 258.2922mJ
+
+INFO:root:memory frequency:810,frequency:960,batch_size:128
+
+INFO:root:avgtime: 504.9430ms
+
+INFO:root:avgenery: 259.7772mJ
+
+INFO:root:memory frequency:810,frequency:960,batch_size:64
+
+INFO:root:avgtime: 256.8517ms
+
+INFO:root:avgenery: 262.0901mJ
+
+INFO:root:memory frequency:810,frequency:960,batch_size:32
+
+INFO:root:avgtime: 129.9037ms
+
+INFO:root:avgenery: 261.3486mJ
+
+INFO:root:memory frequency:810,frequency:960,batch_size:16
+
+INFO:root:avgtime: 67.0567ms
+
+INFO:root:avgenery: 264.0142mJ
+
+INFO:root:memory frequency:810,frequency:960,batch_size:8
+
+INFO:root:avgtime: 35.2120ms
+
+INFO:root:avgenery: 267.2008mJ
+
+INFO:root:memory frequency:810,frequency:960,batch_size:4
+
+INFO:root:avgtime: 21.7607ms
+
+INFO:root:avgenery: 306.7694mJ
+
+INFO:root:memory frequency:810,frequency:960,batch_size:2
+
+INFO:root:avgtime: 15.4803ms
+
+INFO:root:avgenery: 407.0990mJ
+
+INFO:root:memory frequency:810,frequency:960,batch_size:1
+
+INFO:root:avgtime: 14.3323ms
+
+INFO:root:avgenery: 706.7112mJ
+
+INFO:root:memory frequency:810,frequency:900,batch_size:256
+
+INFO:root:avgtime: 997.7772ms
+
+INFO:root:avgenery: 255.1331mJ
+
+INFO:root:memory frequency:810,frequency:900,batch_size:128
+
+INFO:root:avgtime: 504.8073ms
+
+INFO:root:avgenery: 258.1260mJ
+
+INFO:root:memory frequency:810,frequency:900,batch_size:64
+
+INFO:root:avgtime: 257.6442ms
+
+INFO:root:avgenery: 260.4594mJ
+
+INFO:root:memory frequency:810,frequency:900,batch_size:32
+
+INFO:root:avgtime: 130.6844ms
+
+INFO:root:avgenery: 259.6743mJ
+
+INFO:root:memory frequency:810,frequency:900,batch_size:16
+
+INFO:root:avgtime: 67.3073ms
+
+INFO:root:avgenery: 261.3839mJ
+
+INFO:root:memory frequency:810,frequency:900,batch_size:8
+
+INFO:root:avgtime: 35.5171ms
+
+INFO:root:avgenery: 265.8472mJ
+
+INFO:root:memory frequency:810,frequency:900,batch_size:4
+
+INFO:root:avgtime: 22.2257ms
+
+INFO:root:avgenery: 308.2578mJ
+
+INFO:root:memory frequency:810,frequency:900,batch_size:2
+
+INFO:root:avgtime: 15.8582ms
+
+INFO:root:avgenery: 410.3846mJ
+
+INFO:root:memory frequency:810,frequency:900,batch_size:1
+
+INFO:root:avgtime: 14.8585ms
+
+INFO:root:avgenery: 722.3444mJ
+
+INFO:root:memory frequency:810,frequency:840,batch_size:256
+
+INFO:root:avgtime: 1001.6363ms
+
+INFO:root:avgenery: 254.2738mJ
+
+INFO:root:memory frequency:810,frequency:840,batch_size:128
+
+INFO:root:avgtime: 504.4186ms
+
+INFO:root:avgenery: 255.8830mJ
+
+INFO:root:memory frequency:810,frequency:840,batch_size:64
+
+INFO:root:avgtime: 261.4975ms
+
+INFO:root:avgenery: 261.4264mJ
+
+INFO:root:memory frequency:810,frequency:840,batch_size:32
+
+INFO:root:avgtime: 132.9718ms
+
+INFO:root:avgenery: 261.9611mJ
+
+INFO:root:memory frequency:810,frequency:840,batch_size:16
+
+INFO:root:avgtime: 68.6530ms
+
+INFO:root:avgenery: 263.9756mJ
+
+INFO:root:memory frequency:810,frequency:840,batch_size:8
+
+INFO:root:avgtime: 36.3528ms
+
+INFO:root:avgenery: 269.1867mJ
+
+INFO:root:memory frequency:810,frequency:840,batch_size:4
+
+INFO:root:avgtime: 22.8514ms
+
+INFO:root:avgenery: 312.9284mJ
+
+INFO:root:memory frequency:810,frequency:840,batch_size:2
+
+INFO:root:avgtime: 16.4542ms
+
+INFO:root:avgenery: 421.7336mJ
+
+INFO:root:memory frequency:810,frequency:840,batch_size:1
+
+INFO:root:avgtime: 15.3659ms
+
+INFO:root:avgenery: 739.9392mJ
+
+INFO:root:memory frequency:810,frequency:780,batch_size:256
+
+INFO:root:avgtime: 1015.4427ms
+
+INFO:root:avgenery: 254.8427mJ
+
+INFO:root:memory frequency:810,frequency:780,batch_size:128
+
+INFO:root:avgtime: 513.3601ms
+
+INFO:root:avgenery: 257.6594mJ
+
+INFO:root:memory frequency:810,frequency:780,batch_size:64
+
+INFO:root:avgtime: 261.4015ms
+
+INFO:root:avgenery: 260.2565mJ
+
+INFO:root:memory frequency:810,frequency:780,batch_size:32
+
+INFO:root:avgtime: 132.0212ms
+
+INFO:root:avgenery: 259.5652mJ
+
+INFO:root:memory frequency:810,frequency:780,batch_size:16
+
+INFO:root:avgtime: 68.4922ms
+
+INFO:root:avgenery: 262.4625mJ
+
+INFO:root:memory frequency:810,frequency:780,batch_size:8
+
+INFO:root:avgtime: 37.0479ms
+
+INFO:root:avgenery: 271.7935mJ
+
+INFO:root:memory frequency:810,frequency:780,batch_size:4
+
+INFO:root:avgtime: 23.3534ms
+
+INFO:root:avgenery: 316.0634mJ
+
+INFO:root:memory frequency:810,frequency:780,batch_size:2
+
+INFO:root:avgtime: 17.0285ms
+
+INFO:root:avgenery: 428.8429mJ
+
+INFO:root:memory frequency:810,frequency:780,batch_size:1
+
+INFO:root:avgtime: 15.8512ms
+
+INFO:root:avgenery: 752.4428mJ
+
+INFO:root:memory frequency:810,frequency:720,batch_size:256
+
+INFO:root:avgtime: 1003.4330ms
+
+INFO:root:avgenery: 252.2925mJ
+
+INFO:root:memory frequency:810,frequency:720,batch_size:128
+
+INFO:root:avgtime: 506.1109ms
+
+INFO:root:avgenery: 254.7656mJ
+
+INFO:root:memory frequency:810,frequency:720,batch_size:64
+
+INFO:root:avgtime: 259.4151ms
+
+INFO:root:avgenery: 257.7407mJ
+
+INFO:root:memory frequency:810,frequency:720,batch_size:32
+
+INFO:root:avgtime: 132.5528ms
+
+INFO:root:avgenery: 258.8969mJ
+
+INFO:root:memory frequency:810,frequency:720,batch_size:16
+
+INFO:root:avgtime: 68.8094ms
+
+INFO:root:avgenery: 262.9099mJ
+
+INFO:root:memory frequency:810,frequency:720,batch_size:8
+
+INFO:root:avgtime: 37.6584ms
+
+INFO:root:avgenery: 273.3656mJ
+
+INFO:root:memory frequency:810,frequency:720,batch_size:4
+
+INFO:root:avgtime: 23.9171ms
+
+INFO:root:avgenery: 319.1986mJ
+
+INFO:root:memory frequency:810,frequency:720,batch_size:2
+
+INFO:root:avgtime: 17.8228ms
+
+INFO:root:avgenery: 442.4094mJ
+
+INFO:root:memory frequency:810,frequency:720,batch_size:1
+
+INFO:root:avgtime: 16.6890ms
+
+INFO:root:avgenery: 782.3955mJ
+
+INFO:root:memory frequency:810,frequency:660,batch_size:256
+
+INFO:root:avgtime: 1005.0877ms
+
+INFO:root:avgenery: 251.0487mJ
+
+INFO:root:memory frequency:810,frequency:660,batch_size:128
+
+INFO:root:avgtime: 508.5607ms
+
+INFO:root:avgenery: 253.9065mJ
+
+INFO:root:memory frequency:810,frequency:660,batch_size:64
+
+INFO:root:avgtime: 263.5730ms
+
+INFO:root:avgenery: 258.8117mJ
+
+INFO:root:memory frequency:810,frequency:660,batch_size:32
+
+INFO:root:avgtime: 134.8373ms
+
+INFO:root:avgenery: 259.6024mJ
+
+INFO:root:memory frequency:810,frequency:660,batch_size:16
+
+INFO:root:avgtime: 70.2905ms
+
+INFO:root:avgenery: 263.9798mJ
+
+INFO:root:memory frequency:810,frequency:660,batch_size:8
+
+INFO:root:avgtime: 38.4575ms
+
+INFO:root:avgenery: 275.2313mJ
+
+INFO:root:memory frequency:810,frequency:660,batch_size:4
+
+INFO:root:avgtime: 24.5744ms
+
+INFO:root:avgenery: 323.3882mJ
+
+INFO:root:memory frequency:810,frequency:660,batch_size:2
+
+INFO:root:avgtime: 18.7642ms
+
+INFO:root:avgenery: 459.1094mJ
+
+INFO:root:memory frequency:810,frequency:660,batch_size:1
+
+INFO:root:avgtime: 17.6205ms
+
+INFO:root:avgenery: 814.0687mJ
+
+INFO:root:memory frequency:810,frequency:600,batch_size:256
+
+INFO:root:avgtime: 1021.3410ms
+
+INFO:root:avgenery: 251.6860mJ
+
+INFO:root:memory frequency:810,frequency:600,batch_size:128
+
+INFO:root:avgtime: 517.5310ms
+
+INFO:root:avgenery: 254.2341mJ
+
+INFO:root:memory frequency:810,frequency:600,batch_size:64
+
+INFO:root:avgtime: 264.5949ms
+
+INFO:root:avgenery: 257.0283mJ
+
+INFO:root:memory frequency:810,frequency:600,batch_size:32
+
+INFO:root:avgtime: 135.5696ms
+
+INFO:root:avgenery: 258.5786mJ
+
+INFO:root:memory frequency:810,frequency:600,batch_size:16
+
+INFO:root:avgtime: 71.0648ms
+
+INFO:root:avgenery: 263.8457mJ
+
+INFO:root:memory frequency:810,frequency:600,batch_size:8
+
+INFO:root:avgtime: 39.5431ms
+
+INFO:root:avgenery: 278.8766mJ
+
+INFO:root:memory frequency:810,frequency:600,batch_size:4
+
+INFO:root:avgtime: 25.9419ms
+
+INFO:root:avgenery: 334.6422mJ
+
+INFO:root:memory frequency:810,frequency:600,batch_size:2
+
+INFO:root:avgtime: 19.8045ms
+
+INFO:root:avgenery: 474.7906mJ
+
+INFO:root:memory frequency:810,frequency:600,batch_size:1
+
+INFO:root:avgtime: 18.6470ms
+
+INFO:root:avgenery: 849.8135mJ
+
+INFO:root:memory frequency:810,frequency:540,batch_size:256
+
+INFO:root:avgtime: 1014.3491ms
+
+INFO:root:avgenery: 249.8097mJ
+
+INFO:root:memory frequency:810,frequency:540,batch_size:128
+
+INFO:root:avgtime: 511.1462ms
+
+INFO:root:avgenery: 251.2404mJ
+
+INFO:root:memory frequency:810,frequency:540,batch_size:64
+
+INFO:root:avgtime: 262.8275ms
+
+INFO:root:avgenery: 254.9341mJ
+
+INFO:root:memory frequency:810,frequency:540,batch_size:32
+
+INFO:root:avgtime: 135.6860ms
+
+INFO:root:avgenery: 257.5056mJ
+
+INFO:root:memory frequency:810,frequency:540,batch_size:16
+
+INFO:root:avgtime: 71.4755ms
+
+INFO:root:avgenery: 264.5035mJ
+
+INFO:root:memory frequency:810,frequency:540,batch_size:8
+
+INFO:root:avgtime: 40.3650ms
+
+INFO:root:avgenery: 281.2434mJ
+
+INFO:root:memory frequency:810,frequency:540,batch_size:4
+
+INFO:root:avgtime: 27.1250ms
+
+INFO:root:avgenery: 344.1884mJ
+
+INFO:root:memory frequency:810,frequency:540,batch_size:2
+
+INFO:root:avgtime: 21.0668ms
+
+INFO:root:avgenery: 498.3096mJ
+
+INFO:root:memory frequency:810,frequency:540,batch_size:1
+
+INFO:root:avgtime: 20.0255ms
+
+INFO:root:avgenery: 903.5054mJ
+
+INFO:root:memory frequency:420,frequency:2100,batch_size:256
+
+INFO:root:avgtime: 991.1727ms
+
+INFO:root:avgenery: 497.4257mJ
+
+INFO:root:memory frequency:420,frequency:2100,batch_size:128
+
+INFO:root:avgtime: 498.4937ms
+
+INFO:root:avgenery: 521.3072mJ
+
+INFO:root:memory frequency:420,frequency:2100,batch_size:64
+
+INFO:root:avgtime: 252.3552ms
+
+INFO:root:avgenery: 524.4403mJ
+
+INFO:root:memory frequency:420,frequency:2100,batch_size:32
+
+INFO:root:avgtime: 126.6171ms
+
+INFO:root:avgenery: 517.9136mJ
+
+INFO:root:memory frequency:420,frequency:2100,batch_size:16
+
+INFO:root:avgtime: 63.0594ms
+
+INFO:root:avgenery: 510.0189mJ
+
+INFO:root:memory frequency:420,frequency:2100,batch_size:8
+
+INFO:root:avgtime: 30.9459ms
+
+INFO:root:avgenery: 491.8093mJ
+
+INFO:root:memory frequency:420,frequency:2100,batch_size:4
+
+INFO:root:avgtime: 17.4068ms
+
+INFO:root:avgenery: 522.6375mJ
+
+INFO:root:memory frequency:420,frequency:2100,batch_size:2
+
+INFO:root:avgtime: 10.8236ms
+
+INFO:root:avgenery: 616.0473mJ
+
+INFO:root:memory frequency:420,frequency:2100,batch_size:1
+
+INFO:root:avgtime: 9.9720ms
+
+INFO:root:avgenery: 1045.6527mJ
+
+INFO:root:memory frequency:420,frequency:2040,batch_size:256
+
+INFO:root:avgtime: 1003.7377ms
+
+INFO:root:avgenery: 515.6547mJ
+
+INFO:root:memory frequency:420,frequency:2040,batch_size:128
+
+INFO:root:avgtime: 506.0326ms
+
+INFO:root:avgenery: 528.7278mJ
+
+INFO:root:memory frequency:420,frequency:2040,batch_size:64
+
+INFO:root:avgtime: 252.8204ms
+
+INFO:root:avgenery: 522.1664mJ
+
+INFO:root:memory frequency:420,frequency:2040,batch_size:32
+
+INFO:root:avgtime: 125.7203ms
+
+INFO:root:avgenery: 516.4740mJ
+
+INFO:root:memory frequency:420,frequency:2040,batch_size:16
+
+INFO:root:avgtime: 62.7805ms
+
+INFO:root:avgenery: 507.5559mJ
+
+INFO:root:memory frequency:420,frequency:2040,batch_size:8
+
+INFO:root:avgtime: 30.6622ms
+
+INFO:root:avgenery: 487.0763mJ
+
+INFO:root:memory frequency:420,frequency:2040,batch_size:4
+
+INFO:root:avgtime: 17.1171ms
+
+INFO:root:avgenery: 515.7949mJ
+
+INFO:root:memory frequency:420,frequency:2040,batch_size:2
+
+INFO:root:avgtime: 10.9561ms
+
+INFO:root:avgenery: 623.1818mJ
+
+INFO:root:memory frequency:420,frequency:2040,batch_size:1
+
+INFO:root:avgtime: 10.3016ms
+
+INFO:root:avgenery: 1074.9686mJ
+
+INFO:root:memory frequency:420,frequency:1980,batch_size:256
+
+INFO:root:avgtime: 1005.3866ms
+
+INFO:root:avgenery: 518.0020mJ
+
+INFO:root:memory frequency:420,frequency:1980,batch_size:128
+
+INFO:root:avgtime: 505.6697ms
+
+INFO:root:avgenery: 529.1710mJ
+
+INFO:root:memory frequency:420,frequency:1980,batch_size:64
+
+INFO:root:avgtime: 255.9748ms
+
+INFO:root:avgenery: 526.0840mJ
+
+INFO:root:memory frequency:420,frequency:1980,batch_size:32
+
+INFO:root:avgtime: 127.7381ms
+
+INFO:root:avgenery: 521.8345mJ
+
+INFO:root:memory frequency:420,frequency:1980,batch_size:16
+
+INFO:root:avgtime: 63.6351ms
+
+INFO:root:avgenery: 512.0564mJ
+
+INFO:root:memory frequency:420,frequency:1980,batch_size:8
+
+INFO:root:avgtime: 30.9301ms
+
+INFO:root:avgenery: 491.0887mJ
+
+INFO:root:memory frequency:420,frequency:1980,batch_size:4
+
+INFO:root:avgtime: 17.2877ms
+
+INFO:root:avgenery: 521.3387mJ
+
+INFO:root:memory frequency:420,frequency:1980,batch_size:2
+
+INFO:root:avgtime: 10.8566ms
+
+INFO:root:avgenery: 618.6903mJ
+
+INFO:root:memory frequency:420,frequency:1980,batch_size:1
+
+INFO:root:avgtime: 10.4069ms
+
+INFO:root:avgenery: 1084.5803mJ
+
+INFO:root:memory frequency:420,frequency:1920,batch_size:256
+
+INFO:root:avgtime: 989.2845ms
+
+INFO:root:avgenery: 474.5140mJ
+
+INFO:root:memory frequency:420,frequency:1920,batch_size:128
+
+INFO:root:avgtime: 498.8027ms
+
+INFO:root:avgenery: 494.5969mJ
+
+INFO:root:memory frequency:420,frequency:1920,batch_size:64
+
+INFO:root:avgtime: 252.8106ms
+
+INFO:root:avgenery: 498.8284mJ
+
+INFO:root:memory frequency:420,frequency:1920,batch_size:32
+
+INFO:root:avgtime: 126.6057ms
+
+INFO:root:avgenery: 491.7653mJ
+
+INFO:root:memory frequency:420,frequency:1920,batch_size:16
+
+INFO:root:avgtime: 63.1591ms
+
+INFO:root:avgenery: 484.9305mJ
+
+INFO:root:memory frequency:420,frequency:1920,batch_size:8
+
+INFO:root:avgtime: 31.0447ms
+
+INFO:root:avgenery: 467.1112mJ
+
+INFO:root:memory frequency:420,frequency:1920,batch_size:4
+
+INFO:root:avgtime: 17.2811ms
+
+INFO:root:avgenery: 493.1265mJ
+
+INFO:root:memory frequency:420,frequency:1920,batch_size:2
+
+INFO:root:avgtime: 10.8347ms
+
+INFO:root:avgenery: 572.6592mJ
+
+INFO:root:memory frequency:420,frequency:1920,batch_size:1
+
+INFO:root:avgtime: 10.1211ms
+
+INFO:root:avgenery: 998.4591mJ
+
+INFO:root:memory frequency:420,frequency:1860,batch_size:256
+
+INFO:root:avgtime: 1004.6583ms
+
+INFO:root:avgenery: 429.0733mJ
+
+INFO:root:memory frequency:420,frequency:1860,batch_size:128
+
+INFO:root:avgtime: 507.0172ms
+
+INFO:root:avgenery: 426.9952mJ
+
+INFO:root:memory frequency:420,frequency:1860,batch_size:64
+
+INFO:root:avgtime: 255.8343ms
+
+INFO:root:avgenery: 428.8280mJ
+
+INFO:root:memory frequency:420,frequency:1860,batch_size:32
+
+INFO:root:avgtime: 128.0268ms
+
+INFO:root:avgenery: 424.8044mJ
+
+INFO:root:memory frequency:420,frequency:1860,batch_size:16
+
+INFO:root:avgtime: 64.0626ms
+
+INFO:root:avgenery: 417.0499mJ
+
+INFO:root:memory frequency:420,frequency:1860,batch_size:8
+
+INFO:root:avgtime: 30.9086ms
+
+INFO:root:avgenery: 395.0093mJ
+
+INFO:root:memory frequency:420,frequency:1860,batch_size:4
+
+INFO:root:avgtime: 17.4469ms
+
+INFO:root:avgenery: 418.5412mJ
+
+INFO:root:memory frequency:420,frequency:1860,batch_size:2
+
+INFO:root:avgtime: 11.1631ms
+
+INFO:root:avgenery: 522.1527mJ
+
+INFO:root:memory frequency:420,frequency:1860,batch_size:1
+
+INFO:root:avgtime: 10.3705ms
+
+INFO:root:avgenery: 898.7377mJ
+
+INFO:root:memory frequency:420,frequency:1800,batch_size:256
+
+INFO:root:avgtime: 991.1126ms
+
+INFO:root:avgenery: 396.5259mJ
+
+INFO:root:memory frequency:420,frequency:1800,batch_size:128
+
+INFO:root:avgtime: 506.3420ms
+
+INFO:root:avgenery: 402.4341mJ
+
+INFO:root:memory frequency:420,frequency:1800,batch_size:64
+
+INFO:root:avgtime: 256.4944ms
+
+INFO:root:avgenery: 396.6130mJ
+
+INFO:root:memory frequency:420,frequency:1800,batch_size:32
+
+INFO:root:avgtime: 128.2371ms
+
+INFO:root:avgenery: 392.6519mJ
+
+INFO:root:memory frequency:420,frequency:1800,batch_size:16
+
+INFO:root:avgtime: 64.2634ms
+
+INFO:root:avgenery: 385.7348mJ
+
+INFO:root:memory frequency:420,frequency:1800,batch_size:8
+
+INFO:root:avgtime: 31.2416ms
+
+INFO:root:avgenery: 366.9445mJ
+
+INFO:root:memory frequency:420,frequency:1800,batch_size:4
+
+INFO:root:avgtime: 17.6104ms
+
+INFO:root:avgenery: 396.9257mJ
+
+INFO:root:memory frequency:420,frequency:1800,batch_size:2
+
+INFO:root:avgtime: 11.2205ms
+
+INFO:root:avgenery: 482.4956mJ
+
+INFO:root:memory frequency:420,frequency:1800,batch_size:1
+
+INFO:root:avgtime: 10.2466ms
+
+INFO:root:avgenery: 817.6401mJ
+
+INFO:root:memory frequency:420,frequency:1740,batch_size:256
+
+INFO:root:avgtime: 1009.4679ms
+
+INFO:root:avgenery: 370.3802mJ
+
+INFO:root:memory frequency:420,frequency:1740,batch_size:128
+
+INFO:root:avgtime: 506.9401ms
+
+INFO:root:avgenery: 373.8067mJ
+
+INFO:root:memory frequency:420,frequency:1740,batch_size:64
+
+INFO:root:avgtime: 256.5431ms
+
+INFO:root:avgenery: 376.7099mJ
+
+INFO:root:memory frequency:420,frequency:1740,batch_size:32
+
+INFO:root:avgtime: 128.0841ms
+
+INFO:root:avgenery: 372.4665mJ
+
+INFO:root:memory frequency:420,frequency:1740,batch_size:16
+
+INFO:root:avgtime: 64.2117ms
+
+INFO:root:avgenery: 366.9364mJ
+
+INFO:root:memory frequency:420,frequency:1740,batch_size:8
+
+INFO:root:avgtime: 31.4986ms
+
+INFO:root:avgenery: 348.8488mJ
+
+INFO:root:memory frequency:420,frequency:1740,batch_size:4
+
+INFO:root:avgtime: 17.8641ms
+
+INFO:root:avgenery: 374.9865mJ
+
+INFO:root:memory frequency:420,frequency:1740,batch_size:2
+
+INFO:root:avgtime: 11.4426ms
+
+INFO:root:avgenery: 454.5363mJ
+
+INFO:root:memory frequency:420,frequency:1740,batch_size:1
+
+INFO:root:avgtime: 10.6020ms
+
+INFO:root:avgenery: 784.9322mJ
+
+INFO:root:memory frequency:420,frequency:1680,batch_size:256
+
+INFO:root:avgtime: 998.6229ms
+
+INFO:root:avgenery: 344.3895mJ
+
+INFO:root:memory frequency:420,frequency:1680,batch_size:128
+
+INFO:root:avgtime: 507.7052ms
+
+INFO:root:avgenery: 349.8981mJ
+
+INFO:root:memory frequency:420,frequency:1680,batch_size:64
+
+INFO:root:avgtime: 256.8628ms
+
+INFO:root:avgenery: 350.4565mJ
+
+INFO:root:memory frequency:420,frequency:1680,batch_size:32
+
+INFO:root:avgtime: 128.2999ms
+
+INFO:root:avgenery: 346.3062mJ
+
+INFO:root:memory frequency:420,frequency:1680,batch_size:16
+
+INFO:root:avgtime: 64.4052ms
+
+INFO:root:avgenery: 340.4788mJ
+
+INFO:root:memory frequency:420,frequency:1680,batch_size:8
+
+INFO:root:avgtime: 31.9415ms
+
+INFO:root:avgenery: 330.2350mJ
+
+INFO:root:memory frequency:420,frequency:1680,batch_size:4
+
+INFO:root:avgtime: 17.9557ms
+
+INFO:root:avgenery: 352.5411mJ
+
+INFO:root:memory frequency:420,frequency:1680,batch_size:2
+
+INFO:root:avgtime: 11.5218ms
+
+INFO:root:avgenery: 428.2994mJ
+
+INFO:root:memory frequency:420,frequency:1680,batch_size:1
+
+INFO:root:avgtime: 10.5680ms
+
+INFO:root:avgenery: 733.2720mJ
+
+INFO:root:memory frequency:420,frequency:1620,batch_size:256
+
+INFO:root:avgtime: 995.4572ms
+
+INFO:root:avgenery: 321.7415mJ
+
+INFO:root:memory frequency:420,frequency:1620,batch_size:128
+
+INFO:root:avgtime: 500.1270ms
+
+INFO:root:avgenery: 323.0694mJ
+
+INFO:root:memory frequency:420,frequency:1620,batch_size:64
+
+INFO:root:avgtime: 254.0958ms
+
+INFO:root:avgenery: 325.5259mJ
+
+INFO:root:memory frequency:420,frequency:1620,batch_size:32
+
+INFO:root:avgtime: 127.3308ms
+
+INFO:root:avgenery: 322.5521mJ
+
+INFO:root:memory frequency:420,frequency:1620,batch_size:16
+
+INFO:root:avgtime: 64.0517ms
+
+INFO:root:avgenery: 318.6459mJ
+
+INFO:root:memory frequency:420,frequency:1620,batch_size:8
+
+INFO:root:avgtime: 31.9423ms
+
+INFO:root:avgenery: 309.3924mJ
+
+INFO:root:memory frequency:420,frequency:1620,batch_size:4
+
+INFO:root:avgtime: 18.2852ms
+
+INFO:root:avgenery: 331.9441mJ
+
+INFO:root:memory frequency:420,frequency:1620,batch_size:2
+
+INFO:root:avgtime: 11.6673ms
+
+INFO:root:avgenery: 402.3594mJ
+
+INFO:root:memory frequency:420,frequency:1620,batch_size:1
+
+INFO:root:avgtime: 10.7781ms
+
+INFO:root:avgenery: 697.2168mJ
+
+INFO:root:memory frequency:420,frequency:1560,batch_size:256
+
+INFO:root:avgtime: 994.0882ms
+
+INFO:root:avgenery: 302.2972mJ
+
+INFO:root:memory frequency:420,frequency:1560,batch_size:128
+
+INFO:root:avgtime: 500.4867ms
+
+INFO:root:avgenery: 304.7869mJ
+
+INFO:root:memory frequency:420,frequency:1560,batch_size:64
+
+INFO:root:avgtime: 254.5267ms
+
+INFO:root:avgenery: 308.7114mJ
+
+INFO:root:memory frequency:420,frequency:1560,batch_size:32
+
+INFO:root:avgtime: 127.4834ms
+
+INFO:root:avgenery: 306.1101mJ
+
+INFO:root:memory frequency:420,frequency:1560,batch_size:16
+
+INFO:root:avgtime: 64.1217ms
+
+INFO:root:avgenery: 302.6128mJ
+
+INFO:root:memory frequency:420,frequency:1560,batch_size:8
+
+INFO:root:avgtime: 32.0980ms
+
+INFO:root:avgenery: 293.2736mJ
+
+INFO:root:memory frequency:420,frequency:1560,batch_size:4
+
+INFO:root:avgtime: 18.4879ms
+
+INFO:root:avgenery: 317.6266mJ
+
+INFO:root:memory frequency:420,frequency:1560,batch_size:2
+
+INFO:root:avgtime: 11.8978ms
+
+INFO:root:avgenery: 389.7631mJ
+
+INFO:root:memory frequency:420,frequency:1560,batch_size:1
+
+INFO:root:avgtime: 10.9546ms
+
+INFO:root:avgenery: 680.3962mJ
+
+INFO:root:memory frequency:420,frequency:1500,batch_size:256
+
+INFO:root:avgtime: 1008.0853ms
+
+INFO:root:avgenery: 290.5516mJ
+
+INFO:root:memory frequency:420,frequency:1500,batch_size:128
+
+INFO:root:avgtime: 508.0684ms
+
+INFO:root:avgenery: 293.5567mJ
+
+INFO:root:memory frequency:420,frequency:1500,batch_size:64
+
+INFO:root:avgtime: 257.5473ms
+
+INFO:root:avgenery: 296.3820mJ
+
+INFO:root:memory frequency:420,frequency:1500,batch_size:32
+
+INFO:root:avgtime: 129.3234ms
+
+INFO:root:avgenery: 293.9952mJ
+
+INFO:root:memory frequency:420,frequency:1500,batch_size:16
+
+INFO:root:avgtime: 65.6195ms
+
+INFO:root:avgenery: 292.0323mJ
+
+INFO:root:memory frequency:420,frequency:1500,batch_size:8
+
+INFO:root:avgtime: 32.4081ms
+
+INFO:root:avgenery: 281.4349mJ
+
+INFO:root:memory frequency:420,frequency:1500,batch_size:4
+
+INFO:root:avgtime: 18.9477ms
+
+INFO:root:avgenery: 311.4118mJ
+
+INFO:root:memory frequency:420,frequency:1500,batch_size:2
+
+INFO:root:avgtime: 12.2092ms
+
+INFO:root:avgenery: 383.2062mJ
+
+INFO:root:memory frequency:420,frequency:1500,batch_size:1
+
+INFO:root:avgtime: 11.1278ms
+
+INFO:root:avgenery: 661.9733mJ
+
+INFO:root:memory frequency:420,frequency:1440,batch_size:256
+
+INFO:root:avgtime: 993.2852ms
+
+INFO:root:avgenery: 277.3068mJ
+
+INFO:root:memory frequency:420,frequency:1440,batch_size:128
+
+INFO:root:avgtime: 500.0068ms
+
+INFO:root:avgenery: 279.1932mJ
+
+INFO:root:memory frequency:420,frequency:1440,batch_size:64
+
+INFO:root:avgtime: 254.8430ms
+
+INFO:root:avgenery: 282.3483mJ
+
+INFO:root:memory frequency:420,frequency:1440,batch_size:32
+
+INFO:root:avgtime: 128.0958ms
+
+INFO:root:avgenery: 279.6095mJ
+
+INFO:root:memory frequency:420,frequency:1440,batch_size:16
+
+INFO:root:avgtime: 64.8468ms
+
+INFO:root:avgenery: 277.3087mJ
+
+INFO:root:memory frequency:420,frequency:1440,batch_size:8
+
+INFO:root:avgtime: 32.6486ms
+
+INFO:root:avgenery: 271.9875mJ
+
+INFO:root:memory frequency:420,frequency:1440,batch_size:4
+
+INFO:root:avgtime: 19.1979ms
+
+INFO:root:avgenery: 302.8753mJ
+
+INFO:root:memory frequency:420,frequency:1440,batch_size:2
+
+INFO:root:avgtime: 12.5442ms
+
+INFO:root:avgenery: 377.2448mJ
+
+INFO:root:memory frequency:420,frequency:1440,batch_size:1
+
+INFO:root:avgtime: 11.4470ms
+
+INFO:root:avgenery: 655.0901mJ
+
+INFO:root:memory frequency:420,frequency:1380,batch_size:256
+
+INFO:root:avgtime: 995.5702ms
+
+INFO:root:avgenery: 270.8836mJ
+
+INFO:root:memory frequency:420,frequency:1380,batch_size:128
+
+INFO:root:avgtime: 502.5176ms
+
+INFO:root:avgenery: 273.1001mJ
+
+INFO:root:memory frequency:420,frequency:1380,batch_size:64
+
+INFO:root:avgtime: 255.0578ms
+
+INFO:root:avgenery: 275.1662mJ
+
+INFO:root:memory frequency:420,frequency:1380,batch_size:32
+
+INFO:root:avgtime: 128.4973ms
+
+INFO:root:avgenery: 273.5855mJ
+
+INFO:root:memory frequency:420,frequency:1380,batch_size:16
+
+INFO:root:avgtime: 65.0438ms
+
+INFO:root:avgenery: 270.7647mJ
+
+INFO:root:memory frequency:420,frequency:1380,batch_size:8
+
+INFO:root:avgtime: 32.9920ms
+
+INFO:root:avgenery: 267.0213mJ
+
+INFO:root:memory frequency:420,frequency:1380,batch_size:4
+
+INFO:root:avgtime: 19.5164ms
+
+INFO:root:avgenery: 298.1228mJ
+
+INFO:root:memory frequency:420,frequency:1380,batch_size:2
+
+INFO:root:avgtime: 13.0153ms
+
+INFO:root:avgenery: 375.1303mJ
+
+INFO:root:memory frequency:420,frequency:1380,batch_size:1
+
+INFO:root:avgtime: 11.8362ms
+
+INFO:root:avgenery: 648.1086mJ
+
+INFO:root:memory frequency:420,frequency:1320,batch_size:256
+
+INFO:root:avgtime: 1011.9333ms
+
+INFO:root:avgenery: 270.4632mJ
+
+INFO:root:memory frequency:420,frequency:1320,batch_size:128
+
+INFO:root:avgtime: 509.2485ms
+
+INFO:root:avgenery: 271.6126mJ
+
+INFO:root:memory frequency:420,frequency:1320,batch_size:64
+
+INFO:root:avgtime: 258.8887ms
+
+INFO:root:avgenery: 274.2902mJ
+
+INFO:root:memory frequency:420,frequency:1320,batch_size:32
+
+INFO:root:avgtime: 129.9200ms
+
+INFO:root:avgenery: 271.0136mJ
+
+INFO:root:memory frequency:420,frequency:1320,batch_size:16
+
+INFO:root:avgtime: 66.2730ms
+
+INFO:root:avgenery: 270.4020mJ
+
+INFO:root:memory frequency:420,frequency:1320,batch_size:8
+
+INFO:root:avgtime: 33.7207ms
+
+INFO:root:avgenery: 268.0151mJ
+
+INFO:root:memory frequency:420,frequency:1320,batch_size:4
+
+INFO:root:avgtime: 19.9390ms
+
+INFO:root:avgenery: 300.8265mJ
+
+INFO:root:memory frequency:420,frequency:1320,batch_size:2
+
+INFO:root:avgtime: 13.2891ms
+
+INFO:root:avgenery: 379.1988mJ
+
+INFO:root:memory frequency:420,frequency:1320,batch_size:1
+
+INFO:root:avgtime: 12.1457ms
+
+INFO:root:avgenery: 653.7280mJ
+
+INFO:root:memory frequency:420,frequency:1260,batch_size:256
+
+INFO:root:avgtime: 1012.1224ms
+
+INFO:root:avgenery: 268.6769mJ
+
+INFO:root:memory frequency:420,frequency:1260,batch_size:128
+
+INFO:root:avgtime: 508.9715ms
+
+INFO:root:avgenery: 269.5950mJ
+
+INFO:root:memory frequency:420,frequency:1260,batch_size:64
+
+INFO:root:avgtime: 259.3937ms
+
+INFO:root:avgenery: 272.2170mJ
+
+INFO:root:memory frequency:420,frequency:1260,batch_size:32
+
+INFO:root:avgtime: 130.4626ms
+
+INFO:root:avgenery: 269.8124mJ
+
+INFO:root:memory frequency:420,frequency:1260,batch_size:16
+
+INFO:root:avgtime: 66.5751ms
+
+INFO:root:avgenery: 270.0012mJ
+
+INFO:root:memory frequency:420,frequency:1260,batch_size:8
+
+INFO:root:avgtime: 33.9918ms
+
+INFO:root:avgenery: 267.6485mJ
+
+INFO:root:memory frequency:420,frequency:1260,batch_size:4
+
+INFO:root:avgtime: 20.1815ms
+
+INFO:root:avgenery: 299.8530mJ
+
+INFO:root:memory frequency:420,frequency:1260,batch_size:2
+
+INFO:root:avgtime: 13.6949ms
+
+INFO:root:avgenery: 383.2322mJ
+
+INFO:root:memory frequency:420,frequency:1260,batch_size:1
+
+INFO:root:avgtime: 12.5570ms
+
+INFO:root:avgenery: 664.1431mJ
+
+INFO:root:memory frequency:420,frequency:1200,batch_size:256
+
+INFO:root:avgtime: 995.9061ms
+
+INFO:root:avgenery: 263.1236mJ
+
+INFO:root:memory frequency:420,frequency:1200,batch_size:128
+
+INFO:root:avgtime: 505.3875ms
+
+INFO:root:avgenery: 266.0917mJ
+
+INFO:root:memory frequency:420,frequency:1200,batch_size:64
+
+INFO:root:avgtime: 258.8055ms
+
+INFO:root:avgenery: 270.0168mJ
+
+INFO:root:memory frequency:420,frequency:1200,batch_size:32
+
+INFO:root:avgtime: 130.8576ms
+
+INFO:root:avgenery: 268.3671mJ
+
+INFO:root:memory frequency:420,frequency:1200,batch_size:16
+
+INFO:root:avgtime: 66.8213ms
+
+INFO:root:avgenery: 268.7005mJ
+
+INFO:root:memory frequency:420,frequency:1200,batch_size:8
+
+INFO:root:avgtime: 33.9649ms
+
+INFO:root:avgenery: 265.8540mJ
+
+INFO:root:memory frequency:420,frequency:1200,batch_size:4
+
+INFO:root:avgtime: 20.5324ms
+
+INFO:root:avgenery: 300.6258mJ
+
+INFO:root:memory frequency:420,frequency:1200,batch_size:2
+
+INFO:root:avgtime: 14.0084ms
+
+INFO:root:avgenery: 386.0518mJ
+
+INFO:root:memory frequency:420,frequency:1200,batch_size:1
+
+INFO:root:avgtime: 12.9184ms
+
+INFO:root:avgenery: 671.8714mJ
+
+INFO:root:memory frequency:420,frequency:1140,batch_size:256
+
+INFO:root:avgtime: 1011.2700ms
+
+INFO:root:avgenery: 264.2389mJ
+
+INFO:root:memory frequency:420,frequency:1140,batch_size:128
+
+INFO:root:avgtime: 511.2363ms
+
+INFO:root:avgenery: 265.7097mJ
+
+INFO:root:memory frequency:420,frequency:1140,batch_size:64
+
+INFO:root:avgtime: 259.9463ms
+
+INFO:root:avgenery: 267.7456mJ
+
+INFO:root:memory frequency:420,frequency:1140,batch_size:32
+
+INFO:root:avgtime: 131.4282ms
+
+INFO:root:avgenery: 266.7110mJ
+
+INFO:root:memory frequency:420,frequency:1140,batch_size:16
+
+INFO:root:avgtime: 67.1643ms
+
+INFO:root:avgenery: 267.1841mJ
+
+INFO:root:memory frequency:420,frequency:1140,batch_size:8
+
+INFO:root:avgtime: 34.9574ms
+
+INFO:root:avgenery: 269.2425mJ
+
+INFO:root:memory frequency:420,frequency:1140,batch_size:4
+
+INFO:root:avgtime: 21.0188ms
+
+INFO:root:avgenery: 304.1167mJ
+
+INFO:root:memory frequency:420,frequency:1140,batch_size:2
+
+INFO:root:avgtime: 14.5370ms
+
+INFO:root:avgenery: 394.4482mJ
+
+INFO:root:memory frequency:420,frequency:1140,batch_size:1
+
+INFO:root:avgtime: 13.4245ms
+
+INFO:root:avgenery: 681.8019mJ
+
+INFO:root:memory frequency:420,frequency:1080,batch_size:256
+
+INFO:root:avgtime: 1000.7960ms
+
+INFO:root:avgenery: 259.6887mJ
+
+INFO:root:memory frequency:420,frequency:1080,batch_size:128
+
+INFO:root:avgtime: 507.4078ms
+
+INFO:root:avgenery: 262.1940mJ
+
+INFO:root:memory frequency:420,frequency:1080,batch_size:64
+
+INFO:root:avgtime: 258.6905ms
+
+INFO:root:avgenery: 264.5944mJ
+
+INFO:root:memory frequency:420,frequency:1080,batch_size:32
+
+INFO:root:avgtime: 130.2096ms
+
+INFO:root:avgenery: 263.0395mJ
+
+INFO:root:memory frequency:420,frequency:1080,batch_size:16
+
+INFO:root:avgtime: 66.5727ms
+
+INFO:root:avgenery: 262.9823mJ
+
+INFO:root:memory frequency:420,frequency:1080,batch_size:8
+
+INFO:root:avgtime: 35.0590ms
+
+INFO:root:avgenery: 267.7956mJ
+
+INFO:root:memory frequency:420,frequency:1080,batch_size:4
+
+INFO:root:avgtime: 21.5781ms
+
+INFO:root:avgenery: 308.0404mJ
+
+INFO:root:memory frequency:420,frequency:1080,batch_size:2
+
+INFO:root:avgtime: 15.0007ms
+
+INFO:root:avgenery: 402.2870mJ
+
+INFO:root:memory frequency:420,frequency:1080,batch_size:1
+
+INFO:root:avgtime: 13.8019ms
+
+INFO:root:avgenery: 695.2976mJ
+
+INFO:root:memory frequency:420,frequency:1020,batch_size:256
+
+INFO:root:avgtime: 1015.0928ms
+
+INFO:root:avgenery: 260.8077mJ
+
+INFO:root:memory frequency:420,frequency:1020,batch_size:128
+
+INFO:root:avgtime: 511.2382ms
+
+INFO:root:avgenery: 262.8172mJ
+
+INFO:root:memory frequency:420,frequency:1020,batch_size:64
+
+INFO:root:avgtime: 260.1729ms
+
+INFO:root:avgenery: 264.9080mJ
+
+INFO:root:memory frequency:420,frequency:1020,batch_size:32
+
+INFO:root:avgtime: 130.4773ms
+
+INFO:root:avgenery: 263.1438mJ
+
+INFO:root:memory frequency:420,frequency:1020,batch_size:16
+
+INFO:root:avgtime: 67.1310ms
+
+INFO:root:avgenery: 264.4764mJ
+
+INFO:root:memory frequency:420,frequency:1020,batch_size:8
+
+INFO:root:avgtime: 35.2190ms
+
+INFO:root:avgenery: 268.3320mJ
+
+INFO:root:memory frequency:420,frequency:1020,batch_size:4
+
+INFO:root:avgtime: 21.9999ms
+
+INFO:root:avgenery: 310.1003mJ
+
+INFO:root:memory frequency:420,frequency:1020,batch_size:2
+
+INFO:root:avgtime: 15.2887ms
+
+INFO:root:avgenery: 406.5359mJ
+
+INFO:root:memory frequency:420,frequency:1020,batch_size:1
+
+INFO:root:avgtime: 14.2980ms
+
+INFO:root:avgenery: 714.0594mJ
+
+INFO:root:memory frequency:420,frequency:960,batch_size:256
+
+INFO:root:avgtime: 1013.3913ms
+
+INFO:root:avgenery: 259.6813mJ
+
+INFO:root:memory frequency:420,frequency:960,batch_size:128
+
+INFO:root:avgtime: 512.2686ms
+
+INFO:root:avgenery: 261.7265mJ
+
+INFO:root:memory frequency:420,frequency:960,batch_size:64
+
+INFO:root:avgtime: 260.8889ms
+
+INFO:root:avgenery: 263.5430mJ
+
+INFO:root:memory frequency:420,frequency:960,batch_size:32
+
+INFO:root:avgtime: 132.5900ms
+
+INFO:root:avgenery: 263.6735mJ
+
+INFO:root:memory frequency:420,frequency:960,batch_size:16
+
+INFO:root:avgtime: 68.2883ms
+
+INFO:root:avgenery: 265.8389mJ
+
+INFO:root:memory frequency:420,frequency:960,batch_size:8
+
+INFO:root:avgtime: 35.7463ms
+
+INFO:root:avgenery: 269.0962mJ
+
+INFO:root:memory frequency:420,frequency:960,batch_size:4
+
+INFO:root:avgtime: 21.7411ms
+
+INFO:root:avgenery: 304.7692mJ
+
+INFO:root:memory frequency:420,frequency:960,batch_size:2
+
+INFO:root:avgtime: 15.7921ms
+
+INFO:root:avgenery: 413.7108mJ
+
+INFO:root:memory frequency:420,frequency:960,batch_size:1
+
+INFO:root:avgtime: 14.5674ms
+
+INFO:root:avgenery: 717.8899mJ
+
+INFO:root:memory frequency:420,frequency:900,batch_size:256
+
+INFO:root:avgtime: 999.9145ms
+
+INFO:root:avgenery: 256.2351mJ
+
+INFO:root:memory frequency:420,frequency:900,batch_size:128
+
+INFO:root:avgtime: 504.3888ms
+
+INFO:root:avgenery: 258.3982mJ
+
+INFO:root:memory frequency:420,frequency:900,batch_size:64
+
+INFO:root:avgtime: 258.6024ms
+
+INFO:root:avgenery: 261.7688mJ
+
+INFO:root:memory frequency:420,frequency:900,batch_size:32
+
+INFO:root:avgtime: 131.1847ms
+
+INFO:root:avgenery: 261.3692mJ
+
+INFO:root:memory frequency:420,frequency:900,batch_size:16
+
+INFO:root:avgtime: 67.6957ms
+
+INFO:root:avgenery: 263.5295mJ
+
+INFO:root:memory frequency:420,frequency:900,batch_size:8
+
+INFO:root:avgtime: 35.7898ms
+
+INFO:root:avgenery: 267.2274mJ
+
+INFO:root:memory frequency:420,frequency:900,batch_size:4
+
+INFO:root:avgtime: 22.3492ms
+
+INFO:root:avgenery: 308.8297mJ
+
+INFO:root:memory frequency:420,frequency:900,batch_size:2
+
+INFO:root:avgtime: 16.1237ms
+
+INFO:root:avgenery: 415.8894mJ
+
+INFO:root:memory frequency:420,frequency:900,batch_size:1
+
+INFO:root:avgtime: 15.0740ms
+
+INFO:root:avgenery: 730.5206mJ
+
+INFO:root:memory frequency:420,frequency:840,batch_size:256
+
+INFO:root:avgtime: 1014.9822ms
+
+INFO:root:avgenery: 256.3441mJ
+
+INFO:root:memory frequency:420,frequency:840,batch_size:128
+
+INFO:root:avgtime: 513.0920ms
+
+INFO:root:avgenery: 258.1504mJ
+
+INFO:root:memory frequency:420,frequency:840,batch_size:64
+
+INFO:root:avgtime: 262.3184ms
+
+INFO:root:avgenery: 261.0240mJ
+
+INFO:root:memory frequency:420,frequency:840,batch_size:32
+
+INFO:root:avgtime: 133.5671ms
+
+INFO:root:avgenery: 261.5283mJ
+
+INFO:root:memory frequency:420,frequency:840,batch_size:16
+
+INFO:root:avgtime: 69.0735ms
+
+INFO:root:avgenery: 263.3888mJ
+
+INFO:root:memory frequency:420,frequency:840,batch_size:8
+
+INFO:root:avgtime: 36.5089ms
+
+INFO:root:avgenery: 267.9085mJ
+
+INFO:root:memory frequency:420,frequency:840,batch_size:4
+
+INFO:root:avgtime: 23.0165ms
+
+INFO:root:avgenery: 312.3408mJ
+
+INFO:root:memory frequency:420,frequency:840,batch_size:2
+
+INFO:root:avgtime: 16.6499ms
+
+INFO:root:avgenery: 423.4689mJ
+
+INFO:root:memory frequency:420,frequency:840,batch_size:1
+
+INFO:root:avgtime: 15.4811ms
+
+INFO:root:avgenery: 740.5235mJ
+
+INFO:root:memory frequency:420,frequency:780,batch_size:256
+
+INFO:root:avgtime: 1004.7699ms
+
+INFO:root:avgenery: 252.9190mJ
+
+INFO:root:memory frequency:420,frequency:780,batch_size:128
+
+INFO:root:avgtime: 505.5591ms
+
+INFO:root:avgenery: 254.7855mJ
+
+INFO:root:memory frequency:420,frequency:780,batch_size:64
+
+INFO:root:avgtime: 259.3079ms
+
+INFO:root:avgenery: 258.5196mJ
+
+INFO:root:memory frequency:420,frequency:780,batch_size:32
+
+INFO:root:avgtime: 132.4724ms
+
+INFO:root:avgenery: 259.3631mJ
+
+INFO:root:memory frequency:420,frequency:780,batch_size:16
+
+INFO:root:avgtime: 68.5376ms
+
+INFO:root:avgenery: 262.2674mJ
+
+INFO:root:memory frequency:420,frequency:780,batch_size:8
+
+INFO:root:avgtime: 36.9219ms
+
+INFO:root:avgenery: 271.2154mJ
+
+INFO:root:memory frequency:420,frequency:780,batch_size:4
+
+INFO:root:avgtime: 23.5076ms
+
+INFO:root:avgenery: 316.7992mJ
+
+INFO:root:memory frequency:420,frequency:780,batch_size:2
+
+INFO:root:avgtime: 17.1979ms
+
+INFO:root:avgenery: 432.3723mJ
+
+INFO:root:memory frequency:420,frequency:780,batch_size:1
+
+INFO:root:avgtime: 16.1085ms
+
+INFO:root:avgenery: 763.4116mJ
+
+INFO:root:memory frequency:420,frequency:720,batch_size:256
+
+INFO:root:avgtime: 1016.7731ms
+
+INFO:root:avgenery: 253.0072mJ
+
+INFO:root:memory frequency:420,frequency:720,batch_size:128
+
+INFO:root:avgtime: 516.0437ms
+
+INFO:root:avgenery: 256.0423mJ
+
+INFO:root:memory frequency:420,frequency:720,batch_size:64
+
+INFO:root:avgtime: 263.0249ms
+
+INFO:root:avgenery: 259.3310mJ
+
+INFO:root:memory frequency:420,frequency:720,batch_size:32
+
+INFO:root:avgtime: 134.3649ms
+
+INFO:root:avgenery: 260.4786mJ
+
+INFO:root:memory frequency:420,frequency:720,batch_size:16
+
+INFO:root:avgtime: 70.0349ms
+
+INFO:root:avgenery: 264.4585mJ
+
+INFO:root:memory frequency:420,frequency:720,batch_size:8
+
+INFO:root:avgtime: 37.8288ms
+
+INFO:root:avgenery: 273.5512mJ
+
+INFO:root:memory frequency:420,frequency:720,batch_size:4
+
+INFO:root:avgtime: 24.3975ms
+
+INFO:root:avgenery: 323.5644mJ
+
+INFO:root:memory frequency:420,frequency:720,batch_size:2
+
+INFO:root:avgtime: 17.9096ms
+
+INFO:root:avgenery: 443.2478mJ
+
+INFO:root:memory frequency:420,frequency:720,batch_size:1
+
+INFO:root:avgtime: 16.7915ms
+
+INFO:root:avgenery: 785.2213mJ
+
+INFO:root:memory frequency:420,frequency:660,batch_size:256
+
+INFO:root:avgtime: 1006.6742ms
+
+INFO:root:avgenery: 250.6827mJ
+
+INFO:root:memory frequency:420,frequency:660,batch_size:128
+
+INFO:root:avgtime: 508.4197ms
+
+INFO:root:avgenery: 252.9663mJ
+
+INFO:root:memory frequency:420,frequency:660,batch_size:64
+
+INFO:root:avgtime: 261.0377ms
+
+INFO:root:avgenery: 256.2422mJ
+
+INFO:root:memory frequency:420,frequency:660,batch_size:32
+
+INFO:root:avgtime: 134.3546ms
+
+INFO:root:avgenery: 258.5765mJ
+
+INFO:root:memory frequency:420,frequency:660,batch_size:16
+
+INFO:root:avgtime: 69.8327ms
+
+INFO:root:avgenery: 262.3708mJ
+
+INFO:root:memory frequency:420,frequency:660,batch_size:8
+
+INFO:root:avgtime: 38.4224ms
+
+INFO:root:avgenery: 275.2172mJ
+
+INFO:root:memory frequency:420,frequency:660,batch_size:4
+
+INFO:root:avgtime: 24.9014ms
+
+INFO:root:avgenery: 327.7300mJ
+
+INFO:root:memory frequency:420,frequency:660,batch_size:2
+
+INFO:root:avgtime: 18.8290ms
+
+INFO:root:avgenery: 460.8141mJ
+
+INFO:root:memory frequency:420,frequency:660,batch_size:1
+
+INFO:root:avgtime: 17.6609ms
+
+INFO:root:avgenery: 814.5170mJ
+
+INFO:root:memory frequency:420,frequency:600,batch_size:256
+
+INFO:root:avgtime: 1012.0008ms
+
+INFO:root:avgenery: 250.0651mJ
+
+INFO:root:memory frequency:420,frequency:600,batch_size:128
+
+INFO:root:avgtime: 509.1543ms
+
+INFO:root:avgenery: 251.9652mJ
+
+INFO:root:memory frequency:420,frequency:600,batch_size:64
+
+INFO:root:avgtime: 262.5670ms
+
+INFO:root:avgenery: 256.8072mJ
+
+INFO:root:memory frequency:420,frequency:600,batch_size:32
+
+INFO:root:avgtime: 134.7931ms
+
+INFO:root:avgenery: 258.5502mJ
+
+INFO:root:memory frequency:420,frequency:600,batch_size:16
+
+INFO:root:avgtime: 70.5425ms
+
+INFO:root:avgenery: 262.8832mJ
+
+INFO:root:memory frequency:420,frequency:600,batch_size:8
+
+INFO:root:avgtime: 39.4673ms
+
+INFO:root:avgenery: 278.5752mJ
+
+INFO:root:memory frequency:420,frequency:600,batch_size:4
+
+INFO:root:avgtime: 26.0218ms
+
+INFO:root:avgenery: 334.9342mJ
+
+INFO:root:memory frequency:420,frequency:600,batch_size:2
+
+INFO:root:avgtime: 20.0078ms
+
+INFO:root:avgenery: 480.0109mJ
+
+INFO:root:memory frequency:420,frequency:600,batch_size:1
+
+INFO:root:avgtime: 18.7731ms
+
+INFO:root:avgenery: 855.7917mJ
+
+INFO:root:memory frequency:420,frequency:540,batch_size:256
+
+INFO:root:avgtime: 1011.2791ms
+
+INFO:root:avgenery: 248.8362mJ
+
+INFO:root:memory frequency:420,frequency:540,batch_size:128
+
+INFO:root:avgtime: 511.3895ms
+
+INFO:root:avgenery: 251.1607mJ
+
+INFO:root:memory frequency:420,frequency:540,batch_size:64
+
+INFO:root:avgtime: 262.9778ms
+
+INFO:root:avgenery: 255.8115mJ
+
+INFO:root:memory frequency:420,frequency:540,batch_size:32
+
+INFO:root:avgtime: 136.0795ms
+
+INFO:root:avgenery: 258.5268mJ
+
+INFO:root:memory frequency:420,frequency:540,batch_size:16
+
+INFO:root:avgtime: 72.1049ms
+
+INFO:root:avgenery: 265.7043mJ
+
+INFO:root:memory frequency:420,frequency:540,batch_size:8
+
+INFO:root:avgtime: 40.8903ms
+
+INFO:root:avgenery: 283.9099mJ
+
+INFO:root:memory frequency:420,frequency:540,batch_size:4
+
+INFO:root:avgtime: 27.4919ms
+
+INFO:root:avgenery: 348.2616mJ
+
+INFO:root:memory frequency:420,frequency:540,batch_size:2
+
+INFO:root:avgtime: 21.4833ms
+
+INFO:root:avgenery: 506.5350mJ
+
+INFO:root:memory frequency:420,frequency:540,batch_size:1
+
+INFO:root:avgtime: 20.1553ms
+
+INFO:root:avgenery: 908.2963mJ
+
